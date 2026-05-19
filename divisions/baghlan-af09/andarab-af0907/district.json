@@ -1,0 +1,47 @@
+{
+  "id": "AF0907",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اندراب",
+    "en": "Andarab",
+    "slug": "andarab-af0907"
+  },
+  "code": {
+    "id": "AF0907",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365401"
+  ],
+  "geo": {
+    "lat": "35.624",
+    "lon": "69.179"
+  },
+  "metadata": {},
+  "source": {}
+}

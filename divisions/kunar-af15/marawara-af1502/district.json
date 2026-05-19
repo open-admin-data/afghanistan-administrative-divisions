@@ -1,0 +1,47 @@
+{
+  "id": "AF1502",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مروره",
+    "en": "Marawara",
+    "slug": "marawara-af1502"
+  },
+  "code": {
+    "id": "AF1502",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285601"
+  ],
+  "geo": {
+    "lat": "34.862",
+    "lon": "71.229"
+  },
+  "metadata": {},
+  "source": {}
+}

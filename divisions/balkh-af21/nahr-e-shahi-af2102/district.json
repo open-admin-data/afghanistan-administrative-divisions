@@ -1,0 +1,47 @@
+{
+  "id": "AF2102",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نهر شاهی",
+    "en": "Nahr-e-Shahi",
+    "slug": "nahr-e-shahi-af2102"
+  },
+  "code": {
+    "id": "AF2102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175401"
+  ],
+  "geo": {
+    "lat": "36.841",
+    "lon": "67.181"
+  },
+  "metadata": {},
+  "source": {}
+}

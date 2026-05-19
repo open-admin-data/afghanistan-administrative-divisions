@@ -1,0 +1,47 @@
+{
+  "id": "AF1707",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "درایم",
+    "en": "Darayem",
+    "slug": "darayem-af1707"
+  },
+  "code": {
+    "id": "AF1707",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345601"
+  ],
+  "geo": {
+    "lat": "36.872",
+    "lon": "70.466"
+  },
+  "metadata": {},
+  "source": {}
+}

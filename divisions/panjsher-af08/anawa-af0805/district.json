@@ -1,0 +1,47 @@
+{
+  "id": "AF0805",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "عنابه",
+    "en": "Anawa",
+    "slug": "anawa-af0805"
+  },
+  "code": {
+    "id": "AF0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF08",
+    "level": 1,
+    "name": {
+      "local": "پنجشیر",
+      "en": "Panjsher",
+      "slug": "panjsher-af08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "155601"
+  ],
+  "geo": {
+    "lat": "35.224",
+    "lon": "69.405"
+  },
+  "metadata": {},
+  "source": {}
+}

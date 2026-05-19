@@ -1,0 +1,47 @@
+{
+  "id": "AF0306",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سالنگ",
+    "en": "Salang",
+    "slug": "salang-af0306"
+  },
+  "code": {
+    "id": "AF0306",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115501"
+  ],
+  "geo": {
+    "lat": "35.277",
+    "lon": "69.151"
+  },
+  "metadata": {},
+  "source": {}
+}

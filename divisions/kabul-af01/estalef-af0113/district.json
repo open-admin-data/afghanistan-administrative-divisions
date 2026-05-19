@@ -1,0 +1,47 @@
+{
+  "id": "AF0113",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "استالف",
+    "en": "Estalef",
+    "slug": "estalef-af0113"
+  },
+  "code": {
+    "id": "AF0113",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105801"
+  ],
+  "geo": {
+    "lat": "34.848",
+    "lon": "69.024"
+  },
+  "metadata": {},
+  "source": {}
+}

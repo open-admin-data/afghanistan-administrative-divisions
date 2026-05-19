@@ -1,0 +1,895 @@
+[
+  {
+    "id": "AF1214",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "برمل",
+      "en": "Barmal",
+      "slug": "barmal-af1214"
+    },
+    "code": {
+      "id": "AF1214",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246701"
+    ],
+    "geo": {
+      "lat": "32.714",
+      "lon": "69.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1216",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دیله",
+      "en": "Dila",
+      "slug": "dila-af1216"
+    },
+    "code": {
+      "id": "AF1216",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245301"
+    ],
+    "geo": {
+      "lat": "32.563",
+      "lon": "68.131"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1215",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گیان",
+      "en": "Giyan",
+      "slug": "giyan-af1215"
+    },
+    "code": {
+      "id": "AF1215",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246501"
+    ],
+    "geo": {
+      "lat": "32.975",
+      "lon": "69.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1208",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گومل",
+      "en": "Gomal",
+      "slug": "gomal-af1208"
+    },
+    "code": {
+      "id": "AF1208",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245501"
+    ],
+    "geo": {
+      "lat": "32.389",
+      "lon": "68.947"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1209",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جانی خیل",
+      "en": "Jani Khel",
+      "slug": "jani-khel-af1209"
+    },
+    "code": {
+      "id": "AF1209",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246901"
+    ],
+    "geo": {
+      "lat": "32.665",
+      "lon": "68.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1202",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "متاخان",
+      "en": "Mata Khan",
+      "slug": "mata-khan-af1202"
+    },
+    "code": {
+      "id": "AF1202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245901"
+    ],
+    "geo": {
+      "lat": "33.297",
+      "lon": "68.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1213",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نیکه",
+      "en": "Nika",
+      "slug": "nika-af1213"
+    },
+    "code": {
+      "id": "AF1213",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246201"
+    ],
+    "geo": {
+      "lat": "33.207",
+      "lon": "69.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1206",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اومنه",
+      "en": "Omna",
+      "slug": "omna-af1206"
+    },
+    "code": {
+      "id": "AF1206",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245201"
+    ],
+    "geo": {
+      "lat": "32.894",
+      "lon": "68.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1205",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سرروضه (سرحوضه)",
+      "en": "Sar Rawzah",
+      "slug": "sar-rawzah-af1205"
+    },
+    "code": {
+      "id": "AF1205",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246101"
+    ],
+    "geo": {
+      "lat": "33.063",
+      "lon": "69.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1201",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شرن",
+      "en": "Sharan",
+      "slug": "sharan-af1201"
+    },
+    "code": {
+      "id": "AF1201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246001"
+    ],
+    "geo": {
+      "lat": "33.2",
+      "lon": "68.728"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1210",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سروبی",
+      "en": "Surobi",
+      "slug": "surobi-af1210"
+    },
+    "code": {
+      "id": "AF1210",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246601"
+    ],
+    "geo": {
+      "lat": "32.752",
+      "lon": "69.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1219",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تروو",
+      "en": "Turwo",
+      "slug": "turwo-af1219"
+    },
+    "code": {
+      "id": "AF1219",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245101"
+    ],
+    "geo": {
+      "lat": "31.906",
+      "lon": "68.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1211",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارگون",
+      "en": "Urgun",
+      "slug": "urgun-af1211"
+    },
+    "code": {
+      "id": "AF1211",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246401"
+    ],
+    "geo": {
+      "lat": "32.978",
+      "lon": "69.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1217",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "وازه خواه",
+      "en": "Wazakhah",
+      "slug": "wazakhah-af1217"
+    },
+    "code": {
+      "id": "AF1217",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245401"
+    ],
+    "geo": {
+      "lat": "32.249",
+      "lon": "68.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1218",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "وړ ممی",
+      "en": "Wormamay",
+      "slug": "wormamay-af1218"
+    },
+    "code": {
+      "id": "AF1218",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246801"
+    ],
+    "geo": {
+      "lat": "31.933",
+      "lon": "68.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1204",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "یحی خیل",
+      "en": "Yahya Khel",
+      "slug": "yahya-khel-af1204"
+    },
+    "code": {
+      "id": "AF1204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245801"
+    ],
+    "geo": {
+      "lat": "32.923",
+      "lon": "68.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1203",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "یوسف خیل",
+      "en": "Yosuf Khel",
+      "slug": "yosuf-khel-af1203"
+    },
+    "code": {
+      "id": "AF1203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246001"
+    ],
+    "geo": {
+      "lat": "33.05",
+      "lon": "68.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1207",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زرغون شهر",
+      "en": "Zarghun Shahr",
+      "slug": "zarghun-shahr-af1207"
+    },
+    "code": {
+      "id": "AF1207",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "245701"
+    ],
+    "geo": {
+      "lat": "32.854",
+      "lon": "68.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1212",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زیړوک",
+      "en": "Ziruk",
+      "slug": "ziruk-af1212"
+    },
+    "code": {
+      "id": "AF1212",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF12",
+        "level": 1,
+        "name": {
+          "local": "پکتیکا",
+          "en": "Paktika",
+          "slug": "paktika-af12"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "246301"
+    ],
+    "geo": {
+      "lat": "33.156",
+      "lon": "69.327"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

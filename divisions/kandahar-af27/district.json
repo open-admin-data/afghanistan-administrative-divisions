@@ -1,0 +1,754 @@
+[
+  {
+    "id": "AF2702",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارغنداب",
+      "en": "Arghandab",
+      "slug": "arghandab-af2702"
+    },
+    "code": {
+      "id": "AF2702",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386001"
+    ],
+    "geo": {
+      "lat": "31.759",
+      "lon": "65.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2708",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارغستان",
+      "en": "Arghestan",
+      "slug": "arghestan-af2708"
+    },
+    "code": {
+      "id": "AF2708",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385401"
+    ],
+    "geo": {
+      "lat": "31.521",
+      "lon": "66.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2703",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دامان",
+      "en": "Daman",
+      "slug": "daman-af2703"
+    },
+    "code": {
+      "id": "AF2703",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385601"
+    ],
+    "geo": {
+      "lat": "31.208",
+      "lon": "65.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2709",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "غورک",
+      "en": "Ghorak",
+      "slug": "ghorak-af2709"
+    },
+    "code": {
+      "id": "AF2709",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386501"
+    ],
+    "geo": {
+      "lat": "32.045",
+      "lon": "65.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2701",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af2701"
+    },
+    "code": {
+      "id": "AF2701",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386601"
+    ],
+    "geo": {
+      "lat": "31.507",
+      "lon": "65.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2707",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خاکریز",
+      "en": "Khakrez",
+      "slug": "khakrez-af2707"
+    },
+    "code": {
+      "id": "AF2707",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385901"
+    ],
+    "geo": {
+      "lat": "32.011",
+      "lon": "65.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2715",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "معروف",
+      "en": "Maruf",
+      "slug": "maruf-af2715"
+    },
+    "code": {
+      "id": "AF2715",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385501"
+    ],
+    "geo": {
+      "lat": "31.446",
+      "lon": "67.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2710",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میوند",
+      "en": "Maywand",
+      "slug": "maywand-af2710"
+    },
+    "code": {
+      "id": "AF2710",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386201"
+    ],
+    "geo": {
+      "lat": "31.584",
+      "lon": "64.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2713",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میانشین",
+      "en": "Miyanshin",
+      "slug": "miyanshin-af2713"
+    },
+    "code": {
+      "id": "AF2713",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386401"
+    ],
+    "geo": {
+      "lat": "32.381",
+      "lon": "66.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2712",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نیش",
+      "en": "Nesh",
+      "slug": "nesh-af2712"
+    },
+    "code": {
+      "id": "AF2712",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385801"
+    ],
+    "geo": {
+      "lat": "32.389",
+      "lon": "65.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2704",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پنجوائی",
+      "en": "Panjwayi",
+      "slug": "panjwayi-af2704"
+    },
+    "code": {
+      "id": "AF2704",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386301"
+    ],
+    "geo": {
+      "lat": "31.073",
+      "lon": "65.159"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2716",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ریگ ( شگه )",
+      "en": "Reg",
+      "slug": "reg-af2716"
+    },
+    "code": {
+      "id": "AF2716",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385101"
+    ],
+    "geo": {
+      "lat": "30.124",
+      "lon": "65.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2706",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شاه ولی کوت",
+      "en": "Shah Wali Kot",
+      "slug": "shah-wali-kot-af2706"
+    },
+    "code": {
+      "id": "AF2706",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386801"
+    ],
+    "geo": {
+      "lat": "32.08",
+      "lon": "66.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2714",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شور آبک",
+      "en": "Shorabak",
+      "slug": "shorabak-af2714"
+    },
+    "code": {
+      "id": "AF2714",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385201"
+    ],
+    "geo": {
+      "lat": "30.168",
+      "lon": "66.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2711",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سپین بولدک",
+      "en": "Spin Boldak",
+      "slug": "spin-boldak-af2711"
+    },
+    "code": {
+      "id": "AF2711",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "385301"
+    ],
+    "geo": {
+      "lat": "30.987",
+      "lon": "66.169"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2705",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ژړۍ",
+      "en": "Zheray",
+      "slug": "zheray-af2705"
+    },
+    "code": {
+      "id": "AF2705",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF27",
+        "level": 1,
+        "name": {
+          "local": "کندهار",
+          "en": "Kandahar",
+          "slug": "kandahar-af27"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "386101"
+    ],
+    "geo": {
+      "lat": "31.642",
+      "lon": "65.399"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AF0701",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مهتر لام",
+    "en": "Mehtarlam",
+    "slug": "mehtarlam-af0701"
+  },
+  "code": {
+    "id": "AF0701",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF07",
+    "level": 1,
+    "name": {
+      "local": "لغمان",
+      "en": "Laghman",
+      "slug": "laghman-af07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "275501"
+  ],
+  "geo": {
+    "lat": "34.652",
+    "lon": "70.094"
+  },
+  "metadata": {},
+  "source": {}
+}

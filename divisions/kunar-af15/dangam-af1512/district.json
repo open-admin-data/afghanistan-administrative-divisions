@@ -1,0 +1,47 @@
+{
+  "id": "AF1512",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دانگام",
+    "en": "Dangam",
+    "slug": "dangam-af1512"
+  },
+  "code": {
+    "id": "AF1512",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285701"
+  ],
+  "geo": {
+    "lat": "35.002",
+    "lon": "71.437"
+  },
+  "metadata": {},
+  "source": {}
+}

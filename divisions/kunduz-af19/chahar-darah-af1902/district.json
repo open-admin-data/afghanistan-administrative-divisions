@@ -1,0 +1,47 @@
+{
+  "id": "AF1902",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چهار دره",
+    "en": "Chahar Darah",
+    "slug": "chahar-darah-af1902"
+  },
+  "code": {
+    "id": "AF1902",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF19",
+    "level": 1,
+    "name": {
+      "local": "کندز",
+      "en": "Kunduz",
+      "slug": "kunduz-af19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "355401"
+  ],
+  "geo": {
+    "lat": "36.654",
+    "lon": "68.567"
+  },
+  "metadata": {},
+  "source": {}
+}

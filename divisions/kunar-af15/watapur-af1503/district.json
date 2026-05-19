@@ -1,0 +1,47 @@
+{
+  "id": "AF1503",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "وته پور",
+    "en": "Watapur",
+    "slug": "watapur-af1503"
+  },
+  "code": {
+    "id": "AF1503",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "286201"
+  ],
+  "geo": {
+    "lat": "34.996",
+    "lon": "71.082"
+  },
+  "metadata": {},
+  "source": {}
+}

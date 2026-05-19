@@ -1,0 +1,801 @@
+[
+  {
+    "id": "AF1803",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بهارک",
+      "en": "Baharak",
+      "slug": "baharak-af1803"
+    },
+    "code": {
+      "id": "AF1803",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376201"
+    ],
+    "geo": {
+      "lat": "36.833",
+      "lon": "69.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1804",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بنگی",
+      "en": "Bangi",
+      "slug": "bangi-af1804"
+    },
+    "code": {
+      "id": "AF1804",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375601"
+    ],
+    "geo": {
+      "lat": "36.613",
+      "lon": "69.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1816",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چاه آب",
+      "en": "Chahab",
+      "slug": "chahab-af1816"
+    },
+    "code": {
+      "id": "AF1816",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375501"
+    ],
+    "geo": {
+      "lat": "37.45",
+      "lon": "69.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1805",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چال",
+      "en": "Chal",
+      "slug": "chal-af1805"
+    },
+    "code": {
+      "id": "AF1805",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376301"
+    ],
+    "geo": {
+      "lat": "36.497",
+      "lon": "69.559"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1815",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "درقد",
+      "en": "Darqad",
+      "slug": "darqad-af1815"
+    },
+    "code": {
+      "id": "AF1815",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375801"
+    ],
+    "geo": {
+      "lat": "37.454",
+      "lon": "69.499"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1812",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دشت قلعه",
+      "en": "Dasht-e-Qala",
+      "slug": "dasht-e-qala-af1812"
+    },
+    "code": {
+      "id": "AF1812",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375901"
+    ],
+    "geo": {
+      "lat": "37.202",
+      "lon": "69.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1811",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اشکمش",
+      "en": "Eshkmesh",
+      "slug": "eshkmesh-af1811"
+    },
+    "code": {
+      "id": "AF1811",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376501"
+    ],
+    "geo": {
+      "lat": "36.367",
+      "lon": "69.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1808",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فرخار",
+      "en": "Farkhar",
+      "slug": "farkhar-af1808"
+    },
+    "code": {
+      "id": "AF1808",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375201"
+    ],
+    "geo": {
+      "lat": "36.47",
+      "lon": "69.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1802",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "هزار سموچ",
+      "en": "Hazar Sumuch",
+      "slug": "hazar-sumuch-af1802"
+    },
+    "code": {
+      "id": "AF1802",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376101"
+    ],
+    "geo": {
+      "lat": "36.926",
+      "lon": "69.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1807",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کلفگان",
+      "en": "Kalafgan",
+      "slug": "kalafgan-af1807"
+    },
+    "code": {
+      "id": "AF1807",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375301"
+    ],
+    "geo": {
+      "lat": "36.788",
+      "lon": "69.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1814",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواجه بهاوالدین",
+      "en": "Khwaja Bahawuddin",
+      "slug": "khwaja-bahawuddin-af1814"
+    },
+    "code": {
+      "id": "AF1814",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375701"
+    ],
+    "geo": {
+      "lat": "37.339",
+      "lon": "69.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1809",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواجه غار",
+      "en": "Khwaja Ghar",
+      "slug": "khwaja-ghar-af1809"
+    },
+    "code": {
+      "id": "AF1809",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376001"
+    ],
+    "geo": {
+      "lat": "37.018",
+      "lon": "69.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1806",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نمک آب",
+      "en": "Namak Ab",
+      "slug": "namak-ab-af1806"
+    },
+    "code": {
+      "id": "AF1806",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376401"
+    ],
+    "geo": {
+      "lat": "36.472",
+      "lon": "69.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1810",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "رُستاق",
+      "en": "Rostaq",
+      "slug": "rostaq-af1810"
+    },
+    "code": {
+      "id": "AF1810",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375401"
+    ],
+    "geo": {
+      "lat": "37.106",
+      "lon": "69.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1801",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تالقان",
+      "en": "Taloqan",
+      "slug": "taloqan-af1801"
+    },
+    "code": {
+      "id": "AF1801",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376101"
+    ],
+    "geo": {
+      "lat": "36.741",
+      "lon": "69.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1813",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ورسج",
+      "en": "Warsaj",
+      "slug": "warsaj-af1813"
+    },
+    "code": {
+      "id": "AF1813",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "375101"
+    ],
+    "geo": {
+      "lat": "36.096",
+      "lon": "70.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1817",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ینگی قلعه",
+      "en": "Yangi Qala",
+      "slug": "yangi-qala-af1817"
+    },
+    "code": {
+      "id": "AF1817",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF18",
+        "level": 1,
+        "name": {
+          "local": "تخار",
+          "en": "Takhar",
+          "slug": "takhar-af18"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "376601"
+    ],
+    "geo": {
+      "lat": "37.461",
+      "lon": "69.67"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "AF1302",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "احمد آبا",
+    "en": "Ahmadaba",
+    "slug": "ahmadaba-af1302"
+  },
+  "code": {
+    "id": "AF1302",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225501"
+  ],
+  "geo": {
+    "lat": "33.773",
+    "lon": "69.339"
+  },
+  "metadata": {},
+  "source": {}
+}

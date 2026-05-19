@@ -1,0 +1,29 @@
+{
+  "id": "AF12",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "پکتیکا",
+    "en": "Paktika",
+    "slug": "paktika-af12"
+  },
+  "code": {
+    "id": "AF12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.477",
+    "lon": "68.744"
+  },
+  "metadata": {},
+  "source": {}
+}

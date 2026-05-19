@@ -1,0 +1,47 @@
+{
+  "id": "AF1805",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چال",
+    "en": "Chal",
+    "slug": "chal-af1805"
+  },
+  "code": {
+    "id": "AF1805",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "376301"
+  ],
+  "geo": {
+    "lat": "36.497",
+    "lon": "69.559"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1513",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چپه دره",
+    "en": "Chapa Dara",
+    "slug": "chapa-dara-af1513"
+  },
+  "code": {
+    "id": "AF1513",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "286401"
+  ],
+  "geo": {
+    "lat": "34.959",
+    "lon": "70.703"
+  },
+  "metadata": {},
+  "source": {}
+}

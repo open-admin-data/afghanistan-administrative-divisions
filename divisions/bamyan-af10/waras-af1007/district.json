@@ -1,0 +1,47 @@
+{
+  "id": "AF1007",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ورث",
+    "en": "Waras",
+    "slug": "waras-af1007"
+  },
+  "code": {
+    "id": "AF1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF10",
+    "level": 1,
+    "name": {
+      "local": "بامیان",
+      "en": "Bamyan",
+      "slug": "bamyan-af10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "165301"
+  ],
+  "geo": {
+    "lat": "34.15",
+    "lon": "66.977"
+  },
+  "metadata": {},
+  "source": {}
+}

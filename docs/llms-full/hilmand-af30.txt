@@ -1,0 +1,74 @@
+# Hilmand — Afghanistan Administrative Divisions
+
+> 13 districts
+> Code: AF30
+> Coordinates: 31.154, 64.047
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### باغران (Baghran)
+
+Code: AF3012, Coordinates: 33.126, 65.165
+
+
+### دیشو (Deh-e-Shu)
+
+Code: AF3013, Coordinates: 29.879, 63.174
+
+
+### گرم سیر (Garmser)
+
+Code: AF3006, Coordinates: 30.31, 64.168
+
+
+### کجکی (Kajaki)
+
+Code: AF3010, Coordinates: 32.531, 65.02
+
+
+### لشکرگاه (Lashkargah)
+
+Code: AF3001, Coordinates: 31.45, 64.511
+
+
+### موسی قلعه (Musa Qala)
+
+Code: AF3009, Coordinates: 32.389, 64.754
+
+
+### نادعلی (Nad-e-Ali)
+
+Code: AF3002, Coordinates: 31.578, 63.792
+
+
+### نهر سراج (Nahr-e-Saraj)
+
+Code: AF3004, Coordinates: 31.867, 64.576
+
+
+### ناوه بارکزائی (Nawa-e-Barakzaiy)
+
+Code: AF3003, Coordinates: 31.335, 64.213
+
+
+### نوزاد (Nawzad)
+
+Code: AF3007, Coordinates: 32.526, 64.496
+
+
+### ریگ خان نشین (Reg-i-Khan Nishin)
+
+Code: AF3011, Coordinates: 30.83, 63.481
+
+
+### سنگین (Sangin)
+
+Code: AF3008, Coordinates: 32.096, 64.978
+
+
+### واشیر (Washer)
+
+Code: AF3005, Coordinates: 32.103, 63.949
+
+

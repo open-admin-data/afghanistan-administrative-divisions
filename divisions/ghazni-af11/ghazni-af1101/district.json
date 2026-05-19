@@ -1,0 +1,47 @@
+{
+  "id": "AF1101",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "غزنی",
+    "en": "Ghazni",
+    "slug": "ghazni-af1101"
+  },
+  "code": {
+    "id": "AF1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236101"
+  ],
+  "geo": {
+    "lat": "33.534",
+    "lon": "68.437"
+  },
+  "metadata": {},
+  "source": {}
+}

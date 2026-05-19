@@ -1,0 +1,47 @@
+{
+  "id": "AF0911",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تاله وبرفک",
+    "en": "Tala Wa Barfak",
+    "slug": "tala-wa-barfak-af0911"
+  },
+  "code": {
+    "id": "AF0911",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365101"
+  ],
+  "geo": {
+    "lat": "35.275",
+    "lon": "68.381"
+  },
+  "metadata": {},
+  "source": {}
+}

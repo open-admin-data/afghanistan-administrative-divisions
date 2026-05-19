@@ -1,0 +1,29 @@
+{
+  "id": "AF33",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "فراه",
+    "en": "Farah",
+    "slug": "farah-af33"
+  },
+  "code": {
+    "id": "AF33",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.608",
+    "lon": "62.302"
+  },
+  "metadata": {},
+  "source": {}
+}

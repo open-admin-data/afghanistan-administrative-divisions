@@ -1,0 +1,47 @@
+{
+  "id": "AF1704",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "یفتل سفلی",
+    "en": "Yaftal-e-Sufla",
+    "slug": "yaftal-e-sufla-af1704"
+  },
+  "code": {
+    "id": "AF1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347701"
+  ],
+  "geo": {
+    "lat": "37.312",
+    "lon": "70.371"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0507",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ازره",
+    "en": "Azra",
+    "slug": "azra-af0507"
+  },
+  "code": {
+    "id": "AF0507",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145201"
+  ],
+  "geo": {
+    "lat": "34.109",
+    "lon": "69.625"
+  },
+  "metadata": {},
+  "source": {}
+}

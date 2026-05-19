@@ -1,0 +1,47 @@
+{
+  "id": "AF0704",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "علینگار",
+    "en": "Alingar",
+    "slug": "alingar-af0704"
+  },
+  "code": {
+    "id": "AF0704",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF07",
+    "level": 1,
+    "name": {
+      "local": "لغمان",
+      "en": "Laghman",
+      "slug": "laghman-af07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "275201"
+  ],
+  "geo": {
+    "lat": "34.817",
+    "lon": "70.411"
+  },
+  "metadata": {},
+  "source": {}
+}

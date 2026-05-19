@@ -1,0 +1,47 @@
+{
+  "id": "AF2504",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شهید حساس",
+    "en": "Shahid-e-Hassas",
+    "slug": "shahid-e-hassas-af2504"
+  },
+  "code": {
+    "id": "AF2504",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF25",
+    "level": 1,
+    "name": {
+      "local": "ارزگان",
+      "en": "Uruzgan",
+      "slug": "uruzgan-af25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF25",
+      "level": 1,
+      "name": {
+        "local": "ارزگان",
+        "en": "Uruzgan",
+        "slug": "uruzgan-af25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "415301"
+  ],
+  "geo": {
+    "lat": "32.923",
+    "lon": "65.478"
+  },
+  "metadata": {},
+  "source": {}
+}

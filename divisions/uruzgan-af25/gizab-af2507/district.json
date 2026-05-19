@@ -1,0 +1,47 @@
+{
+  "id": "AF2507",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گیزاب",
+    "en": "Gizab",
+    "slug": "gizab-af2507"
+  },
+  "code": {
+    "id": "AF2507",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF25",
+    "level": 1,
+    "name": {
+      "local": "ارزگان",
+      "en": "Uruzgan",
+      "slug": "uruzgan-af25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF25",
+      "level": 1,
+      "name": {
+        "local": "ارزگان",
+        "en": "Uruzgan",
+        "slug": "uruzgan-af25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425201"
+  ],
+  "geo": {
+    "lat": "33.367",
+    "lon": "66.358"
+  },
+  "metadata": {},
+  "source": {}
+}

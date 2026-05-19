@@ -1,0 +1,64 @@
+# Jawzjan — Afghanistan Administrative Divisions
+
+> 11 districts
+> Code: AF28
+> Coordinates: 36.829, 65.854
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### آقچه (Aqcha)
+
+Code: AF2807, Coordinates: 36.904, 66.208
+
+
+### درز آب (Darzab)
+
+Code: AF2811, Coordinates: 36.004, 65.373
+
+
+### فیض آباد (Fayzabad)
+
+Code: AF2808, Coordinates: 36.705, 66.33
+
+
+### خمیاب (Khamyab)
+
+Code: AF2806, Coordinates: 37.314, 65.721
+
+
+### خانقا (Khanaqa)
+
+Code: AF2803, Coordinates: 36.784, 66.129
+
+
+### خواجه دوکوه (Khwaja Dukoh)
+
+Code: AF2802, Coordinates: 36.948, 65.612
+
+
+### مردیان (Mardyan)
+
+Code: AF2809, Coordinates: 37.052, 66.329
+
+
+### منگجک (Mingajik)
+
+Code: AF2804, Coordinates: 37.055, 65.989
+
+
+### قرقین (Qarqin)
+
+Code: AF2810, Coordinates: 37.291, 66.094
+
+
+### قوش تیپه (Qush Tepa)
+
+Code: AF2805, Coordinates: 36.21, 65.363
+
+
+### شبرغان (Shiberghan)
+
+Code: AF2801, Coordinates: 36.591, 65.748
+
+

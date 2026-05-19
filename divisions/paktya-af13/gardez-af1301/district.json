@@ -1,0 +1,47 @@
+{
+  "id": "AF1301",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گردیز",
+    "en": "Gardez",
+    "slug": "gardez-af1301"
+  },
+  "code": {
+    "id": "AF1301",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225501"
+  ],
+  "geo": {
+    "lat": "33.601",
+    "lon": "69.242"
+  },
+  "metadata": {},
+  "source": {}
+}

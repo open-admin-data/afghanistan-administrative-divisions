@@ -1,0 +1,613 @@
+[
+  {
+    "id": "AF1409",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "باک",
+      "en": "Bak",
+      "slug": "bak-af1409"
+    },
+    "code": {
+      "id": "AF1409",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255801"
+    ],
+    "geo": {
+      "lat": "33.53",
+      "lon": "70.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1403",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گربز",
+      "en": "Gurbuz",
+      "slug": "gurbuz-af1403"
+    },
+    "code": {
+      "id": "AF1403",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255601"
+    ],
+    "geo": {
+      "lat": "33.202",
+      "lon": "69.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1413",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جاجی میدان",
+      "en": "Jaji Maydan",
+      "slug": "jaji-maydan-af1413"
+    },
+    "code": {
+      "id": "AF1413",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "256001"
+    ],
+    "geo": {
+      "lat": "33.641",
+      "lon": "70.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1402",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مندوزائی",
+      "en": "Mandozayi",
+      "slug": "mandozayi-af1402"
+    },
+    "code": {
+      "id": "AF1402",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255501"
+    ],
+    "geo": {
+      "lat": "33.317",
+      "lon": "69.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1401",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خوست (متون)",
+      "en": "Matun",
+      "slug": "matun-af1401"
+    },
+    "code": {
+      "id": "AF1401",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255601"
+    ],
+    "geo": {
+      "lat": "33.34",
+      "lon": "70.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1405",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "موسی خیل",
+      "en": "Musa Khel",
+      "slug": "musa-khel-af1405"
+    },
+    "code": {
+      "id": "AF1405",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "256101"
+    ],
+    "geo": {
+      "lat": "33.571",
+      "lon": "69.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1406",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نادرشاه کوت",
+      "en": "Nadir Shah Kot",
+      "slug": "nadir-shah-kot-af1406"
+    },
+    "code": {
+      "id": "AF1406",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255401"
+    ],
+    "geo": {
+      "lat": "33.381",
+      "lon": "69.683"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1410",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلندر",
+      "en": "Qalandar",
+      "slug": "qalandar-af1410"
+    },
+    "code": {
+      "id": "AF1410",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "256201"
+    ],
+    "geo": {
+      "lat": "33.492",
+      "lon": "69.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1407",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "صبری",
+      "en": "Sabari",
+      "slug": "sabari-af1407"
+    },
+    "code": {
+      "id": "AF1407",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255901"
+    ],
+    "geo": {
+      "lat": "33.543",
+      "lon": "69.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1412",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شمل",
+      "en": "Shamal",
+      "slug": "shamal-af1412"
+    },
+    "code": {
+      "id": "AF1412",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255301"
+    ],
+    "geo": {
+      "lat": "33.314",
+      "lon": "69.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1411",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سپیره",
+      "en": "Spera",
+      "slug": "spera-af1411"
+    },
+    "code": {
+      "id": "AF1411",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255101"
+    ],
+    "geo": {
+      "lat": "33.157",
+      "lon": "69.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1404",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تنی",
+      "en": "Tani",
+      "slug": "tani-af1404"
+    },
+    "code": {
+      "id": "AF1404",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255201"
+    ],
+    "geo": {
+      "lat": "33.193",
+      "lon": "69.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1408",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تری زائی",
+      "en": "Terezayi",
+      "slug": "terezayi-af1408"
+    },
+    "code": {
+      "id": "AF1408",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF14",
+        "level": 1,
+        "name": {
+          "local": "خوست",
+          "en": "Khost",
+          "slug": "khost-af14"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "255701"
+    ],
+    "geo": {
+      "lat": "33.383",
+      "lon": "70.191"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

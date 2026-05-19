@@ -1,0 +1,47 @@
+{
+  "id": "AF0302",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بگرام",
+    "en": "Bagram",
+    "slug": "bagram-af0302"
+  },
+  "code": {
+    "id": "AF0302",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115701"
+  ],
+  "geo": {
+    "lat": "34.924",
+    "lon": "69.331"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1603",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "واما",
+    "en": "Wama",
+    "slug": "wama-af1603"
+  },
+  "code": {
+    "id": "AF1603",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295201"
+  ],
+  "geo": {
+    "lat": "35.182",
+    "lon": "70.796"
+  },
+  "metadata": {},
+  "source": {}
+}

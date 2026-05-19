@@ -1,0 +1,47 @@
+{
+  "id": "AF0908",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ده صلاح",
+    "en": "Deh Salah",
+    "slug": "deh-salah-af0908"
+  },
+  "code": {
+    "id": "AF0908",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365501"
+  ],
+  "geo": {
+    "lat": "35.745",
+    "lon": "69.364"
+  },
+  "metadata": {},
+  "source": {}
+}

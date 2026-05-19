@@ -1,0 +1,47 @@
+{
+  "id": "AF3301",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "فراه",
+    "en": "Farah",
+    "slug": "farah-af3301"
+  },
+  "code": {
+    "id": "AF3301",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315601"
+  ],
+  "geo": {
+    "lat": "32.245",
+    "lon": "62.229"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AF22",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "سرپل",
+    "en": "Sar-e-Pul",
+    "slug": "sar-e-pul-af22"
+  },
+  "code": {
+    "id": "AF22",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.714",
+    "lon": "66.139"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1106",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جغتو",
+    "en": "Jaghatu",
+    "slug": "jaghatu-af1106"
+  },
+  "code": {
+    "id": "AF1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236201"
+  ],
+  "geo": {
+    "lat": "33.528",
+    "lon": "68.069"
+  },
+  "metadata": {},
+  "source": {}
+}

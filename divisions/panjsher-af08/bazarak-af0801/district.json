@@ -1,0 +1,47 @@
+{
+  "id": "AF0801",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بازارک",
+    "en": "Bazarak",
+    "slug": "bazarak-af0801"
+  },
+  "code": {
+    "id": "AF0801",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF08",
+    "level": 1,
+    "name": {
+      "local": "پنجشیر",
+      "en": "Panjsher",
+      "slug": "panjsher-af08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "155301"
+  ],
+  "geo": {
+    "lat": "35.375",
+    "lon": "69.511"
+  },
+  "metadata": {},
+  "source": {}
+}

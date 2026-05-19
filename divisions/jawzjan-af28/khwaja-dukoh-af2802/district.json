@@ -1,0 +1,47 @@
+{
+  "id": "AF2802",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خواجه دوکوه",
+    "en": "Khwaja Dukoh",
+    "slug": "khwaja-dukoh-af2802"
+  },
+  "code": {
+    "id": "AF2802",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195301"
+  ],
+  "geo": {
+    "lat": "36.948",
+    "lon": "65.612"
+  },
+  "metadata": {},
+  "source": {}
+}

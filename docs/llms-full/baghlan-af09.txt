@@ -1,0 +1,84 @@
+# Baghlan — Afghanistan Administrative Divisions
+
+> 15 districts
+> Code: AF09
+> Coordinates: 35.804, 68.914
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### اندراب (Andarab)
+
+Code: AF0907, Coordinates: 35.624, 69.179
+
+
+### بغلان جدید (Baghlan-e-Jadid)
+
+Code: AF0905, Coordinates: 36.327, 68.624
+
+
+### بورکه (Burka)
+
+Code: AF0910, Coordinates: 36.241, 69.163
+
+
+### دهنۀ غوری (Dahana-e-Ghori)
+
+Code: AF0902, Coordinates: 35.823, 68.458
+
+
+### ده صلاح (Deh Salah)
+
+Code: AF0908, Coordinates: 35.745, 69.364
+
+
+### دوشی (Doshi)
+
+Code: AF0903, Coordinates: 35.621, 68.666
+
+
+### فرنگ وغارو (Fereng Wa Gharu)
+
+Code: AF0915, Coordinates: 36.137, 69.681
+
+
+### گذرگاه نور (Guzargah-e-Nur)
+
+Code: AF0914, Coordinates: 36.229, 69.575
+
+
+### خنجان (Khinjan)
+
+Code: AF0906, Coordinates: 35.471, 68.974
+
+
+### خوست و فرنگ (Khost Wa Fereng)
+
+Code: AF0913, Coordinates: 35.904, 69.665
+
+
+### خواجه هجران (Khwaja Hejran)
+
+Code: AF0909, Coordinates: 35.966, 69.294
+
+
+### نهرین (Nahrin)
+
+Code: AF0904, Coordinates: 35.998, 69.028
+
+
+### پل حصار (Pul-e-Hisar)
+
+Code: AF0912, Coordinates: 35.584, 69.56
+
+
+### پلخمری (Pul-e-Khumri)
+
+Code: AF0901, Coordinates: 36.01, 68.668
+
+
+### تاله وبرفک (Tala Wa Barfak)
+
+Code: AF0911, Coordinates: 35.275, 68.381
+
+

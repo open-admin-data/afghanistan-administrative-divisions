@@ -1,0 +1,47 @@
+{
+  "id": "AF1803",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بهارک",
+    "en": "Baharak",
+    "slug": "baharak-af1803"
+  },
+  "code": {
+    "id": "AF1803",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "376201"
+  ],
+  "geo": {
+    "lat": "36.833",
+    "lon": "69.395"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2902",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پشتون کوټ",
+    "en": "Pashtun Kot",
+    "slug": "pashtun-kot-af2902"
+  },
+  "code": {
+    "id": "AF2902",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185901"
+  ],
+  "geo": {
+    "lat": "35.81",
+    "lon": "64.778"
+  },
+  "metadata": {},
+  "source": {}
+}

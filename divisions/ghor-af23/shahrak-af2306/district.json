@@ -1,0 +1,47 @@
+{
+  "id": "AF2306",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شهرک",
+    "en": "Shahrak",
+    "slug": "shahrak-af2306"
+  },
+  "code": {
+    "id": "AF2306",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325801"
+  ],
+  "geo": {
+    "lat": "34.102",
+    "lon": "64.336"
+  },
+  "metadata": {},
+  "source": {}
+}

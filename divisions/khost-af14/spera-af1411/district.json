@@ -1,0 +1,47 @@
+{
+  "id": "AF1411",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سپیره",
+    "en": "Spera",
+    "slug": "spera-af1411"
+  },
+  "code": {
+    "id": "AF1411",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255101"
+  ],
+  "geo": {
+    "lat": "33.157",
+    "lon": "69.491"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF0507",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ازره",
+      "en": "Azra",
+      "slug": "azra-af0507"
+    },
+    "code": {
+      "id": "AF0507",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145201"
+    ],
+    "geo": {
+      "lat": "34.109",
+      "lon": "69.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0502",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "برکی برک",
+      "en": "Baraki Barak",
+      "slug": "baraki-barak-af0502"
+    },
+    "code": {
+      "id": "AF0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145401"
+    ],
+    "geo": {
+      "lat": "33.93",
+      "lon": "68.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0503",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چرخ",
+      "en": "Charkh",
+      "slug": "charkh-af0503"
+    },
+    "code": {
+      "id": "AF0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145501"
+    ],
+    "geo": {
+      "lat": "33.816",
+      "lon": "68.92"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0506",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خروار",
+      "en": "Kharwar",
+      "slug": "kharwar-af0506"
+    },
+    "code": {
+      "id": "AF0506",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145601"
+    ],
+    "geo": {
+      "lat": "33.695",
+      "lon": "68.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0504",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خوشی",
+      "en": "Khoshi",
+      "slug": "khoshi-af0504"
+    },
+    "code": {
+      "id": "AF0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145301"
+    ],
+    "geo": {
+      "lat": "34.001",
+      "lon": "69.275"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0505",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "محمدآغه",
+      "en": "Mohammad Agha",
+      "slug": "mohammad-agha-af0505"
+    },
+    "code": {
+      "id": "AF0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145101"
+    ],
+    "geo": {
+      "lat": "34.21",
+      "lon": "69.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0501",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پل علم",
+      "en": "Pul-e-Alam",
+      "slug": "pul-e-alam-af0501"
+    },
+    "code": {
+      "id": "AF0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF05",
+        "level": 1,
+        "name": {
+          "local": "لوگر",
+          "en": "Logar",
+          "slug": "logar-af05"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "145401"
+    ],
+    "geo": {
+      "lat": "33.972",
+      "lon": "69.053"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

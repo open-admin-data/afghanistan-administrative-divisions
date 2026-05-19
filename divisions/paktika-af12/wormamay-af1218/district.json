@@ -1,0 +1,47 @@
+{
+  "id": "AF1218",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "وړ ممی",
+    "en": "Wormamay",
+    "slug": "wormamay-af1218"
+  },
+  "code": {
+    "id": "AF1218",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246801"
+  ],
+  "geo": {
+    "lat": "31.933",
+    "lon": "68.835"
+  },
+  "metadata": {},
+  "source": {}
+}

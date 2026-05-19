@@ -1,0 +1,64 @@
+# Zabul — Afghanistan Administrative Divisions
+
+> 11 districts
+> Code: AF26
+> Coordinates: 32.2, 67.148
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ارغنداب (Arghandab)
+
+Code: AF2605, Coordinates: 32.512, 66.987
+
+
+### اتغر (Atghar)
+
+Code: AF2608, Coordinates: 31.725, 67.385
+
+
+### دای چوپان (Daychopan)
+
+Code: AF2607, Coordinates: 32.613, 66.691
+
+
+### کاکړ (Kakar)
+
+Code: AF2611, Coordinates: 32.862, 67.183
+
+
+### میزان (Mizan)
+
+Code: AF2604, Coordinates: 32.179, 66.506
+
+
+### نوبهار (Nawbahar)
+
+Code: AF2609, Coordinates: 32.217, 67.571
+
+
+### قلات (Qalat)
+
+Code: AF2601, Coordinates: 32.21, 66.999
+
+
+### شاه جوی (Shah Joi)
+
+Code: AF2606, Coordinates: 32.498, 67.395
+
+
+### شملزائی (Shamul Zayi)
+
+Code: AF2610, Coordinates: 31.821, 67.77
+
+
+### شینکی (Shinkay)
+
+Code: AF2603, Coordinates: 31.92, 67.156
+
+
+### ترنک و جلدک (Tarnak Wa Jaldak)
+
+Code: AF2602, Coordinates: 31.907, 66.516
+
+

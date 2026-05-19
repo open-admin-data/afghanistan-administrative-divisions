@@ -1,0 +1,47 @@
+{
+  "id": "AF1213",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نیکه",
+    "en": "Nika",
+    "slug": "nika-af1213"
+  },
+  "code": {
+    "id": "AF1213",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246201"
+  ],
+  "geo": {
+    "lat": "33.207",
+    "lon": "69.24"
+  },
+  "metadata": {},
+  "source": {}
+}

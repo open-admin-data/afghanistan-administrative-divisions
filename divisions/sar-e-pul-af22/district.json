@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF2207",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بلخاب",
+      "en": "Balkhab",
+      "slug": "balkhab-af2207"
+    },
+    "code": {
+      "id": "AF2207",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215201"
+    ],
+    "geo": {
+      "lat": "35.458",
+      "lon": "66.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2206",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گوسفندی",
+      "en": "Gosfandi",
+      "slug": "gosfandi-af2206"
+    },
+    "code": {
+      "id": "AF2206",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215501"
+    ],
+    "geo": {
+      "lat": "36.063",
+      "lon": "66.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2203",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوهستانات",
+      "en": "Kohestanat",
+      "slug": "kohestanat-af2203"
+    },
+    "code": {
+      "id": "AF2203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215101"
+    ],
+    "geo": {
+      "lat": "35.438",
+      "lon": "65.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2205",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سانچارك",
+      "en": "Sancharak",
+      "slug": "sancharak-af2205"
+    },
+    "code": {
+      "id": "AF2205",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215301"
+    ],
+    "geo": {
+      "lat": "35.842",
+      "lon": "66.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2201",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سرپل",
+      "en": "Sar-e-Pul",
+      "slug": "sar-e-pul-af2201"
+    },
+    "code": {
+      "id": "AF2201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215901"
+    ],
+    "geo": {
+      "lat": "36.284",
+      "lon": "66.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2202",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "صیاد",
+      "en": "Sayad",
+      "slug": "sayad-af2202"
+    },
+    "code": {
+      "id": "AF2202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215601"
+    ],
+    "geo": {
+      "lat": "36.15",
+      "lon": "65.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2204",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سوزمه قلعه",
+      "en": "Sozmaqala",
+      "slug": "sozmaqala-af2204"
+    },
+    "code": {
+      "id": "AF2204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF22",
+        "level": 1,
+        "name": {
+          "local": "سرپل",
+          "en": "Sar-e-Pul",
+          "slug": "sar-e-pul-af22"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "215401"
+    ],
+    "geo": {
+      "lat": "36.02",
+      "lon": "66.233"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

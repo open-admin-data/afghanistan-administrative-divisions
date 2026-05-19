@@ -1,0 +1,47 @@
+{
+  "id": "AF0603",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سرخ رود",
+    "en": "Surkh Rod",
+    "slug": "surkh-rod-af0603"
+  },
+  "code": {
+    "id": "AF0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "265601"
+  ],
+  "geo": {
+    "lat": "34.395",
+    "lon": "70.277"
+  },
+  "metadata": {},
+  "source": {}
+}

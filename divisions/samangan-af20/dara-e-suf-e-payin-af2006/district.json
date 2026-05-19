@@ -1,0 +1,47 @@
+{
+  "id": "AF2006",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "درۀ صوف پائین",
+    "en": "Dara-e-Suf-e-Payin",
+    "slug": "dara-e-suf-e-payin-af2006"
+  },
+  "code": {
+    "id": "AF2006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205301"
+  ],
+  "geo": {
+    "lat": "36.025",
+    "lon": "67.347"
+  },
+  "metadata": {},
+  "source": {}
+}

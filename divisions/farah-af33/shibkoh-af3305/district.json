@@ -1,0 +1,47 @@
+{
+  "id": "AF3305",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شیب کوه",
+    "en": "Shibkoh",
+    "slug": "shibkoh-af3305"
+  },
+  "code": {
+    "id": "AF3305",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315201"
+  ],
+  "geo": {
+    "lat": "32.109",
+    "lon": "61.369"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AF08",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "پنجشیر",
+    "en": "Panjsher",
+    "slug": "panjsher-af08"
+  },
+  "code": {
+    "id": "AF08",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.446",
+    "lon": "69.795"
+  },
+  "metadata": {},
+  "source": {}
+}

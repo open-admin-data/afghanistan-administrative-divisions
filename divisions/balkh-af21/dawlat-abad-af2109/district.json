@@ -1,0 +1,47 @@
+{
+  "id": "AF2109",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دولت آباد",
+    "en": "Dawlat Abad",
+    "slug": "dawlat-abad-af2109"
+  },
+  "code": {
+    "id": "AF2109",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175201"
+  ],
+  "geo": {
+    "lat": "37.064",
+    "lon": "66.798"
+  },
+  "metadata": {},
+  "source": {}
+}

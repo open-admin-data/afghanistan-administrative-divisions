@@ -1,0 +1,47 @@
+{
+  "id": "AF1702",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ارگو",
+    "en": "Argo",
+    "slug": "argo-af1702"
+  },
+  "code": {
+    "id": "AF1702",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345701"
+  ],
+  "geo": {
+    "lat": "37.063",
+    "lon": "70.425"
+  },
+  "metadata": {},
+  "source": {}
+}

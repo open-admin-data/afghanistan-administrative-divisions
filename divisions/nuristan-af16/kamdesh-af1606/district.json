@@ -1,0 +1,47 @@
+{
+  "id": "AF1606",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کامدیش",
+    "en": "Kamdesh",
+    "slug": "kamdesh-af1606"
+  },
+  "code": {
+    "id": "AF1606",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295401"
+  ],
+  "geo": {
+    "lat": "35.484",
+    "lon": "71.315"
+  },
+  "metadata": {},
+  "source": {}
+}

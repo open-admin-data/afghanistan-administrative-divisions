@@ -1,0 +1,47 @@
+{
+  "id": "AF3102",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "آب کمری",
+    "en": "Ab Kamari",
+    "slug": "ab-kamari-af3102"
+  },
+  "code": {
+    "id": "AF3102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF31",
+    "level": 1,
+    "name": {
+      "local": "بادغیس",
+      "en": "Badghis",
+      "slug": "badghis-af31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "335101"
+  ],
+  "geo": {
+    "lat": "34.925",
+    "lon": "62.902"
+  },
+  "metadata": {},
+  "source": {}
+}

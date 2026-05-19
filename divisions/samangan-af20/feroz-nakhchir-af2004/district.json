@@ -1,0 +1,47 @@
+{
+  "id": "AF2004",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "فیروز نخچیر",
+    "en": "Feroz Nakhchir",
+    "slug": "feroz-nakhchir-af2004"
+  },
+  "code": {
+    "id": "AF2004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205401"
+  ],
+  "geo": {
+    "lat": "36.456",
+    "lon": "67.577"
+  },
+  "metadata": {},
+  "source": {}
+}

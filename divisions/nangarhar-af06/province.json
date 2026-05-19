@@ -1,0 +1,29 @@
+{
+  "id": "AF06",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ننگرهار",
+    "en": "Nangarhar",
+    "slug": "nangarhar-af06"
+  },
+  "code": {
+    "id": "AF06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.274",
+    "lon": "70.476"
+  },
+  "metadata": {},
+  "source": {}
+}

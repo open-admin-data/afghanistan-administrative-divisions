@@ -1,0 +1,47 @@
+{
+  "id": "AF2603",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شینکی",
+    "en": "Shinkay",
+    "slug": "shinkay-af2603"
+  },
+  "code": {
+    "id": "AF2603",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405801"
+  ],
+  "geo": {
+    "lat": "31.92",
+    "lon": "67.156"
+  },
+  "metadata": {},
+  "source": {}
+}

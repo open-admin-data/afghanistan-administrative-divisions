@@ -1,0 +1,47 @@
+{
+  "id": "AF3013",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دیشو",
+    "en": "Deh-e-Shu",
+    "slug": "deh-e-shu-af3013"
+  },
+  "code": {
+    "id": "AF3013",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395101"
+  ],
+  "geo": {
+    "lat": "29.879",
+    "lon": "63.174"
+  },
+  "metadata": {},
+  "source": {}
+}

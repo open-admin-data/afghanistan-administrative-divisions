@@ -1,0 +1,47 @@
+{
+  "id": "AF1901",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کندز",
+    "en": "Kunduz",
+    "slug": "kunduz-af1901"
+  },
+  "code": {
+    "id": "AF1901",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF19",
+    "level": 1,
+    "name": {
+      "local": "کندز",
+      "en": "Kunduz",
+      "slug": "kunduz-af19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "355801"
+  ],
+  "geo": {
+    "lat": "36.797",
+    "lon": "68.859"
+  },
+  "metadata": {},
+  "source": {}
+}

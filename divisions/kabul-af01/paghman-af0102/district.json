@@ -1,0 +1,47 @@
+{
+  "id": "AF0102",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پغمان",
+    "en": "Paghman",
+    "slug": "paghman-af0102"
+  },
+  "code": {
+    "id": "AF0102",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "106401"
+  ],
+  "geo": {
+    "lat": "34.548",
+    "lon": "68.937"
+  },
+  "metadata": {},
+  "source": {}
+}

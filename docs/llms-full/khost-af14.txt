@@ -1,0 +1,74 @@
+# Khost — Afghanistan Administrative Divisions
+
+> 13 districts
+> Code: AF14
+> Coordinates: 33.377, 69.834
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### باک (Bak)
+
+Code: AF1409, Coordinates: 33.53, 70.077
+
+
+### گربز (Gurbuz)
+
+Code: AF1403, Coordinates: 33.202, 69.942
+
+
+### جاجی میدان (Jaji Maydan)
+
+Code: AF1413, Coordinates: 33.641, 70.079
+
+
+### مندوزائی (Mandozayi)
+
+Code: AF1402, Coordinates: 33.317, 69.78
+
+
+### خوست (متون) (Matun)
+
+Code: AF1401, Coordinates: 33.34, 70.004
+
+
+### موسی خیل (Musa Khel)
+
+Code: AF1405, Coordinates: 33.571, 69.667
+
+
+### نادرشاه کوت (Nadir Shah Kot)
+
+Code: AF1406, Coordinates: 33.381, 69.683
+
+
+### قلندر (Qalandar)
+
+Code: AF1410, Coordinates: 33.492, 69.659
+
+
+### صبری (Sabari)
+
+Code: AF1407, Coordinates: 33.543, 69.912
+
+
+### شمل (Shamal)
+
+Code: AF1412, Coordinates: 33.314, 69.532
+
+
+### سپیره (Spera)
+
+Code: AF1411, Coordinates: 33.157, 69.491
+
+
+### تنی (Tani)
+
+Code: AF1404, Coordinates: 33.193, 69.731
+
+
+### تری زائی (Terezayi)
+
+Code: AF1408, Coordinates: 33.383, 70.191
+
+

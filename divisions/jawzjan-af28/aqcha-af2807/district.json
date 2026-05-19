@@ -1,0 +1,47 @@
+{
+  "id": "AF2807",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "آقچه",
+    "en": "Aqcha",
+    "slug": "aqcha-af2807"
+  },
+  "code": {
+    "id": "AF2807",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195601"
+  ],
+  "geo": {
+    "lat": "36.904",
+    "lon": "66.208"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,89 @@
+# Hirat — Afghanistan Administrative Divisions
+
+> 16 districts
+> Code: AF32
+> Coordinates: 34.197, 62.131
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ادرسکن (Adraskan)
+
+Code: AF3209, Coordinates: 33.705, 61.999
+
+
+### چشت شریف (Chisht-e-Sharif)
+
+Code: AF3216, Coordinates: 34.445, 63.957
+
+
+### فرسی (Farsi)
+
+Code: AF3215, Coordinates: 33.843, 63.284
+
+
+### غوریان (Ghoryan)
+
+Code: AF3211, Coordinates: 34.18, 61.154
+
+
+### گلران (Gulran)
+
+Code: AF3208, Coordinates: 35.134, 61.571
+
+
+### گذره (Guzara)
+
+Code: AF3203, Coordinates: 34.036, 62.039
+
+
+### هرات (Hirat)
+
+Code: AF3201, Coordinates: 34.372, 62.183
+
+
+### انجیل (Injil)
+
+Code: AF3202, Coordinates: 34.469, 62.179
+
+
+### کرُخ (Karukh)
+
+Code: AF3204, Coordinates: 34.504, 62.663
+
+
+### کوهسان (Kohsan)
+
+Code: AF3213, Coordinates: 34.614, 61.167
+
+
+### کُشک (Kushk)
+
+Code: AF3207, Coordinates: 35.004, 62.24
+
+
+### کُشک کهنه (Kushk-e-Kuhna)
+
+Code: AF3210, Coordinates: 34.886, 62.629
+
+
+### اوبی (Obe)
+
+Code: AF3212, Coordinates: 34.36, 63.25
+
+
+### پشتون زرغون (Pashtun Zarghun)
+
+Code: AF3206, Coordinates: 34.184, 62.755
+
+
+### شیندند (Shindand)
+
+Code: AF3214, Coordinates: 33.254, 62.381
+
+
+### زنده جان (Zindajan)
+
+Code: AF3205, Coordinates: 34.371, 61.82
+
+

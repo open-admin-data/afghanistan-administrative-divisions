@@ -1,0 +1,47 @@
+{
+  "id": "AF0806",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شُتل",
+    "en": "Shutul",
+    "slug": "shutul-af0806"
+  },
+  "code": {
+    "id": "AF0806",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF08",
+    "level": 1,
+    "name": {
+      "local": "پنجشیر",
+      "en": "Panjsher",
+      "slug": "panjsher-af08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "155201"
+  ],
+  "geo": {
+    "lat": "35.293",
+    "lon": "69.303"
+  },
+  "metadata": {},
+  "source": {}
+}

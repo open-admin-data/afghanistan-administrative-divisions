@@ -1,0 +1,47 @@
+{
+  "id": "AF0705",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دولت شاه",
+    "en": "Dawlatshah",
+    "slug": "dawlatshah-af0705"
+  },
+  "code": {
+    "id": "AF0705",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF07",
+    "level": 1,
+    "name": {
+      "local": "لغمان",
+      "en": "Laghman",
+      "slug": "laghman-af07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "275401"
+  ],
+  "geo": {
+    "lat": "35.036",
+    "lon": "69.999"
+  },
+  "metadata": {},
+  "source": {}
+}

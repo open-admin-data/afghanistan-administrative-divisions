@@ -1,0 +1,47 @@
+{
+  "id": "AF0614",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گوشته",
+    "en": "Goshta",
+    "slug": "goshta-af0614"
+  },
+  "code": {
+    "id": "AF0614",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "267101"
+  ],
+  "geo": {
+    "lat": "34.448",
+    "lon": "70.867"
+  },
+  "metadata": {},
+  "source": {}
+}

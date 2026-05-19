@@ -1,0 +1,47 @@
+{
+  "id": "AF3302",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پشترود",
+    "en": "Pushtrod",
+    "slug": "pushtrod-af3302"
+  },
+  "code": {
+    "id": "AF3302",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315601"
+  ],
+  "geo": {
+    "lat": "32.487",
+    "lon": "62.059"
+  },
+  "metadata": {},
+  "source": {}
+}

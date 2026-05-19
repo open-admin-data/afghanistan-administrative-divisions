@@ -1,0 +1,47 @@
+{
+  "id": "AF1410",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قلندر",
+    "en": "Qalandar",
+    "slug": "qalandar-af1410"
+  },
+  "code": {
+    "id": "AF1410",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "256201"
+  ],
+  "geo": {
+    "lat": "33.492",
+    "lon": "69.659"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2402",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شهرستان",
+    "en": "Shahrestan",
+    "slug": "shahrestan-af2402"
+  },
+  "code": {
+    "id": "AF2402",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425301"
+  ],
+  "geo": {
+    "lat": "33.697",
+    "lon": "66.484"
+  },
+  "metadata": {},
+  "source": {}
+}

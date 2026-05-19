@@ -1,0 +1,47 @@
+{
+  "id": "AF0904",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نهرین",
+    "en": "Nahrin",
+    "slug": "nahrin-af0904"
+  },
+  "code": {
+    "id": "AF0904",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "366001"
+  ],
+  "geo": {
+    "lat": "35.998",
+    "lon": "69.028"
+  },
+  "metadata": {},
+  "source": {}
+}

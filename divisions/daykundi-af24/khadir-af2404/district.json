@@ -1,0 +1,47 @@
+{
+  "id": "AF2404",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خدیر",
+    "en": "Khadir",
+    "slug": "khadir-af2404"
+  },
+  "code": {
+    "id": "AF2404",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425701"
+  ],
+  "geo": {
+    "lat": "33.892",
+    "lon": "65.763"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,29 @@
+{
+  "id": "AF28",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "جوزجان",
+    "en": "Jawzjan",
+    "slug": "jawzjan-af28"
+  },
+  "code": {
+    "id": "AF28",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.829",
+    "lon": "65.854"
+  },
+  "metadata": {},
+  "source": {}
+}

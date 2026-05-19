@@ -1,0 +1,29 @@
+{
+  "id": "AF32",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "هرات",
+    "en": "Hirat",
+    "slug": "hirat-af32"
+  },
+  "code": {
+    "id": "AF32",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.197",
+    "lon": "62.131"
+  },
+  "metadata": {},
+  "source": {}
+}

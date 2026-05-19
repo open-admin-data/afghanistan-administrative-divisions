@@ -1,0 +1,707 @@
+[
+  {
+    "id": "AF2106",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af2106"
+    },
+    "code": {
+      "id": "AF2106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175101"
+    ],
+    "geo": {
+      "lat": "36.816",
+      "lon": "66.89"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2111",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چار بولک",
+      "en": "Char Bolak",
+      "slug": "char-bolak-af2111"
+    },
+    "code": {
+      "id": "AF2111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "176101"
+    ],
+    "geo": {
+      "lat": "36.833",
+      "lon": "66.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2104",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چار کنت",
+      "en": "Charkent",
+      "slug": "charkent-af2104"
+    },
+    "code": {
+      "id": "AF2104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175801"
+    ],
+    "geo": {
+      "lat": "36.368",
+      "lon": "67.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2108",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چمتال",
+      "en": "Chemtal",
+      "slug": "chemtal-af2108"
+    },
+    "code": {
+      "id": "AF2108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "176001"
+    ],
+    "geo": {
+      "lat": "36.518",
+      "lon": "66.601"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2109",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دولت آباد",
+      "en": "Dawlat Abad",
+      "slug": "dawlat-abad-af2109"
+    },
+    "code": {
+      "id": "AF2109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175201"
+    ],
+    "geo": {
+      "lat": "37.064",
+      "lon": "66.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2103",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دهدادی",
+      "en": "Dehdadi",
+      "slug": "dehdadi-af2103"
+    },
+    "code": {
+      "id": "AF2103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175901"
+    ],
+    "geo": {
+      "lat": "36.637",
+      "lon": "67.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2113",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کلدار",
+      "en": "Kaldar",
+      "slug": "kaldar-af2113"
+    },
+    "code": {
+      "id": "AF2113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175502"
+    ],
+    "geo": {
+      "lat": "37.127",
+      "lon": "67.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2114",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کشنده",
+      "en": "Keshendeh",
+      "slug": "keshendeh-af2114"
+    },
+    "code": {
+      "id": "AF2114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "176301"
+    ],
+    "geo": {
+      "lat": "36.005",
+      "lon": "66.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2105",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مارمُل",
+      "en": "Marmul",
+      "slug": "marmul-af2105"
+    },
+    "code": {
+      "id": "AF2105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175701"
+    ],
+    "geo": {
+      "lat": "36.635",
+      "lon": "67.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2101",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مزار شریف",
+      "en": "Mazar-e-Sharif",
+      "slug": "mazar-e-sharif-af2101"
+    },
+    "code": {
+      "id": "AF2101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "171102"
+    ],
+    "geo": {
+      "lat": "36.71",
+      "lon": "67.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2102",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نهر شاهی",
+      "en": "Nahr-e-Shahi",
+      "slug": "nahr-e-shahi-af2102"
+    },
+    "code": {
+      "id": "AF2102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175401"
+    ],
+    "geo": {
+      "lat": "36.841",
+      "lon": "67.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2116",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهرک حیرتان",
+      "en": "Sharak-e-Hayratan",
+      "slug": "sharak-e-hayratan-af2116"
+    },
+    "code": {
+      "id": "AF2116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175502"
+    ],
+    "geo": {
+      "lat": "37.186",
+      "lon": "67.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2107",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شولگره",
+      "en": "Sholgareh",
+      "slug": "sholgareh-af2107"
+    },
+    "code": {
+      "id": "AF2107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "176201"
+    ],
+    "geo": {
+      "lat": "36.303",
+      "lon": "66.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2112",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شور تیپه",
+      "en": "Shortepa",
+      "slug": "shortepa-af2112"
+    },
+    "code": {
+      "id": "AF2112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "175301"
+    ],
+    "geo": {
+      "lat": "37.257",
+      "lon": "66.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2115",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زاری",
+      "en": "Zari",
+      "slug": "zari-af2115"
+    },
+    "code": {
+      "id": "AF2115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF21",
+        "level": 1,
+        "name": {
+          "local": "بلخ",
+          "en": "Balkh",
+          "slug": "balkh-af21"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "176401"
+    ],
+    "geo": {
+      "lat": "35.847",
+      "lon": "66.726"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

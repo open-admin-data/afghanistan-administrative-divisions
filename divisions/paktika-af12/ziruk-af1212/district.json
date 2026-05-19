@@ -1,0 +1,47 @@
+{
+  "id": "AF1212",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "زیړوک",
+    "en": "Ziruk",
+    "slug": "ziruk-af1212"
+  },
+  "code": {
+    "id": "AF1212",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246301"
+  ],
+  "geo": {
+    "lat": "33.156",
+    "lon": "69.327"
+  },
+  "metadata": {},
+  "source": {}
+}

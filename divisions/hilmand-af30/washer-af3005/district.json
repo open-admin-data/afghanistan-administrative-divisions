@@ -1,0 +1,47 @@
+{
+  "id": "AF3005",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "واشیر",
+    "en": "Washer",
+    "slug": "washer-af3005"
+  },
+  "code": {
+    "id": "AF3005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "396201"
+  ],
+  "geo": {
+    "lat": "32.103",
+    "lon": "63.949"
+  },
+  "metadata": {},
+  "source": {}
+}

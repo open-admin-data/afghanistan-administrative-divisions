@@ -1,0 +1,47 @@
+{
+  "id": "AF0104",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بگرامی",
+    "en": "Bagrami",
+    "slug": "bagrami-af0104"
+  },
+  "code": {
+    "id": "AF0104",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105301"
+  ],
+  "geo": {
+    "lat": "34.484",
+    "lon": "69.336"
+  },
+  "metadata": {},
+  "source": {}
+}

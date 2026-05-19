@@ -1,0 +1,47 @@
+{
+  "id": "AF0613",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوټ",
+    "en": "Kot",
+    "slug": "kot-af0613"
+  },
+  "code": {
+    "id": "AF0613",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "266401"
+  ],
+  "geo": {
+    "lat": "34.153",
+    "lon": "70.595"
+  },
+  "metadata": {},
+  "source": {}
+}

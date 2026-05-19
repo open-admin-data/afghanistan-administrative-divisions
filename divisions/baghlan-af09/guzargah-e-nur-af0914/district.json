@@ -1,0 +1,47 @@
+{
+  "id": "AF0914",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گذرگاه نور",
+    "en": "Guzargah-e-Nur",
+    "slug": "guzargah-e-nur-af0914"
+  },
+  "code": {
+    "id": "AF0914",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365801"
+  ],
+  "geo": {
+    "lat": "36.229",
+    "lon": "69.575"
+  },
+  "metadata": {},
+  "source": {}
+}

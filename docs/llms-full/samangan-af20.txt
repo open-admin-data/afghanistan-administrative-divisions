@@ -1,0 +1,49 @@
+# Samangan — Afghanistan Administrative Divisions
+
+> 8 districts
+> Code: AF20
+> Coordinates: 35.972, 67.702
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ایبک (Aybak)
+
+Code: AF2001, Coordinates: 36.207, 67.987
+
+
+### درۀ صوف بالا (Dara-e-Suf-e-Bala)
+
+Code: AF2007, Coordinates: 35.681, 67.282
+
+
+### درۀ صوف پائین (Dara-e-Suf-e-Payin)
+
+Code: AF2006, Coordinates: 36.025, 67.347
+
+
+### فیروز نخچیر (Feroz Nakhchir)
+
+Code: AF2004, Coordinates: 36.456, 67.577
+
+
+### حضرت سلطان (Hazrat-e-Sultan)
+
+Code: AF2002, Coordinates: 36.383, 67.865
+
+
+### خلم (Khulm)
+
+Code: AF2008, Coordinates: 36.815, 67.743
+
+
+### خرم وسارباغ (Khuram Wa Sarbagh)
+
+Code: AF2003, Coordinates: 35.987, 68.122
+
+
+### روی دو آب (Ruy-e-Duab)
+
+Code: AF2005, Coordinates: 35.635, 67.817
+
+

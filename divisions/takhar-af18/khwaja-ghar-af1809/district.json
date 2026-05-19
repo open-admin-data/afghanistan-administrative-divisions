@@ -1,0 +1,47 @@
+{
+  "id": "AF1809",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خواجه غار",
+    "en": "Khwaja Ghar",
+    "slug": "khwaja-ghar-af1809"
+  },
+  "code": {
+    "id": "AF1809",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "376001"
+  ],
+  "geo": {
+    "lat": "37.018",
+    "lon": "69.398"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,44 @@
+# Logar — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF05
+> Coordinates: 34.013, 69.168
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ازره (Azra)
+
+Code: AF0507, Coordinates: 34.109, 69.625
+
+
+### برکی برک (Baraki Barak)
+
+Code: AF0502, Coordinates: 33.93, 68.885
+
+
+### چرخ (Charkh)
+
+Code: AF0503, Coordinates: 33.816, 68.92
+
+
+### خروار (Kharwar)
+
+Code: AF0506, Coordinates: 33.695, 68.892
+
+
+### خوشی (Khoshi)
+
+Code: AF0504, Coordinates: 34.001, 69.275
+
+
+### محمدآغه (Mohammad Agha)
+
+Code: AF0505, Coordinates: 34.21, 69.179
+
+
+### پل علم (Pul-e-Alam)
+
+Code: AF0501, Coordinates: 33.972, 69.053
+
+

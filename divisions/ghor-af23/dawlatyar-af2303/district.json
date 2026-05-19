@@ -1,0 +1,47 @@
+{
+  "id": "AF2303",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دولت یار",
+    "en": "Dawlatyar",
+    "slug": "dawlatyar-af2303"
+  },
+  "code": {
+    "id": "AF2303",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325501"
+  ],
+  "geo": {
+    "lat": "34.58",
+    "lon": "65.751"
+  },
+  "metadata": {},
+  "source": {}
+}

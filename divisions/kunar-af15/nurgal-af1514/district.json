@@ -1,0 +1,47 @@
+{
+  "id": "AF1514",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نورگل",
+    "en": "Nurgal",
+    "slug": "nurgal-af1514"
+  },
+  "code": {
+    "id": "AF1514",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285201"
+  ],
+  "geo": {
+    "lat": "34.694",
+    "lon": "70.731"
+  },
+  "metadata": {},
+  "source": {}
+}

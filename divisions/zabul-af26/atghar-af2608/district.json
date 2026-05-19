@@ -1,0 +1,47 @@
+{
+  "id": "AF2608",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اتغر",
+    "en": "Atghar",
+    "slug": "atghar-af2608"
+  },
+  "code": {
+    "id": "AF2608",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "406001"
+  ],
+  "geo": {
+    "lat": "31.725",
+    "lon": "67.385"
+  },
+  "metadata": {},
+  "source": {}
+}

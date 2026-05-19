@@ -1,0 +1,47 @@
+{
+  "id": "AF1001",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بامیان",
+    "en": "Bamyan",
+    "slug": "bamyan-af1001"
+  },
+  "code": {
+    "id": "AF1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF10",
+    "level": 1,
+    "name": {
+      "local": "بامیان",
+      "en": "Bamyan",
+      "slug": "bamyan-af10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "165401"
+  ],
+  "geo": {
+    "lat": "34.795",
+    "lon": "67.684"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2108",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چمتال",
+    "en": "Chemtal",
+    "slug": "chemtal-af2108"
+  },
+  "code": {
+    "id": "AF2108",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "176001"
+  ],
+  "geo": {
+    "lat": "36.518",
+    "lon": "66.601"
+  },
+  "metadata": {},
+  "source": {}
+}

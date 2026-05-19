@@ -1,0 +1,47 @@
+{
+  "id": "AF2407",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سنگ تخت",
+    "en": "Sang-e-Takht",
+    "slug": "sang-e-takht-af2407"
+  },
+  "code": {
+    "id": "AF2407",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425601"
+  ],
+  "geo": {
+    "lat": "34.196",
+    "lon": "65.923"
+  },
+  "metadata": {},
+  "source": {}
+}

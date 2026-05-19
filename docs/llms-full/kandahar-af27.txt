@@ -1,0 +1,89 @@
+# Kandahar — Afghanistan Administrative Divisions
+
+> 16 districts
+> Code: AF27
+> Coordinates: 31.045, 65.71
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ارغنداب (Arghandab)
+
+Code: AF2702, Coordinates: 31.759, 65.644
+
+
+### ارغستان (Arghestan)
+
+Code: AF2708, Coordinates: 31.521, 66.554
+
+
+### دامان (Daman)
+
+Code: AF2703, Coordinates: 31.208, 65.78
+
+
+### غورک (Ghorak)
+
+Code: AF2709, Coordinates: 32.045, 65.204
+
+
+### کندهار (Kandahar)
+
+Code: AF2701, Coordinates: 31.507, 65.715
+
+
+### خاکریز (Khakrez)
+
+Code: AF2707, Coordinates: 32.011, 65.503
+
+
+### معروف (Maruf)
+
+Code: AF2715, Coordinates: 31.446, 67.253
+
+
+### میوند (Maywand)
+
+Code: AF2710, Coordinates: 31.584, 64.973
+
+
+### میانشین (Miyanshin)
+
+Code: AF2713, Coordinates: 32.381, 66.336
+
+
+### نیش (Nesh)
+
+Code: AF2712, Coordinates: 32.389, 65.705
+
+
+### پنجوائی (Panjwayi)
+
+Code: AF2704, Coordinates: 31.073, 65.159
+
+
+### ریگ ( شگه ) (Reg)
+
+Code: AF2716, Coordinates: 30.124, 65.173
+
+
+### شاه ولی کوت (Shah Wali Kot)
+
+Code: AF2706, Coordinates: 32.08, 66.006
+
+
+### شور آبک (Shorabak)
+
+Code: AF2714, Coordinates: 30.168, 66.04
+
+
+### سپین بولدک (Spin Boldak)
+
+Code: AF2711, Coordinates: 30.987, 66.169
+
+
+### ژړۍ (Zheray)
+
+Code: AF2705, Coordinates: 31.642, 65.399
+
+

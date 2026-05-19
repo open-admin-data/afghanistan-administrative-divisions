@@ -1,0 +1,29 @@
+{
+  "id": "AF20",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "سمنگان",
+    "en": "Samangan",
+    "slug": "samangan-af20"
+  },
+  "code": {
+    "id": "AF20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.972",
+    "lon": "67.702"
+  },
+  "metadata": {},
+  "source": {}
+}

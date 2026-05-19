@@ -1,0 +1,47 @@
+{
+  "id": "AF0620",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نازیان",
+    "en": "Nazyan",
+    "slug": "nazyan-af0620"
+  },
+  "code": {
+    "id": "AF0620",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "266501"
+  ],
+  "geo": {
+    "lat": "34.056",
+    "lon": "70.826"
+  },
+  "metadata": {},
+  "source": {}
+}

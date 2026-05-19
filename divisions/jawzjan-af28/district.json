@@ -1,0 +1,519 @@
+[
+  {
+    "id": "AF2807",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "آقچه",
+      "en": "Aqcha",
+      "slug": "aqcha-af2807"
+    },
+    "code": {
+      "id": "AF2807",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195601"
+    ],
+    "geo": {
+      "lat": "36.904",
+      "lon": "66.208"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2811",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "درز آب",
+      "en": "Darzab",
+      "slug": "darzab-af2811"
+    },
+    "code": {
+      "id": "AF2811",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195801"
+    ],
+    "geo": {
+      "lat": "36.004",
+      "lon": "65.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2808",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فیض آباد",
+      "en": "Fayzabad",
+      "slug": "fayzabad-af2808"
+    },
+    "code": {
+      "id": "AF2808",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195501"
+    ],
+    "geo": {
+      "lat": "36.705",
+      "lon": "66.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2806",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خمیاب",
+      "en": "Khamyab",
+      "slug": "khamyab-af2806"
+    },
+    "code": {
+      "id": "AF2806",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195201"
+    ],
+    "geo": {
+      "lat": "37.314",
+      "lon": "65.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2803",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خانقا",
+      "en": "Khanaqa",
+      "slug": "khanaqa-af2803"
+    },
+    "code": {
+      "id": "AF2803",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195401"
+    ],
+    "geo": {
+      "lat": "36.784",
+      "lon": "66.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2802",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواجه دوکوه",
+      "en": "Khwaja Dukoh",
+      "slug": "khwaja-dukoh-af2802"
+    },
+    "code": {
+      "id": "AF2802",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195301"
+    ],
+    "geo": {
+      "lat": "36.948",
+      "lon": "65.612"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2809",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مردیان",
+      "en": "Mardyan",
+      "slug": "mardyan-af2809"
+    },
+    "code": {
+      "id": "AF2809",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195101"
+    ],
+    "geo": {
+      "lat": "37.052",
+      "lon": "66.329"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2804",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "منگجک",
+      "en": "Mingajik",
+      "slug": "mingajik-af2804"
+    },
+    "code": {
+      "id": "AF2804",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195901"
+    ],
+    "geo": {
+      "lat": "37.055",
+      "lon": "65.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2810",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قرقین",
+      "en": "Qarqin",
+      "slug": "qarqin-af2810"
+    },
+    "code": {
+      "id": "AF2810",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "196001"
+    ],
+    "geo": {
+      "lat": "37.291",
+      "lon": "66.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2805",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قوش تیپه",
+      "en": "Qush Tepa",
+      "slug": "qush-tepa-af2805"
+    },
+    "code": {
+      "id": "AF2805",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "195701"
+    ],
+    "geo": {
+      "lat": "36.21",
+      "lon": "65.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2801",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شبرغان",
+      "en": "Shiberghan",
+      "slug": "shiberghan-af2801"
+    },
+    "code": {
+      "id": "AF2801",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF28",
+        "level": 1,
+        "name": {
+          "local": "جوزجان",
+          "en": "Jawzjan",
+          "slug": "jawzjan-af28"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "216001"
+    ],
+    "geo": {
+      "lat": "36.591",
+      "lon": "65.748"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

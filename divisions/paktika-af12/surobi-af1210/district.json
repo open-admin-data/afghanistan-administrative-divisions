@@ -1,0 +1,47 @@
+{
+  "id": "AF1210",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سروبی",
+    "en": "Surobi",
+    "slug": "surobi-af1210"
+  },
+  "code": {
+    "id": "AF1210",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246601"
+  ],
+  "geo": {
+    "lat": "32.752",
+    "lon": "69.046"
+  },
+  "metadata": {},
+  "source": {}
+}

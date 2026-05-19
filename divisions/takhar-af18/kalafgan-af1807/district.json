@@ -1,0 +1,47 @@
+{
+  "id": "AF1807",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کلفگان",
+    "en": "Kalafgan",
+    "slug": "kalafgan-af1807"
+  },
+  "code": {
+    "id": "AF1807",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375301"
+  ],
+  "geo": {
+    "lat": "36.788",
+    "lon": "69.915"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1810",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "رُستاق",
+    "en": "Rostaq",
+    "slug": "rostaq-af1810"
+  },
+  "code": {
+    "id": "AF1810",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375401"
+  ],
+  "geo": {
+    "lat": "37.106",
+    "lon": "69.817"
+  },
+  "metadata": {},
+  "source": {}
+}

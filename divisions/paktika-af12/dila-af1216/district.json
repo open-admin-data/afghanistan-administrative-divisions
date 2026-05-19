@@ -1,0 +1,47 @@
+{
+  "id": "AF1216",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دیله",
+    "en": "Dila",
+    "slug": "dila-af1216"
+  },
+  "code": {
+    "id": "AF1216",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "245301"
+  ],
+  "geo": {
+    "lat": "32.563",
+    "lon": "68.131"
+  },
+  "metadata": {},
+  "source": {}
+}

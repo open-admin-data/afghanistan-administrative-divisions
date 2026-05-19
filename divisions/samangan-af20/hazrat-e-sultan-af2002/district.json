@@ -1,0 +1,47 @@
+{
+  "id": "AF2002",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "حضرت سلطان",
+    "en": "Hazrat-e-Sultan",
+    "slug": "hazrat-e-sultan-af2002"
+  },
+  "code": {
+    "id": "AF2002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205501"
+  ],
+  "geo": {
+    "lat": "36.383",
+    "lon": "67.865"
+  },
+  "metadata": {},
+  "source": {}
+}

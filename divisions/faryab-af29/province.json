@@ -1,0 +1,29 @@
+{
+  "id": "AF29",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "فاریاب",
+    "en": "Faryab",
+    "slug": "faryab-af29"
+  },
+  "code": {
+    "id": "AF29",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "36.06",
+    "lon": "64.869"
+  },
+  "metadata": {},
+  "source": {}
+}

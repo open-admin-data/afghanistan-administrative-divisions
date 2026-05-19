@@ -1,0 +1,47 @@
+{
+  "id": "AF3310",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گلستان",
+    "en": "Gulistan",
+    "slug": "gulistan-af3310"
+  },
+  "code": {
+    "id": "AF3310",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315901"
+  ],
+  "geo": {
+    "lat": "32.642",
+    "lon": "63.595"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1711",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تشکان",
+    "en": "Teshkan",
+    "slug": "teshkan-af1711"
+  },
+  "code": {
+    "id": "AF1711",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345501"
+  ],
+  "geo": {
+    "lat": "36.77",
+    "lon": "70.396"
+  },
+  "metadata": {},
+  "source": {}
+}

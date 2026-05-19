@@ -1,0 +1,519 @@
+[
+  {
+    "id": "AF3307",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "انار دره",
+      "en": "Anar Dara",
+      "slug": "anar-dara-af3307"
+    },
+    "code": {
+      "id": "AF3307",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306701"
+    ],
+    "geo": {
+      "lat": "33.011",
+      "lon": "61.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3308",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بکواه",
+      "en": "Bakwa",
+      "slug": "bakwa-af3308"
+    },
+    "code": {
+      "id": "AF3308",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315701"
+    ],
+    "geo": {
+      "lat": "32.215",
+      "lon": "62.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3306",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بالا بلوک",
+      "en": "Bala Buluk",
+      "slug": "bala-buluk-af3306"
+    },
+    "code": {
+      "id": "AF3306",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "316101"
+    ],
+    "geo": {
+      "lat": "32.77",
+      "lon": "62.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3301",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af3301"
+    },
+    "code": {
+      "id": "AF3301",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315601"
+    ],
+    "geo": {
+      "lat": "32.245",
+      "lon": "62.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3310",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گلستان",
+      "en": "Gulistan",
+      "slug": "gulistan-af3310"
+    },
+    "code": {
+      "id": "AF3310",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315901"
+    ],
+    "geo": {
+      "lat": "32.642",
+      "lon": "63.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3303",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خاک سفید",
+      "en": "Khak-e-Safed",
+      "slug": "khak-e-safed-af3303"
+    },
+    "code": {
+      "id": "AF3303",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315501"
+    ],
+    "geo": {
+      "lat": "32.756",
+      "lon": "62.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3309",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "لاش جوین",
+      "en": "Lash-e-Juwayn",
+      "slug": "lash-e-juwayn-af3309"
+    },
+    "code": {
+      "id": "AF3309",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315101"
+    ],
+    "geo": {
+      "lat": "31.72",
+      "lon": "61.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3311",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پُرچمن",
+      "en": "Pur Chaman",
+      "slug": "pur-chaman-af3311"
+    },
+    "code": {
+      "id": "AF3311",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "316001"
+    ],
+    "geo": {
+      "lat": "33.137",
+      "lon": "63.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3302",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پشترود",
+      "en": "Pushtrod",
+      "slug": "pushtrod-af3302"
+    },
+    "code": {
+      "id": "AF3302",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315601"
+    ],
+    "geo": {
+      "lat": "32.487",
+      "lon": "62.059"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3304",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلعه کاه",
+      "en": "Qala-e-Kah",
+      "slug": "qala-e-kah-af3304"
+    },
+    "code": {
+      "id": "AF3304",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315301"
+    ],
+    "geo": {
+      "lat": "32.395",
+      "lon": "61.328"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3305",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیب کوه",
+      "en": "Shibkoh",
+      "slug": "shibkoh-af3305"
+    },
+    "code": {
+      "id": "AF3305",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF33",
+        "level": 1,
+        "name": {
+          "local": "فراه",
+          "en": "Farah",
+          "slug": "farah-af33"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "315201"
+    ],
+    "geo": {
+      "lat": "32.109",
+      "lon": "61.369"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

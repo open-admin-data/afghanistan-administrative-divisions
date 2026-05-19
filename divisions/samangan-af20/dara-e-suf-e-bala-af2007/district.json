@@ -1,0 +1,47 @@
+{
+  "id": "AF2007",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "درۀ صوف بالا",
+    "en": "Dara-e-Suf-e-Bala",
+    "slug": "dara-e-suf-e-bala-af2007"
+  },
+  "code": {
+    "id": "AF2007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205201"
+  ],
+  "geo": {
+    "lat": "35.681",
+    "lon": "67.282"
+  },
+  "metadata": {},
+  "source": {}
+}

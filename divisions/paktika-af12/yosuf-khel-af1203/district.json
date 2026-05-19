@@ -1,0 +1,47 @@
+{
+  "id": "AF1203",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "یوسف خیل",
+    "en": "Yosuf Khel",
+    "slug": "yosuf-khel-af1203"
+  },
+  "code": {
+    "id": "AF1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246001"
+  ],
+  "geo": {
+    "lat": "33.05",
+    "lon": "68.646"
+  },
+  "metadata": {},
+  "source": {}
+}

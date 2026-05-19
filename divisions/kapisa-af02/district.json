@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF0207",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اله سای",
+      "en": "Alasay",
+      "slug": "alasay-af0207"
+    },
+    "code": {
+      "id": "AF0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125201"
+    ],
+    "geo": {
+      "lat": "34.926",
+      "lon": "69.809"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0204",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "حصه اول کوهستان",
+      "en": "Hisa-e-Awal-e-Kohistan",
+      "slug": "hisa-e-awal-e-kohistan-af0204"
+    },
+    "code": {
+      "id": "AF0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125301"
+    ],
+    "geo": {
+      "lat": "35.139",
+      "lon": "69.345"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0202",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "حصه دوم کوهستان",
+      "en": "Hisa-e-Duwum-e-Kohistan",
+      "slug": "hisa-e-duwum-e-kohistan-af0202"
+    },
+    "code": {
+      "id": "AF0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125401"
+    ],
+    "geo": {
+      "lat": "35.073",
+      "lon": "69.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0203",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوه بند",
+      "en": "Koh Band",
+      "slug": "koh-band-af0203"
+    },
+    "code": {
+      "id": "AF0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125101"
+    ],
+    "geo": {
+      "lat": "35.105",
+      "lon": "69.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0201",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "محمود راقی",
+      "en": "Mahmood-e-Raqi",
+      "slug": "mahmood-e-raqi-af0201"
+    },
+    "code": {
+      "id": "AF0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125101"
+    ],
+    "geo": {
+      "lat": "35.005",
+      "lon": "69.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0205",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نجراب",
+      "en": "Nijrab",
+      "slug": "nijrab-af0205"
+    },
+    "code": {
+      "id": "AF0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125501"
+    ],
+    "geo": {
+      "lat": "35.046",
+      "lon": "69.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0206",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تگاب",
+      "en": "Tagab",
+      "slug": "tagab-af0206"
+    },
+    "code": {
+      "id": "AF0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF02",
+        "level": 1,
+        "name": {
+          "local": "کاپیسا",
+          "en": "Kapisa",
+          "slug": "kapisa-af02"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "125601"
+    ],
+    "geo": {
+      "lat": "34.795",
+      "lon": "69.679"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

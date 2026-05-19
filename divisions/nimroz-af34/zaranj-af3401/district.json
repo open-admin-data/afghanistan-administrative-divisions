@@ -1,0 +1,47 @@
+{
+  "id": "AF3401",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "زرنج",
+    "en": "Zaranj",
+    "slug": "zaranj-af3401"
+  },
+  "code": {
+    "id": "AF3401",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF34",
+    "level": 1,
+    "name": {
+      "local": "نیمروز",
+      "en": "Nimroz",
+      "slug": "nimroz-af34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF34",
+      "level": 1,
+      "name": {
+        "local": "نیمروز",
+        "en": "Nimroz",
+        "slug": "nimroz-af34"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "435401"
+  ],
+  "geo": {
+    "lat": "30.911",
+    "lon": "62.036"
+  },
+  "metadata": {},
+  "source": {}
+}

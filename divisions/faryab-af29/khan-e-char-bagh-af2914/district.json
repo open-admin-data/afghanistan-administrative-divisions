@@ -1,0 +1,47 @@
+{
+  "id": "AF2914",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خان چارباغ",
+    "en": "Khan-e-Char Bagh",
+    "slug": "khan-e-char-bagh-af2914"
+  },
+  "code": {
+    "id": "AF2914",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185101"
+  ],
+  "geo": {
+    "lat": "37.111",
+    "lon": "65.23"
+  },
+  "metadata": {},
+  "source": {}
+}

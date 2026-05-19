@@ -1,0 +1,47 @@
+{
+  "id": "AF3106",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جوند",
+    "en": "Jawand",
+    "slug": "jawand-af3106"
+  },
+  "code": {
+    "id": "AF3106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF31",
+    "level": 1,
+    "name": {
+      "local": "بادغیس",
+      "en": "Badghis",
+      "slug": "badghis-af31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "335401"
+  ],
+  "geo": {
+    "lat": "35.001",
+    "lon": "64.336"
+  },
+  "metadata": {},
+  "source": {}
+}

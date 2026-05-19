@@ -1,0 +1,47 @@
+{
+  "id": "AF0407",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "حصه اول بهسود",
+    "en": "Hesa-e-Awal-e-Behsud",
+    "slug": "hesa-e-awal-e-behsud-af0407"
+  },
+  "code": {
+    "id": "AF0407",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135201"
+  ],
+  "geo": {
+    "lat": "34.531",
+    "lon": "68.192"
+  },
+  "metadata": {},
+  "source": {}
+}

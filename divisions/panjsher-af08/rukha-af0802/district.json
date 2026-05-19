@@ -1,0 +1,47 @@
+{
+  "id": "AF0802",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "رُخه",
+    "en": "Rukha",
+    "slug": "rukha-af0802"
+  },
+  "code": {
+    "id": "AF0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF08",
+    "level": 1,
+    "name": {
+      "local": "پنجشیر",
+      "en": "Panjsher",
+      "slug": "panjsher-af08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "155301"
+  ],
+  "geo": {
+    "lat": "35.267",
+    "lon": "69.478"
+  },
+  "metadata": {},
+  "source": {}
+}

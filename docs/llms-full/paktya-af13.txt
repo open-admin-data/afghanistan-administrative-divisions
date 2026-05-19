@@ -1,0 +1,64 @@
+# Paktya — Afghanistan Administrative Divisions
+
+> 11 districts
+> Code: AF13
+> Coordinates: 33.632, 69.388
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### احمد آبا (Ahmadaba)
+
+Code: AF1302, Coordinates: 33.773, 69.339
+
+
+### څمکنی (Chamkani)
+
+Code: AF1310, Coordinates: 33.784, 69.797
+
+
+### دند وپټان (Dand Wa Patan)
+
+Code: AF1311, Coordinates: 33.791, 69.911
+
+
+### گردیز (Gardez)
+
+Code: AF1301, Coordinates: 33.601, 69.242
+
+
+### علی خیل (Jaji)
+
+Code: AF1307, Coordinates: 33.978, 69.673
+
+
+### جانی خیل (Jani Khel)
+
+Code: AF1309, Coordinates: 33.655, 69.787
+
+
+### لجه احمد خیل (Lija Ahmad Khel)
+
+Code: AF1308, Coordinates: 33.816, 69.634
+
+
+### سیدکرم (Sayed Karam)
+
+Code: AF1306, Coordinates: 33.712, 69.479
+
+
+### شواک (Shawak)
+
+Code: AF1304, Coordinates: 33.452, 69.37
+
+
+### حّدران (Zadran)
+
+Code: AF1305, Coordinates: 33.374, 69.407
+
+
+### زُرمت (Zurmat)
+
+Code: AF1303, Coordinates: 33.424, 69.042
+
+

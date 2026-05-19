@@ -1,0 +1,64 @@
+# Farah — Afghanistan Administrative Divisions
+
+> 11 districts
+> Code: AF33
+> Coordinates: 32.608, 62.302
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### انار دره (Anar Dara)
+
+Code: AF3307, Coordinates: 33.011, 61.249
+
+
+### بکواه (Bakwa)
+
+Code: AF3308, Coordinates: 32.215, 62.881
+
+
+### بالا بلوک (Bala Buluk)
+
+Code: AF3306, Coordinates: 32.77, 62.752
+
+
+### فراه (Farah)
+
+Code: AF3301, Coordinates: 32.245, 62.229
+
+
+### گلستان (Gulistan)
+
+Code: AF3310, Coordinates: 32.642, 63.595
+
+
+### خاک سفید (Khak-e-Safed)
+
+Code: AF3303, Coordinates: 32.756, 62.072
+
+
+### لاش جوین (Lash-e-Juwayn)
+
+Code: AF3309, Coordinates: 31.72, 61.33
+
+
+### پُرچمن (Pur Chaman)
+
+Code: AF3311, Coordinates: 33.137, 63.865
+
+
+### پشترود (Pushtrod)
+
+Code: AF3302, Coordinates: 32.487, 62.059
+
+
+### قلعه کاه (Qala-e-Kah)
+
+Code: AF3304, Coordinates: 32.395, 61.328
+
+
+### شیب کوه (Shibkoh)
+
+Code: AF3305, Coordinates: 32.109, 61.369
+
+

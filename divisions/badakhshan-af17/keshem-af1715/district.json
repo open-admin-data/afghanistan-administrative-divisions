@@ -1,0 +1,47 @@
+{
+  "id": "AF1715",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کشم",
+    "en": "Keshem",
+    "slug": "keshem-af1715"
+  },
+  "code": {
+    "id": "AF1715",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345401"
+  ],
+  "geo": {
+    "lat": "36.772",
+    "lon": "70.133"
+  },
+  "metadata": {},
+  "source": {}
+}

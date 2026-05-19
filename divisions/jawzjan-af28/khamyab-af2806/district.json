@@ -1,0 +1,47 @@
+{
+  "id": "AF2806",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خمیاب",
+    "en": "Khamyab",
+    "slug": "khamyab-af2806"
+  },
+  "code": {
+    "id": "AF2806",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195201"
+  ],
+  "geo": {
+    "lat": "37.314",
+    "lon": "65.721"
+  },
+  "metadata": {},
+  "source": {}
+}

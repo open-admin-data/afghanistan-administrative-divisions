@@ -1,0 +1,47 @@
+{
+  "id": "AF3101",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قلعه نو",
+    "en": "Qala-e-Naw",
+    "slug": "qala-e-naw-af3101"
+  },
+  "code": {
+    "id": "AF3101",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF31",
+    "level": 1,
+    "name": {
+      "local": "بادغیس",
+      "en": "Badghis",
+      "slug": "badghis-af31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "335101"
+  ],
+  "geo": {
+    "lat": "34.811",
+    "lon": "63.124"
+  },
+  "metadata": {},
+  "source": {}
+}

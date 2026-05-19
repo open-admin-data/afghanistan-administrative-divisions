@@ -1,0 +1,34 @@
+# Nimroz — Afghanistan Administrative Divisions
+
+> 5 districts
+> Code: AF34
+> Coordinates: 30.802, 62.319
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### چخانسور (Chakhansur)
+
+Code: AF3403, Coordinates: 31.317, 62.438
+
+
+### چاربرجک (Char Burjak)
+
+Code: AF3404, Coordinates: 30.165, 62.08
+
+
+### کنگ (Kang)
+
+Code: AF3402, Coordinates: 31.321, 61.828
+
+
+### خاش رود (Khashrod)
+
+Code: AF3405, Coordinates: 31.736, 62.91
+
+
+### زرنج (Zaranj)
+
+Code: AF3401, Coordinates: 30.911, 62.036
+
+

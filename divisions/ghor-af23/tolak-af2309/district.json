@@ -1,0 +1,47 @@
+{
+  "id": "AF2309",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تولک",
+    "en": "Tolak",
+    "slug": "tolak-af2309"
+  },
+  "code": {
+    "id": "AF2309",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325901"
+  ],
+  "geo": {
+    "lat": "34.009",
+    "lon": "63.714"
+  },
+  "metadata": {},
+  "source": {}
+}

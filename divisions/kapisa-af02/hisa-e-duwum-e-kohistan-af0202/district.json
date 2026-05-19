@@ -1,0 +1,47 @@
+{
+  "id": "AF0202",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "حصه دوم کوهستان",
+    "en": "Hisa-e-Duwum-e-Kohistan",
+    "slug": "hisa-e-duwum-e-kohistan-af0202"
+  },
+  "code": {
+    "id": "AF0202",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF02",
+    "level": 1,
+    "name": {
+      "local": "کاپیسا",
+      "en": "Kapisa",
+      "slug": "kapisa-af02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "125401"
+  ],
+  "geo": {
+    "lat": "35.073",
+    "lon": "69.332"
+  },
+  "metadata": {},
+  "source": {}
+}

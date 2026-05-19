@@ -1,0 +1,47 @@
+{
+  "id": "AF1118",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اجرستان",
+    "en": "Ajristan",
+    "slug": "ajristan-af1118"
+  },
+  "code": {
+    "id": "AF1118",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236701"
+  ],
+  "geo": {
+    "lat": "33.517",
+    "lon": "67.121"
+  },
+  "metadata": {},
+  "source": {}
+}

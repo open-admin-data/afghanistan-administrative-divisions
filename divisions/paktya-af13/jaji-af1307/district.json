@@ -1,0 +1,47 @@
+{
+  "id": "AF1307",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "علی خیل",
+    "en": "Jaji",
+    "slug": "jaji-af1307"
+  },
+  "code": {
+    "id": "AF1307",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225701"
+  ],
+  "geo": {
+    "lat": "33.978",
+    "lon": "69.673"
+  },
+  "metadata": {},
+  "source": {}
+}

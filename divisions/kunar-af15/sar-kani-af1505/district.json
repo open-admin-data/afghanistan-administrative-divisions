@@ -1,0 +1,47 @@
+{
+  "id": "AF1505",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سرکانی",
+    "en": "Sar Kani",
+    "slug": "sar-kani-af1505"
+  },
+  "code": {
+    "id": "AF1505",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285501"
+  ],
+  "geo": {
+    "lat": "34.751",
+    "lon": "71.119"
+  },
+  "metadata": {},
+  "source": {}
+}

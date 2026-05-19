@@ -1,0 +1,47 @@
+{
+  "id": "AF0901",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پلخمری",
+    "en": "Pul-e-Khumri",
+    "slug": "pul-e-khumri-af0901"
+  },
+  "code": {
+    "id": "AF0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "366501"
+  ],
+  "geo": {
+    "lat": "36.01",
+    "lon": "68.668"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1310",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "څمکنی",
+    "en": "Chamkani",
+    "slug": "chamkani-af1310"
+  },
+  "code": {
+    "id": "AF1310",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225801"
+  ],
+  "geo": {
+    "lat": "33.784",
+    "lon": "69.797"
+  },
+  "metadata": {},
+  "source": {}
+}

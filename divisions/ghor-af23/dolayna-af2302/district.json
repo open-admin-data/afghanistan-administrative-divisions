@@ -1,0 +1,47 @@
+{
+  "id": "AF2302",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دو لینه",
+    "en": "DoLayna",
+    "slug": "dolayna-af2302"
+  },
+  "code": {
+    "id": "AF2302",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325401"
+  ],
+  "geo": {
+    "lat": "34.119",
+    "lon": "65.017"
+  },
+  "metadata": {},
+  "source": {}
+}

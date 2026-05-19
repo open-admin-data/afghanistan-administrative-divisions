@@ -1,0 +1,47 @@
+{
+  "id": "AF0703",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "علیشنگ",
+    "en": "Alishang",
+    "slug": "alishang-af0703"
+  },
+  "code": {
+    "id": "AF0703",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF07",
+    "level": 1,
+    "name": {
+      "local": "لغمان",
+      "en": "Laghman",
+      "slug": "laghman-af07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "275301"
+  ],
+  "geo": {
+    "lat": "34.825",
+    "lon": "70.084"
+  },
+  "metadata": {},
+  "source": {}
+}

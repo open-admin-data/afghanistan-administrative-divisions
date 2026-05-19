@@ -1,0 +1,47 @@
+{
+  "id": "AF2307",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "لعل و سرجنگل",
+    "en": "Lal Wa Sarjangal",
+    "slug": "lal-wa-sarjangal-af2307"
+  },
+  "code": {
+    "id": "AF2307",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325601"
+  ],
+  "geo": {
+    "lat": "34.604",
+    "lon": "66.273"
+  },
+  "metadata": {},
+  "source": {}
+}

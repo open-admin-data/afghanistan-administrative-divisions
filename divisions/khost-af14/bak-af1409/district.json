@@ -1,0 +1,47 @@
+{
+  "id": "AF1409",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "باک",
+    "en": "Bak",
+    "slug": "bak-af1409"
+  },
+  "code": {
+    "id": "AF1409",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255801"
+  ],
+  "geo": {
+    "lat": "33.53",
+    "lon": "70.077"
+  },
+  "metadata": {},
+  "source": {}
+}

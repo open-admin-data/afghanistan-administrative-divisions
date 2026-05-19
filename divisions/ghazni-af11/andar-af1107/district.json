@@ -1,0 +1,47 @@
+{
+  "id": "AF1107",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اندړ",
+    "en": "Andar",
+    "slug": "andar-af1107"
+  },
+  "code": {
+    "id": "AF1107",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235701"
+  ],
+  "geo": {
+    "lat": "33.306",
+    "lon": "68.448"
+  },
+  "metadata": {},
+  "source": {}
+}

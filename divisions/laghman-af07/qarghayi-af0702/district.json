@@ -1,0 +1,47 @@
+{
+  "id": "AF0702",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قرغه ئی",
+    "en": "Qarghayi",
+    "slug": "qarghayi-af0702"
+  },
+  "code": {
+    "id": "AF0702",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF07",
+    "level": 1,
+    "name": {
+      "local": "لغمان",
+      "en": "Laghman",
+      "slug": "laghman-af07"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "275101"
+  ],
+  "geo": {
+    "lat": "34.531",
+    "lon": "70.173"
+  },
+  "metadata": {},
+  "source": {}
+}

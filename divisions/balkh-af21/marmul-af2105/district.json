@@ -1,0 +1,47 @@
+{
+  "id": "AF2105",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مارمُل",
+    "en": "Marmul",
+    "slug": "marmul-af2105"
+  },
+  "code": {
+    "id": "AF2105",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175701"
+  ],
+  "geo": {
+    "lat": "36.635",
+    "lon": "67.335"
+  },
+  "metadata": {},
+  "source": {}
+}

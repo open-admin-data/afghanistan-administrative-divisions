@@ -1,0 +1,49 @@
+# Nuristan — Afghanistan Administrative Divisions
+
+> 8 districts
+> Code: AF16
+> Coordinates: 35.417, 70.788
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### برگ متال (Barg-e-Matal)
+
+Code: AF1608, Coordinates: 35.775, 71.254
+
+
+### دو آب (Duab)
+
+Code: AF1605, Coordinates: 35.221, 70.378
+
+
+### کامدیش (Kamdesh)
+
+Code: AF1606, Coordinates: 35.484, 71.315
+
+
+### مندول (Mandol)
+
+Code: AF1607, Coordinates: 35.401, 70.248
+
+
+### نورگرام (Nurgaram)
+
+Code: AF1604, Coordinates: 35.074, 70.469
+
+
+### پرونس (Parun)
+
+Code: AF1601, Coordinates: 35.408, 70.802
+
+
+### واما (Wama)
+
+Code: AF1603, Coordinates: 35.182, 70.796
+
+
+### وایگل (Waygal)
+
+Code: AF1602, Coordinates: 35.226, 71.026
+
+

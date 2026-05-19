@@ -1,0 +1,47 @@
+{
+  "id": "AF2607",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دای چوپان",
+    "en": "Daychopan",
+    "slug": "daychopan-af2607"
+  },
+  "code": {
+    "id": "AF2607",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405401"
+  ],
+  "geo": {
+    "lat": "32.613",
+    "lon": "66.691"
+  },
+  "metadata": {},
+  "source": {}
+}

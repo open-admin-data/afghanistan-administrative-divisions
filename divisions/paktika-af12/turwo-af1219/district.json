@@ -1,0 +1,47 @@
+{
+  "id": "AF1219",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تروو",
+    "en": "Turwo",
+    "slug": "turwo-af1219"
+  },
+  "code": {
+    "id": "AF1219",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "245101"
+  ],
+  "geo": {
+    "lat": "31.906",
+    "lon": "68.314"
+  },
+  "metadata": {},
+  "source": {}
+}

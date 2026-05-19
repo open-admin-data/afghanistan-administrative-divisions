@@ -1,0 +1,44 @@
+# Sar-e-Pul — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF22
+> Coordinates: 35.714, 66.139
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### بلخاب (Balkhab)
+
+Code: AF2207, Coordinates: 35.458, 66.602
+
+
+### گوسفندی (Gosfandi)
+
+Code: AF2206, Coordinates: 36.063, 66.451
+
+
+### کوهستانات (Kohestanat)
+
+Code: AF2203, Coordinates: 35.438, 65.937
+
+
+### سانچارك (Sancharak)
+
+Code: AF2205, Coordinates: 35.842, 66.342
+
+
+### سرپل (Sar-e-Pul)
+
+Code: AF2201, Coordinates: 36.284, 66.057
+
+
+### صیاد (Sayad)
+
+Code: AF2202, Coordinates: 36.15, 65.709
+
+
+### سوزمه قلعه (Sozmaqala)
+
+Code: AF2204, Coordinates: 36.02, 66.233
+
+

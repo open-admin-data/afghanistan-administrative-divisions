@@ -1,0 +1,47 @@
+{
+  "id": "AF2801",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شبرغان",
+    "en": "Shiberghan",
+    "slug": "shiberghan-af2801"
+  },
+  "code": {
+    "id": "AF2801",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "216001"
+  ],
+  "geo": {
+    "lat": "36.591",
+    "lon": "65.748"
+  },
+  "metadata": {},
+  "source": {}
+}

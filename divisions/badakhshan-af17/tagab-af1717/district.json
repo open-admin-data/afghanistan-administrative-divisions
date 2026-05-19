@@ -1,0 +1,47 @@
+{
+  "id": "AF1717",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تگاب",
+    "en": "Tagab",
+    "slug": "tagab-af1717"
+  },
+  "code": {
+    "id": "AF1717",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345301"
+  ],
+  "geo": {
+    "lat": "36.483",
+    "lon": "70.35"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0207",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اله سای",
+    "en": "Alasay",
+    "slug": "alasay-af0207"
+  },
+  "code": {
+    "id": "AF0207",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF02",
+    "level": 1,
+    "name": {
+      "local": "کاپیسا",
+      "en": "Kapisa",
+      "slug": "kapisa-af02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "125201"
+  ],
+  "geo": {
+    "lat": "34.926",
+    "lon": "69.809"
+  },
+  "metadata": {},
+  "source": {}
+}

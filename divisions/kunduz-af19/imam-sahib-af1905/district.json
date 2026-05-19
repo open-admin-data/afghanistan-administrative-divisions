@@ -1,0 +1,47 @@
+{
+  "id": "AF1905",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "امام صاحب",
+    "en": "Imam Sahib",
+    "slug": "imam-sahib-af1905"
+  },
+  "code": {
+    "id": "AF1905",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF19",
+    "level": 1,
+    "name": {
+      "local": "کندز",
+      "en": "Kunduz",
+      "slug": "kunduz-af19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "355201"
+  ],
+  "geo": {
+    "lat": "37.108",
+    "lon": "68.854"
+  },
+  "metadata": {},
+  "source": {}
+}

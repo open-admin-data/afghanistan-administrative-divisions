@@ -1,0 +1,47 @@
+{
+  "id": "AF3304",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قلعه کاه",
+    "en": "Qala-e-Kah",
+    "slug": "qala-e-kah-af3304"
+  },
+  "code": {
+    "id": "AF3304",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315301"
+  ],
+  "geo": {
+    "lat": "32.395",
+    "lon": "61.328"
+  },
+  "metadata": {},
+  "source": {}
+}

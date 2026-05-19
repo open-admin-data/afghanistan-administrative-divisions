@@ -1,0 +1,47 @@
+{
+  "id": "AF0203",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوه بند",
+    "en": "Koh Band",
+    "slug": "koh-band-af0203"
+  },
+  "code": {
+    "id": "AF0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF02",
+    "level": 1,
+    "name": {
+      "local": "کاپیسا",
+      "en": "Kapisa",
+      "slug": "kapisa-af02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "125101"
+  ],
+  "geo": {
+    "lat": "35.105",
+    "lon": "69.473"
+  },
+  "metadata": {},
+  "source": {}
+}

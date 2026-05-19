@@ -1,0 +1,47 @@
+{
+  "id": "AF1510",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خاص کنر",
+    "en": "Khas Kunar",
+    "slug": "khas-kunar-af1510"
+  },
+  "code": {
+    "id": "AF1510",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285101"
+  ],
+  "geo": {
+    "lat": "34.613",
+    "lon": "70.939"
+  },
+  "metadata": {},
+  "source": {}
+}

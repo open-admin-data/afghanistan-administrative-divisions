@@ -1,0 +1,47 @@
+{
+  "id": "AF0404",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چک",
+    "en": "Chak-e-Wardak",
+    "slug": "chak-e-wardak-af0404"
+  },
+  "code": {
+    "id": "AF0404",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135601"
+  ],
+  "geo": {
+    "lat": "34.108",
+    "lon": "68.491"
+  },
+  "metadata": {},
+  "source": {}
+}

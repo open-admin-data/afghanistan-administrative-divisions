@@ -1,0 +1,425 @@
+[
+  {
+    "id": "AF2403",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اشترلی",
+      "en": "Ashtarlay",
+      "slug": "ashtarlay-af2403"
+    },
+    "code": {
+      "id": "AF2403",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425501"
+    ],
+    "geo": {
+      "lat": "34.061",
+      "lon": "66.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2408",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کجران",
+      "en": "Kajran",
+      "slug": "kajran-af2408"
+    },
+    "code": {
+      "id": "AF2408",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425101"
+    ],
+    "geo": {
+      "lat": "33.165",
+      "lon": "65.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2404",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خدیر",
+      "en": "Khadir",
+      "slug": "khadir-af2404"
+    },
+    "code": {
+      "id": "AF2404",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425701"
+    ],
+    "geo": {
+      "lat": "33.892",
+      "lon": "65.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2405",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کیتی",
+      "en": "Kiti",
+      "slug": "kiti-af2405"
+    },
+    "code": {
+      "id": "AF2405",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425801"
+    ],
+    "geo": {
+      "lat": "33.523",
+      "lon": "65.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2406",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میرامور",
+      "en": "Miramor",
+      "slug": "miramor-af2406"
+    },
+    "code": {
+      "id": "AF2406",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425401"
+    ],
+    "geo": {
+      "lat": "33.819",
+      "lon": "66.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2401",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نیلی",
+      "en": "Nili",
+      "slug": "nili-af2401"
+    },
+    "code": {
+      "id": "AF2401",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425701"
+    ],
+    "geo": {
+      "lat": "33.767",
+      "lon": "66.071"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2409",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پاتو",
+      "en": "Patoo",
+      "slug": "patoo-af2409"
+    },
+    "code": {
+      "id": "AF2409",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425201"
+    ],
+    "geo": {
+      "lat": "33.404",
+      "lon": "66.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2407",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سنگ تخت",
+      "en": "Sang-e-Takht",
+      "slug": "sang-e-takht-af2407"
+    },
+    "code": {
+      "id": "AF2407",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425601"
+    ],
+    "geo": {
+      "lat": "34.196",
+      "lon": "65.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2402",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهرستان",
+      "en": "Shahrestan",
+      "slug": "shahrestan-af2402"
+    },
+    "code": {
+      "id": "AF2402",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF24",
+        "level": 1,
+        "name": {
+          "local": "دایکندی",
+          "en": "Daykundi",
+          "slug": "daykundi-af24"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "425301"
+    ],
+    "geo": {
+      "lat": "33.697",
+      "lon": "66.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

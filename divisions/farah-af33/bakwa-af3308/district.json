@@ -1,0 +1,47 @@
+{
+  "id": "AF3308",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بکواه",
+    "en": "Bakwa",
+    "slug": "bakwa-af3308"
+  },
+  "code": {
+    "id": "AF3308",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315701"
+  ],
+  "geo": {
+    "lat": "32.215",
+    "lon": "62.881"
+  },
+  "metadata": {},
+  "source": {}
+}

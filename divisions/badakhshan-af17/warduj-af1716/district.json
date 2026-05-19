@@ -1,0 +1,47 @@
+{
+  "id": "AF1716",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "وردوج",
+    "en": "Warduj",
+    "slug": "warduj-af1716"
+  },
+  "code": {
+    "id": "AF1716",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347201"
+  ],
+  "geo": {
+    "lat": "36.757",
+    "lon": "71.182"
+  },
+  "metadata": {},
+  "source": {}
+}

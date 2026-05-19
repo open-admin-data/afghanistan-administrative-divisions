@@ -1,0 +1,47 @@
+{
+  "id": "AF0502",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "برکی برک",
+    "en": "Baraki Barak",
+    "slug": "baraki-barak-af0502"
+  },
+  "code": {
+    "id": "AF0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145401"
+  ],
+  "geo": {
+    "lat": "33.93",
+    "lon": "68.885"
+  },
+  "metadata": {},
+  "source": {}
+}

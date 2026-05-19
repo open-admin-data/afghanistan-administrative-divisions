@@ -1,0 +1,47 @@
+{
+  "id": "AF1205",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سرروضه (سرحوضه)",
+    "en": "Sar Rawzah",
+    "slug": "sar-rawzah-af1205"
+  },
+  "code": {
+    "id": "AF1205",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246101"
+  ],
+  "geo": {
+    "lat": "33.063",
+    "lon": "69.039"
+  },
+  "metadata": {},
+  "source": {}
+}

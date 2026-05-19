@@ -1,0 +1,47 @@
+{
+  "id": "AF0608",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خوگیانی",
+    "en": "Khogyani",
+    "slug": "khogyani-af0608"
+  },
+  "code": {
+    "id": "AF0608",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "265301"
+  ],
+  "geo": {
+    "lat": "34.228",
+    "lon": "70.118"
+  },
+  "metadata": {},
+  "source": {}
+}

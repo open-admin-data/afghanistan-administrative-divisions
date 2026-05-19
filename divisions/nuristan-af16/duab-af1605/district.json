@@ -1,0 +1,47 @@
+{
+  "id": "AF1605",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دو آب",
+    "en": "Duab",
+    "slug": "duab-af1605"
+  },
+  "code": {
+    "id": "AF1605",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295701"
+  ],
+  "geo": {
+    "lat": "35.221",
+    "lon": "70.378"
+  },
+  "metadata": {},
+  "source": {}
+}

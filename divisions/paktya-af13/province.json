@@ -1,0 +1,29 @@
+{
+  "id": "AF13",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "پکتیا",
+    "en": "Paktya",
+    "slug": "paktya-af13"
+  },
+  "code": {
+    "id": "AF13",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.632",
+    "lon": "69.388"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0616",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شینوار",
+    "en": "Shinwar",
+    "slug": "shinwar-af0616"
+  },
+  "code": {
+    "id": "AF0616",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "266901"
+  ],
+  "geo": {
+    "lat": "34.206",
+    "lon": "70.796"
+  },
+  "metadata": {},
+  "source": {}
+}

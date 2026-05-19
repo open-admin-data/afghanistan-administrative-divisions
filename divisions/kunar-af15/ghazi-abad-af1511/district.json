@@ -1,0 +1,47 @@
+{
+  "id": "AF1511",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "غازی آباد",
+    "en": "Ghazi Abad",
+    "slug": "ghazi-abad-af1511"
+  },
+  "code": {
+    "id": "AF1511",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "286001"
+  ],
+  "geo": {
+    "lat": "35.233",
+    "lon": "71.33"
+  },
+  "metadata": {},
+  "source": {}
+}

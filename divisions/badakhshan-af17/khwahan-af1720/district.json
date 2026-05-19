@@ -1,0 +1,47 @@
+{
+  "id": "AF1720",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خواهان",
+    "en": "Khwahan",
+    "slug": "khwahan-af1720"
+  },
+  "code": {
+    "id": "AF1720",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345901"
+  ],
+  "geo": {
+    "lat": "37.837",
+    "lon": "70.394"
+  },
+  "metadata": {},
+  "source": {}
+}

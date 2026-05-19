@@ -1,0 +1,47 @@
+{
+  "id": "AF3206",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پشتون زرغون",
+    "en": "Pashtun Zarghun",
+    "slug": "pashtun-zarghun-af3206"
+  },
+  "code": {
+    "id": "AF3206",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305601"
+  ],
+  "geo": {
+    "lat": "34.184",
+    "lon": "62.755"
+  },
+  "metadata": {},
+  "source": {}
+}

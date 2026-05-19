@@ -1,0 +1,47 @@
+{
+  "id": "AF2104",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چار کنت",
+    "en": "Charkent",
+    "slug": "charkent-af2104"
+  },
+  "code": {
+    "id": "AF2104",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175801"
+  ],
+  "geo": {
+    "lat": "36.368",
+    "lon": "67.24"
+  },
+  "metadata": {},
+  "source": {}
+}

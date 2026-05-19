@@ -1,0 +1,47 @@
+{
+  "id": "AF2114",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کشنده",
+    "en": "Keshendeh",
+    "slug": "keshendeh-af2114"
+  },
+  "code": {
+    "id": "AF2114",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "176301"
+  ],
+  "geo": {
+    "lat": "36.005",
+    "lon": "66.922"
+  },
+  "metadata": {},
+  "source": {}
+}

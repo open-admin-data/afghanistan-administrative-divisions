@@ -1,0 +1,47 @@
+{
+  "id": "AF0114",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قره باغ",
+    "en": "Qara Bagh",
+    "slug": "qara-bagh-af0114"
+  },
+  "code": {
+    "id": "AF0114",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105701"
+  ],
+  "geo": {
+    "lat": "34.849",
+    "lon": "69.176"
+  },
+  "metadata": {},
+  "source": {}
+}

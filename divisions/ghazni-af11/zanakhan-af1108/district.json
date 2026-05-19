@@ -1,0 +1,47 @@
+{
+  "id": "AF1108",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "زنه خان",
+    "en": "Zanakhan",
+    "slug": "zanakhan-af1108"
+  },
+  "code": {
+    "id": "AF1108",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235901"
+  ],
+  "geo": {
+    "lat": "33.679",
+    "lon": "68.666"
+  },
+  "metadata": {},
+  "source": {}
+}

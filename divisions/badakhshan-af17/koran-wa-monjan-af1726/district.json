@@ -1,0 +1,47 @@
+{
+  "id": "AF1726",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کران ومنجان",
+    "en": "Koran Wa Monjan",
+    "slug": "koran-wa-monjan-af1726"
+  },
+  "code": {
+    "id": "AF1726",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345101"
+  ],
+  "geo": {
+    "lat": "35.93",
+    "lon": "70.768"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1305",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "حّدران",
+    "en": "Zadran",
+    "slug": "zadran-af1305"
+  },
+  "code": {
+    "id": "AF1305",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "226101"
+  ],
+  "geo": {
+    "lat": "33.374",
+    "lon": "69.407"
+  },
+  "metadata": {},
+  "source": {}
+}

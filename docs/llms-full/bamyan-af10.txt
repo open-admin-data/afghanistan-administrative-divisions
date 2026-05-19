@@ -1,0 +1,44 @@
+# Bamyan — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF10
+> Coordinates: 34.804, 67.234
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### بامیان (Bamyan)
+
+Code: AF1001, Coordinates: 34.795, 67.684
+
+
+### کهمرد (Kahmard)
+
+Code: AF1004, Coordinates: 35.357, 67.776
+
+
+### پنجاب (Panjab)
+
+Code: AF1006, Coordinates: 34.423, 66.932
+
+
+### سیغان (Sayghan)
+
+Code: AF1003, Coordinates: 35.118, 67.61
+
+
+### شیبر (Shibar)
+
+Code: AF1002, Coordinates: 34.922, 68.039
+
+
+### ورث (Waras)
+
+Code: AF1007, Coordinates: 34.15, 66.977
+
+
+### یکاولنگ (Yakawlang)
+
+Code: AF1005, Coordinates: 34.979, 66.948
+
+

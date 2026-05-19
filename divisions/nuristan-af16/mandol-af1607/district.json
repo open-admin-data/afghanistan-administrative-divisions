@@ -1,0 +1,47 @@
+{
+  "id": "AF1607",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مندول",
+    "en": "Mandol",
+    "slug": "mandol-af1607"
+  },
+  "code": {
+    "id": "AF1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295601"
+  ],
+  "geo": {
+    "lat": "35.401",
+    "lon": "70.248"
+  },
+  "metadata": {},
+  "source": {}
+}

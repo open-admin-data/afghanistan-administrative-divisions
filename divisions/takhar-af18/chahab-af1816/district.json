@@ -1,0 +1,47 @@
+{
+  "id": "AF1816",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چاه آب",
+    "en": "Chahab",
+    "slug": "chahab-af1816"
+  },
+  "code": {
+    "id": "AF1816",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375501"
+  ],
+  "geo": {
+    "lat": "37.45",
+    "lon": "69.88"
+  },
+  "metadata": {},
+  "source": {}
+}

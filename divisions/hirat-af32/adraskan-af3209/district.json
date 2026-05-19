@@ -1,0 +1,47 @@
+{
+  "id": "AF3209",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ادرسکن",
+    "en": "Adraskan",
+    "slug": "adraskan-af3209"
+  },
+  "code": {
+    "id": "AF3209",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306201"
+  ],
+  "geo": {
+    "lat": "33.705",
+    "lon": "61.999"
+  },
+  "metadata": {},
+  "source": {}
+}

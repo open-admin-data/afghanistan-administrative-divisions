@@ -1,0 +1,47 @@
+{
+  "id": "AF3002",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نادعلی",
+    "en": "Nad-e-Ali",
+    "slug": "nad-e-ali-af3002"
+  },
+  "code": {
+    "id": "AF3002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "396101"
+  ],
+  "geo": {
+    "lat": "31.578",
+    "lon": "63.792"
+  },
+  "metadata": {},
+  "source": {}
+}

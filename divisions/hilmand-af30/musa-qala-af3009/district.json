@@ -1,0 +1,47 @@
+{
+  "id": "AF3009",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "موسی قلعه",
+    "en": "Musa Qala",
+    "slug": "musa-qala-af3009"
+  },
+  "code": {
+    "id": "AF3009",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395901"
+  ],
+  "geo": {
+    "lat": "32.389",
+    "lon": "64.754"
+  },
+  "metadata": {},
+  "source": {}
+}

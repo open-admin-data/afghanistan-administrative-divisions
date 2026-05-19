@@ -1,0 +1,47 @@
+{
+  "id": "AF0111",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گلدره",
+    "en": "Guldara",
+    "slug": "guldara-af0111"
+  },
+  "code": {
+    "id": "AF0111",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "106001"
+  ],
+  "geo": {
+    "lat": "34.748",
+    "lon": "68.995"
+  },
+  "metadata": {},
+  "source": {}
+}

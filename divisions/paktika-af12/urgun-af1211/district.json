@@ -1,0 +1,47 @@
+{
+  "id": "AF1211",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ارگون",
+    "en": "Urgun",
+    "slug": "urgun-af1211"
+  },
+  "code": {
+    "id": "AF1211",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246401"
+  ],
+  "geo": {
+    "lat": "32.978",
+    "lon": "69.193"
+  },
+  "metadata": {},
+  "source": {}
+}

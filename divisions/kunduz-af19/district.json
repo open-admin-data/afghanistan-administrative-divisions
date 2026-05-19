@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF1903",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "علی آباد",
+      "en": "Ali Abad",
+      "slug": "ali-abad-af1903"
+    },
+    "code": {
+      "id": "AF1903",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355501"
+    ],
+    "geo": {
+      "lat": "36.529",
+      "lon": "68.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1902",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چهار دره",
+      "en": "Chahar Darah",
+      "slug": "chahar-darah-af1902"
+    },
+    "code": {
+      "id": "AF1902",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355401"
+    ],
+    "geo": {
+      "lat": "36.654",
+      "lon": "68.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1906",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دشت ارچی",
+      "en": "Dasht-e-Archi",
+      "slug": "dasht-e-archi-af1906"
+    },
+    "code": {
+      "id": "AF1906",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355101"
+    ],
+    "geo": {
+      "lat": "36.964",
+      "lon": "69.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1905",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "امام صاحب",
+      "en": "Imam Sahib",
+      "slug": "imam-sahib-af1905"
+    },
+    "code": {
+      "id": "AF1905",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355201"
+    ],
+    "geo": {
+      "lat": "37.108",
+      "lon": "68.854"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1904",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خان آباد",
+      "en": "Khan Abad",
+      "slug": "khan-abad-af1904"
+    },
+    "code": {
+      "id": "AF1904",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355601"
+    ],
+    "geo": {
+      "lat": "36.603",
+      "lon": "69.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1901",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کندز",
+      "en": "Kunduz",
+      "slug": "kunduz-af1901"
+    },
+    "code": {
+      "id": "AF1901",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355801"
+    ],
+    "geo": {
+      "lat": "36.797",
+      "lon": "68.859"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1907",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلعه ذال",
+      "en": "Qala-e-Zal",
+      "slug": "qala-e-zal-af1907"
+    },
+    "code": {
+      "id": "AF1907",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF19",
+        "level": 1,
+        "name": {
+          "local": "کندز",
+          "en": "Kunduz",
+          "slug": "kunduz-af19"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "355301"
+    ],
+    "geo": {
+      "lat": "36.898",
+      "lon": "68.362"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

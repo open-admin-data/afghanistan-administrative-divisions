@@ -1,0 +1,47 @@
+{
+  "id": "AF2107",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شولگره",
+    "en": "Sholgareh",
+    "slug": "sholgareh-af2107"
+  },
+  "code": {
+    "id": "AF2107",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "176201"
+  ],
+  "geo": {
+    "lat": "36.303",
+    "lon": "66.865"
+  },
+  "metadata": {},
+  "source": {}
+}

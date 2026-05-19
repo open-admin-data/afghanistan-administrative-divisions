@@ -1,0 +1,47 @@
+{
+  "id": "AF1306",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سیدکرم",
+    "en": "Sayed Karam",
+    "slug": "sayed-karam-af1306"
+  },
+  "code": {
+    "id": "AF1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225401"
+  ],
+  "geo": {
+    "lat": "33.712",
+    "lon": "69.479"
+  },
+  "metadata": {},
+  "source": {}
+}

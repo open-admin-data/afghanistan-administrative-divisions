@@ -1,0 +1,47 @@
+{
+  "id": "AF1712",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شهدا",
+    "en": "Shuhada",
+    "slug": "shuhada-af1712"
+  },
+  "code": {
+    "id": "AF1712",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346901"
+  ],
+  "geo": {
+    "lat": "37.104",
+    "lon": "71.164"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF3211",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "غوریان",
+    "en": "Ghoryan",
+    "slug": "ghoryan-af3211"
+  },
+  "code": {
+    "id": "AF3211",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305101"
+  ],
+  "geo": {
+    "lat": "34.18",
+    "lon": "61.154"
+  },
+  "metadata": {},
+  "source": {}
+}

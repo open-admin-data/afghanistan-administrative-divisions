@@ -1,0 +1,47 @@
+{
+  "id": "AF0906",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خنجان",
+    "en": "Khinjan",
+    "slug": "khinjan-af0906"
+  },
+  "code": {
+    "id": "AF0906",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365301"
+  ],
+  "geo": {
+    "lat": "35.471",
+    "lon": "68.974"
+  },
+  "metadata": {},
+  "source": {}
+}

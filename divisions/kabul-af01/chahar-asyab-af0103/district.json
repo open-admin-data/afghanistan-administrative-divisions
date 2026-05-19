@@ -1,0 +1,47 @@
+{
+  "id": "AF0103",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چهار آسیاب",
+    "en": "Chahar Asyab",
+    "slug": "chahar-asyab-af0103"
+  },
+  "code": {
+    "id": "AF0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105101"
+  ],
+  "geo": {
+    "lat": "34.387",
+    "lon": "69.073"
+  },
+  "metadata": {},
+  "source": {}
+}

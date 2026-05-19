@@ -1,0 +1,47 @@
+{
+  "id": "AF2611",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کاکړ",
+    "en": "Kakar",
+    "slug": "kakar-af2611"
+  },
+  "code": {
+    "id": "AF2611",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405301"
+  ],
+  "geo": {
+    "lat": "32.862",
+    "lon": "67.183"
+  },
+  "metadata": {},
+  "source": {}
+}

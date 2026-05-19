@@ -1,0 +1,47 @@
+{
+  "id": "AF1504",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نرنگ",
+    "en": "Narang",
+    "slug": "narang-af1504"
+  },
+  "code": {
+    "id": "AF1504",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285401"
+  ],
+  "geo": {
+    "lat": "34.802",
+    "lon": "71.004"
+  },
+  "metadata": {},
+  "source": {}
+}

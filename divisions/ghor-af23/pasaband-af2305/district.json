@@ -1,0 +1,47 @@
+{
+  "id": "AF2305",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پسابند",
+    "en": "Pasaband",
+    "slug": "pasaband-af2305"
+  },
+  "code": {
+    "id": "AF2305",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325301"
+  ],
+  "geo": {
+    "lat": "33.589",
+    "lon": "65.082"
+  },
+  "metadata": {},
+  "source": {}
+}

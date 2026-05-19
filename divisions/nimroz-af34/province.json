@@ -1,0 +1,29 @@
+{
+  "id": "AF34",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "نیمروز",
+    "en": "Nimroz",
+    "slug": "nimroz-af34"
+  },
+  "code": {
+    "id": "AF34",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "30.802",
+    "lon": "62.319"
+  },
+  "metadata": {},
+  "source": {}
+}

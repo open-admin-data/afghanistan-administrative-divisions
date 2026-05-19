@@ -1,0 +1,47 @@
+{
+  "id": "AF2809",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مردیان",
+    "en": "Mardyan",
+    "slug": "mardyan-af2809"
+  },
+  "code": {
+    "id": "AF2809",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195101"
+  ],
+  "geo": {
+    "lat": "37.052",
+    "lon": "66.329"
+  },
+  "metadata": {},
+  "source": {}
+}

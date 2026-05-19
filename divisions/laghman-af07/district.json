@@ -1,0 +1,237 @@
+[
+  {
+    "id": "AF0704",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "علینگار",
+      "en": "Alingar",
+      "slug": "alingar-af0704"
+    },
+    "code": {
+      "id": "AF0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF07",
+        "level": 1,
+        "name": {
+          "local": "لغمان",
+          "en": "Laghman",
+          "slug": "laghman-af07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "275201"
+    ],
+    "geo": {
+      "lat": "34.817",
+      "lon": "70.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0703",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "علیشنگ",
+      "en": "Alishang",
+      "slug": "alishang-af0703"
+    },
+    "code": {
+      "id": "AF0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF07",
+        "level": 1,
+        "name": {
+          "local": "لغمان",
+          "en": "Laghman",
+          "slug": "laghman-af07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "275301"
+    ],
+    "geo": {
+      "lat": "34.825",
+      "lon": "70.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0705",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دولت شاه",
+      "en": "Dawlatshah",
+      "slug": "dawlatshah-af0705"
+    },
+    "code": {
+      "id": "AF0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF07",
+        "level": 1,
+        "name": {
+          "local": "لغمان",
+          "en": "Laghman",
+          "slug": "laghman-af07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "275401"
+    ],
+    "geo": {
+      "lat": "35.036",
+      "lon": "69.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0701",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مهتر لام",
+      "en": "Mehtarlam",
+      "slug": "mehtarlam-af0701"
+    },
+    "code": {
+      "id": "AF0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF07",
+        "level": 1,
+        "name": {
+          "local": "لغمان",
+          "en": "Laghman",
+          "slug": "laghman-af07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "275501"
+    ],
+    "geo": {
+      "lat": "34.652",
+      "lon": "70.094"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0702",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قرغه ئی",
+      "en": "Qarghayi",
+      "slug": "qarghayi-af0702"
+    },
+    "code": {
+      "id": "AF0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF07",
+      "level": 1,
+      "name": {
+        "local": "لغمان",
+        "en": "Laghman",
+        "slug": "laghman-af07"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF07",
+        "level": 1,
+        "name": {
+          "local": "لغمان",
+          "en": "Laghman",
+          "slug": "laghman-af07"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "275101"
+    ],
+    "geo": {
+      "lat": "34.531",
+      "lon": "70.173"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

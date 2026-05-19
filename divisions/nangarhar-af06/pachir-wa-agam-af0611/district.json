@@ -1,0 +1,47 @@
+{
+  "id": "AF0611",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پچیراگام",
+    "en": "Pachir Wa Agam",
+    "slug": "pachir-wa-agam-af0611"
+  },
+  "code": {
+    "id": "AF0611",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "265401"
+  ],
+  "geo": {
+    "lat": "34.087",
+    "lon": "70.281"
+  },
+  "metadata": {},
+  "source": {}
+}

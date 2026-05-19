@@ -1,0 +1,47 @@
+{
+  "id": "AF1404",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تنی",
+    "en": "Tani",
+    "slug": "tani-af1404"
+  },
+  "code": {
+    "id": "AF1404",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255201"
+  ],
+  "geo": {
+    "lat": "33.193",
+    "lon": "69.731"
+  },
+  "metadata": {},
+  "source": {}
+}

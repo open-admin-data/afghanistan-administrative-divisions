@@ -1,0 +1,707 @@
+[
+  {
+    "id": "AF1501",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اسد آباد",
+      "en": "Asad Abad",
+      "slug": "asad-abad-af1501"
+    },
+    "code": {
+      "id": "AF1501",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285601"
+    ],
+    "geo": {
+      "lat": "34.868",
+      "lon": "71.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1508",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "برکنر",
+      "en": "Bar Kunar",
+      "slug": "bar-kunar-af1508"
+    },
+    "code": {
+      "id": "AF1508",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285801"
+    ],
+    "geo": {
+      "lat": "35.072",
+      "lon": "71.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1513",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چپه دره",
+      "en": "Chapa Dara",
+      "slug": "chapa-dara-af1513"
+    },
+    "code": {
+      "id": "AF1513",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "286401"
+    ],
+    "geo": {
+      "lat": "34.959",
+      "lon": "70.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1509",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چوکی",
+      "en": "Chawkay",
+      "slug": "chawkay-af1509"
+    },
+    "code": {
+      "id": "AF1509",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285301"
+    ],
+    "geo": {
+      "lat": "34.74",
+      "lon": "70.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1512",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دانگام",
+      "en": "Dangam",
+      "slug": "dangam-af1512"
+    },
+    "code": {
+      "id": "AF1512",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285701"
+    ],
+    "geo": {
+      "lat": "35.002",
+      "lon": "71.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1507",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دره پیچ",
+      "en": "Dara-e-Pech",
+      "slug": "dara-e-pech-af1507"
+    },
+    "code": {
+      "id": "AF1507",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "286301"
+    ],
+    "geo": {
+      "lat": "34.953",
+      "lon": "70.916"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1511",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "غازی آباد",
+      "en": "Ghazi Abad",
+      "slug": "ghazi-abad-af1511"
+    },
+    "code": {
+      "id": "AF1511",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "286001"
+    ],
+    "geo": {
+      "lat": "35.233",
+      "lon": "71.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1510",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خاص کنر",
+      "en": "Khas Kunar",
+      "slug": "khas-kunar-af1510"
+    },
+    "code": {
+      "id": "AF1510",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285101"
+    ],
+    "geo": {
+      "lat": "34.613",
+      "lon": "70.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1502",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مروره",
+      "en": "Marawara",
+      "slug": "marawara-af1502"
+    },
+    "code": {
+      "id": "AF1502",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285601"
+    ],
+    "geo": {
+      "lat": "34.862",
+      "lon": "71.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1504",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نرنگ",
+      "en": "Narang",
+      "slug": "narang-af1504"
+    },
+    "code": {
+      "id": "AF1504",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285401"
+    ],
+    "geo": {
+      "lat": "34.802",
+      "lon": "71.004"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1515",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ناړی",
+      "en": "Nari",
+      "slug": "nari-af1515"
+    },
+    "code": {
+      "id": "AF1515",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "286501"
+    ],
+    "geo": {
+      "lat": "35.268",
+      "lon": "71.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1514",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نورگل",
+      "en": "Nurgal",
+      "slug": "nurgal-af1514"
+    },
+    "code": {
+      "id": "AF1514",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285201"
+    ],
+    "geo": {
+      "lat": "34.694",
+      "lon": "70.731"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1505",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سرکانی",
+      "en": "Sar Kani",
+      "slug": "sar-kani-af1505"
+    },
+    "code": {
+      "id": "AF1505",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "285501"
+    ],
+    "geo": {
+      "lat": "34.751",
+      "lon": "71.119"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1506",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیگل وشلتن",
+      "en": "Shigal",
+      "slug": "shigal-af1506"
+    },
+    "code": {
+      "id": "AF1506",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "286101"
+    ],
+    "geo": {
+      "lat": "35.036",
+      "lon": "71.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1503",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "وته پور",
+      "en": "Watapur",
+      "slug": "watapur-af1503"
+    },
+    "code": {
+      "id": "AF1503",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF15",
+        "level": 1,
+        "name": {
+          "local": "کنر ها",
+          "en": "Kunar",
+          "slug": "kunar-af15"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "286201"
+    ],
+    "geo": {
+      "lat": "34.996",
+      "lon": "71.082"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

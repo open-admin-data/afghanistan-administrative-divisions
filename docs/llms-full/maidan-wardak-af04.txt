@@ -1,0 +1,54 @@
+# Maidan Wardak — Afghanistan Administrative Divisions
+
+> 9 districts
+> Code: AF04
+> Coordinates: 34.303, 68.218
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### چک (Chak-e-Wardak)
+
+Code: AF0404, Coordinates: 34.108, 68.491
+
+
+### دایمیرداد (Daymirdad)
+
+Code: AF0406, Coordinates: 34.219, 68.305
+
+
+### حصه اول بهسود (Hesa-e-Awal-e-Behsud)
+
+Code: AF0407, Coordinates: 34.531, 68.192
+
+
+### جغتو (Jaghatu)
+
+Code: AF0408, Coordinates: 33.837, 68.356
+
+
+### جلریز (Jalrez)
+
+Code: AF0403, Coordinates: 34.525, 68.582
+
+
+### مدکز بهسود (Markaz-e-Behsud)
+
+Code: AF0409, Coordinates: 34.405, 67.691
+
+
+### میدان شهر (Maydan Shahr)
+
+Code: AF0401, Coordinates: 34.444, 68.825
+
+
+### نرخ (Nerkh)
+
+Code: AF0402, Coordinates: 34.321, 68.764
+
+
+### سید آباد (Saydabad)
+
+Code: AF0405, Coordinates: 33.925, 68.657
+
+

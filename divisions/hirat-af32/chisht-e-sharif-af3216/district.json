@@ -1,0 +1,47 @@
+{
+  "id": "AF3216",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چشت شریف",
+    "en": "Chisht-e-Sharif",
+    "slug": "chisht-e-sharif-af3216"
+  },
+  "code": {
+    "id": "AF3216",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305901"
+  ],
+  "geo": {
+    "lat": "34.445",
+    "lon": "63.957"
+  },
+  "metadata": {},
+  "source": {}
+}

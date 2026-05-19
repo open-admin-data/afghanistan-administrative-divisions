@@ -1,0 +1,47 @@
+{
+  "id": "AF2702",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ارغنداب",
+    "en": "Arghandab",
+    "slug": "arghandab-af2702"
+  },
+  "code": {
+    "id": "AF2702",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "386001"
+  ],
+  "geo": {
+    "lat": "31.759",
+    "lon": "65.644"
+  },
+  "metadata": {},
+  "source": {}
+}

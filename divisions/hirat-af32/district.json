@@ -1,0 +1,754 @@
+[
+  {
+    "id": "AF3209",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ادرسکن",
+      "en": "Adraskan",
+      "slug": "adraskan-af3209"
+    },
+    "code": {
+      "id": "AF3209",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306201"
+    ],
+    "geo": {
+      "lat": "33.705",
+      "lon": "61.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3216",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چشت شریف",
+      "en": "Chisht-e-Sharif",
+      "slug": "chisht-e-sharif-af3216"
+    },
+    "code": {
+      "id": "AF3216",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305901"
+    ],
+    "geo": {
+      "lat": "34.445",
+      "lon": "63.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3215",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فرسی",
+      "en": "Farsi",
+      "slug": "farsi-af3215"
+    },
+    "code": {
+      "id": "AF3215",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306001"
+    ],
+    "geo": {
+      "lat": "33.843",
+      "lon": "63.284"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3211",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "غوریان",
+      "en": "Ghoryan",
+      "slug": "ghoryan-af3211"
+    },
+    "code": {
+      "id": "AF3211",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305101"
+    ],
+    "geo": {
+      "lat": "34.18",
+      "lon": "61.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3208",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گلران",
+      "en": "Gulran",
+      "slug": "gulran-af3208"
+    },
+    "code": {
+      "id": "AF3208",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305301"
+    ],
+    "geo": {
+      "lat": "35.134",
+      "lon": "61.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3203",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گذره",
+      "en": "Guzara",
+      "slug": "guzara-af3203"
+    },
+    "code": {
+      "id": "AF3203",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306501"
+    ],
+    "geo": {
+      "lat": "34.036",
+      "lon": "62.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3201",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af3201"
+    },
+    "code": {
+      "id": "AF3201",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306101"
+    ],
+    "geo": {
+      "lat": "34.372",
+      "lon": "62.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3202",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "انجیل",
+      "en": "Injil",
+      "slug": "injil-af3202"
+    },
+    "code": {
+      "id": "AF3202",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306101"
+    ],
+    "geo": {
+      "lat": "34.469",
+      "lon": "62.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3204",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کرُخ",
+      "en": "Karukh",
+      "slug": "karukh-af3204"
+    },
+    "code": {
+      "id": "AF3204",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305701"
+    ],
+    "geo": {
+      "lat": "34.504",
+      "lon": "62.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3213",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوهسان",
+      "en": "Kohsan",
+      "slug": "kohsan-af3213"
+    },
+    "code": {
+      "id": "AF3213",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305202"
+    ],
+    "geo": {
+      "lat": "34.614",
+      "lon": "61.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3207",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کُشک",
+      "en": "Kushk",
+      "slug": "kushk-af3207"
+    },
+    "code": {
+      "id": "AF3207",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305401"
+    ],
+    "geo": {
+      "lat": "35.004",
+      "lon": "62.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3210",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کُشک کهنه",
+      "en": "Kushk-e-Kuhna",
+      "slug": "kushk-e-kuhna-af3210"
+    },
+    "code": {
+      "id": "AF3210",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305501"
+    ],
+    "geo": {
+      "lat": "34.886",
+      "lon": "62.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3212",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اوبی",
+      "en": "Obe",
+      "slug": "obe-af3212"
+    },
+    "code": {
+      "id": "AF3212",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305801"
+    ],
+    "geo": {
+      "lat": "34.36",
+      "lon": "63.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3206",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پشتون زرغون",
+      "en": "Pashtun Zarghun",
+      "slug": "pashtun-zarghun-af3206"
+    },
+    "code": {
+      "id": "AF3206",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "305601"
+    ],
+    "geo": {
+      "lat": "34.184",
+      "lon": "62.755"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3214",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیندند",
+      "en": "Shindand",
+      "slug": "shindand-af3214"
+    },
+    "code": {
+      "id": "AF3214",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306801"
+    ],
+    "geo": {
+      "lat": "33.254",
+      "lon": "62.381"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3205",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زنده جان",
+      "en": "Zindajan",
+      "slug": "zindajan-af3205"
+    },
+    "code": {
+      "id": "AF3205",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF32",
+        "level": 1,
+        "name": {
+          "local": "هرات",
+          "en": "Hirat",
+          "slug": "hirat-af32"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "306401"
+    ],
+    "geo": {
+      "lat": "34.371",
+      "lon": "61.82"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

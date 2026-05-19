@@ -1,0 +1,47 @@
+{
+  "id": "AF1817",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ینگی قلعه",
+    "en": "Yangi Qala",
+    "slug": "yangi-qala-af1817"
+  },
+  "code": {
+    "id": "AF1817",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "376601"
+  ],
+  "geo": {
+    "lat": "37.461",
+    "lon": "69.67"
+  },
+  "metadata": {},
+  "source": {}
+}

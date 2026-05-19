@@ -1,0 +1,47 @@
+{
+  "id": "AF1806",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نمک آب",
+    "en": "Namak Ab",
+    "slug": "namak-ab-af1806"
+  },
+  "code": {
+    "id": "AF1806",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "376401"
+  ],
+  "geo": {
+    "lat": "36.472",
+    "lon": "69.715"
+  },
+  "metadata": {},
+  "source": {}
+}

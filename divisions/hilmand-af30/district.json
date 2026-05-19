@@ -1,0 +1,613 @@
+[
+  {
+    "id": "AF3012",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "باغران",
+      "en": "Baghran",
+      "slug": "baghran-af3012"
+    },
+    "code": {
+      "id": "AF3012",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395801"
+    ],
+    "geo": {
+      "lat": "33.126",
+      "lon": "65.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3013",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دیشو",
+      "en": "Deh-e-Shu",
+      "slug": "deh-e-shu-af3013"
+    },
+    "code": {
+      "id": "AF3013",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395101"
+    ],
+    "geo": {
+      "lat": "29.879",
+      "lon": "63.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3006",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گرم سیر",
+      "en": "Garmser",
+      "slug": "garmser-af3006"
+    },
+    "code": {
+      "id": "AF3006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395301"
+    ],
+    "geo": {
+      "lat": "30.31",
+      "lon": "64.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3010",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کجکی",
+      "en": "Kajaki",
+      "slug": "kajaki-af3010"
+    },
+    "code": {
+      "id": "AF3010",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395701"
+    ],
+    "geo": {
+      "lat": "32.531",
+      "lon": "65.02"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3001",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "لشکرگاه",
+      "en": "Lashkargah",
+      "slug": "lashkargah-af3001"
+    },
+    "code": {
+      "id": "AF3001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395501"
+    ],
+    "geo": {
+      "lat": "31.45",
+      "lon": "64.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3009",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "موسی قلعه",
+      "en": "Musa Qala",
+      "slug": "musa-qala-af3009"
+    },
+    "code": {
+      "id": "AF3009",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395901"
+    ],
+    "geo": {
+      "lat": "32.389",
+      "lon": "64.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3002",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نادعلی",
+      "en": "Nad-e-Ali",
+      "slug": "nad-e-ali-af3002"
+    },
+    "code": {
+      "id": "AF3002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "396101"
+    ],
+    "geo": {
+      "lat": "31.578",
+      "lon": "63.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3004",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نهر سراج",
+      "en": "Nahr-e-Saraj",
+      "slug": "nahr-e-saraj-af3004"
+    },
+    "code": {
+      "id": "AF3004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395501"
+    ],
+    "geo": {
+      "lat": "31.867",
+      "lon": "64.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3003",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ناوه بارکزائی",
+      "en": "Nawa-e-Barakzaiy",
+      "slug": "nawa-e-barakzaiy-af3003"
+    },
+    "code": {
+      "id": "AF3003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395401"
+    ],
+    "geo": {
+      "lat": "31.335",
+      "lon": "64.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3007",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نوزاد",
+      "en": "Nawzad",
+      "slug": "nawzad-af3007"
+    },
+    "code": {
+      "id": "AF3007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "396001"
+    ],
+    "geo": {
+      "lat": "32.526",
+      "lon": "64.496"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3011",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ریگ خان نشین",
+      "en": "Reg-i-Khan Nishin",
+      "slug": "reg-i-khan-nishin-af3011"
+    },
+    "code": {
+      "id": "AF3011",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395201"
+    ],
+    "geo": {
+      "lat": "30.83",
+      "lon": "63.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3008",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سنگین",
+      "en": "Sangin",
+      "slug": "sangin-af3008"
+    },
+    "code": {
+      "id": "AF3008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "395601"
+    ],
+    "geo": {
+      "lat": "32.096",
+      "lon": "64.978"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3005",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "واشیر",
+      "en": "Washer",
+      "slug": "washer-af3005"
+    },
+    "code": {
+      "id": "AF3005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF30",
+        "level": 1,
+        "name": {
+          "local": "هلمند",
+          "en": "Hilmand",
+          "slug": "hilmand-af30"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "396201"
+    ],
+    "geo": {
+      "lat": "32.103",
+      "lon": "63.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

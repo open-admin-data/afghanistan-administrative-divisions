@@ -1,0 +1,47 @@
+{
+  "id": "AF0105",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ده سبز",
+    "en": "Deh Sabz",
+    "slug": "deh-sabz-af0105"
+  },
+  "code": {
+    "id": "AF0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105401"
+  ],
+  "geo": {
+    "lat": "34.666",
+    "lon": "69.308"
+  },
+  "metadata": {},
+  "source": {}
+}

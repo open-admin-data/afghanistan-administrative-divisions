@@ -1,0 +1,29 @@
+{
+  "id": "AF02",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کاپیسا",
+    "en": "Kapisa",
+    "slug": "kapisa-af02"
+  },
+  "code": {
+    "id": "AF02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.963",
+    "lon": "69.623"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1402",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مندوزائی",
+    "en": "Mandozayi",
+    "slug": "mandozayi-af1402"
+  },
+  "code": {
+    "id": "AF1402",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255501"
+  ],
+  "geo": {
+    "lat": "33.317",
+    "lon": "69.78"
+  },
+  "metadata": {},
+  "source": {}
+}

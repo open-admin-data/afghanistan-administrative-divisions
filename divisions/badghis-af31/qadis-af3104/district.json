@@ -1,0 +1,47 @@
+{
+  "id": "AF3104",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قادیس",
+    "en": "Qadis",
+    "slug": "qadis-af3104"
+  },
+  "code": {
+    "id": "AF3104",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF31",
+    "level": 1,
+    "name": {
+      "local": "بادغیس",
+      "en": "Badghis",
+      "slug": "badghis-af31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "335501"
+  ],
+  "geo": {
+    "lat": "34.816",
+    "lon": "63.584"
+  },
+  "metadata": {},
+  "source": {}
+}

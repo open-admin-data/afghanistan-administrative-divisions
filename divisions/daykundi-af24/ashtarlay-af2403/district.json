@@ -1,0 +1,47 @@
+{
+  "id": "AF2403",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اشترلی",
+    "en": "Ashtarlay",
+    "slug": "ashtarlay-af2403"
+  },
+  "code": {
+    "id": "AF2403",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425501"
+  ],
+  "geo": {
+    "lat": "34.061",
+    "lon": "66.312"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0106",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شکردره",
+    "en": "Shakar Dara",
+    "slug": "shakar-dara-af0106"
+  },
+  "code": {
+    "id": "AF0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "106101"
+  ],
+  "geo": {
+    "lat": "34.664",
+    "lon": "69.036"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2606",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شاه جوی",
+    "en": "Shah Joi",
+    "slug": "shah-joi-af2606"
+  },
+  "code": {
+    "id": "AF2606",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405601"
+  ],
+  "geo": {
+    "lat": "32.498",
+    "lon": "67.395"
+  },
+  "metadata": {},
+  "source": {}
+}

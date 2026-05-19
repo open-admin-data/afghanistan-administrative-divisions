@@ -1,0 +1,84 @@
+# Kunar — Afghanistan Administrative Divisions
+
+> 15 districts
+> Code: AF15
+> Coordinates: 34.966, 71.094
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### اسد آباد (Asad Abad)
+
+Code: AF1501, Coordinates: 34.868, 71.13
+
+
+### برکنر (Bar Kunar)
+
+Code: AF1508, Coordinates: 35.072, 71.378
+
+
+### چپه دره (Chapa Dara)
+
+Code: AF1513, Coordinates: 34.959, 70.703
+
+
+### چوکی (Chawkay)
+
+Code: AF1509, Coordinates: 34.74, 70.867
+
+
+### دانگام (Dangam)
+
+Code: AF1512, Coordinates: 35.002, 71.437
+
+
+### دره پیچ (Dara-e-Pech)
+
+Code: AF1507, Coordinates: 34.953, 70.916
+
+
+### غازی آباد (Ghazi Abad)
+
+Code: AF1511, Coordinates: 35.233, 71.33
+
+
+### خاص کنر (Khas Kunar)
+
+Code: AF1510, Coordinates: 34.613, 70.939
+
+
+### مروره (Marawara)
+
+Code: AF1502, Coordinates: 34.862, 71.229
+
+
+### نرنگ (Narang)
+
+Code: AF1504, Coordinates: 34.802, 71.004
+
+
+### ناړی (Nari)
+
+Code: AF1515, Coordinates: 35.268, 71.541
+
+
+### نورگل (Nurgal)
+
+Code: AF1514, Coordinates: 34.694, 70.731
+
+
+### سرکانی (Sar Kani)
+
+Code: AF1505, Coordinates: 34.751, 71.119
+
+
+### شیگل وشلتن (Shigal)
+
+Code: AF1506, Coordinates: 35.036, 71.225
+
+
+### وته پور (Watapur)
+
+Code: AF1503, Coordinates: 34.996, 71.082
+
+

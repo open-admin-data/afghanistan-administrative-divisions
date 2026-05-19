@@ -1,0 +1,47 @@
+{
+  "id": "AF3203",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گذره",
+    "en": "Guzara",
+    "slug": "guzara-af3203"
+  },
+  "code": {
+    "id": "AF3203",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306501"
+  ],
+  "geo": {
+    "lat": "34.036",
+    "lon": "62.039"
+  },
+  "metadata": {},
+  "source": {}
+}

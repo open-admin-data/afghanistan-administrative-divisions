@@ -1,0 +1,47 @@
+{
+  "id": "AF1906",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دشت ارچی",
+    "en": "Dasht-e-Archi",
+    "slug": "dasht-e-archi-af1906"
+  },
+  "code": {
+    "id": "AF1906",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF19",
+    "level": 1,
+    "name": {
+      "local": "کندز",
+      "en": "Kunduz",
+      "slug": "kunduz-af19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "355101"
+  ],
+  "geo": {
+    "lat": "36.964",
+    "lon": "69.157"
+  },
+  "metadata": {},
+  "source": {}
+}

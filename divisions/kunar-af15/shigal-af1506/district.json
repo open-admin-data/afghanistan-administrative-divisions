@@ -1,0 +1,47 @@
+{
+  "id": "AF1506",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شیگل وشلتن",
+    "en": "Shigal",
+    "slug": "shigal-af1506"
+  },
+  "code": {
+    "id": "AF1506",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "286101"
+  ],
+  "geo": {
+    "lat": "35.036",
+    "lon": "71.225"
+  },
+  "metadata": {},
+  "source": {}
+}

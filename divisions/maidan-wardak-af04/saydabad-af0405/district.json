@@ -1,0 +1,47 @@
+{
+  "id": "AF0405",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سید آباد",
+    "en": "Saydabad",
+    "slug": "saydabad-af0405"
+  },
+  "code": {
+    "id": "AF0405",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135501"
+  ],
+  "geo": {
+    "lat": "33.925",
+    "lon": "68.657"
+  },
+  "metadata": {},
+  "source": {}
+}

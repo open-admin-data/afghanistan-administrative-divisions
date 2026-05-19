@@ -1,0 +1,47 @@
+{
+  "id": "AF1601",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پرونس",
+    "en": "Parun",
+    "slug": "parun-af1601"
+  },
+  "code": {
+    "id": "AF1601",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295901"
+  ],
+  "geo": {
+    "lat": "35.408",
+    "lon": "70.802"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF0805",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "عنابه",
+      "en": "Anawa",
+      "slug": "anawa-af0805"
+    },
+    "code": {
+      "id": "AF0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155601"
+    ],
+    "geo": {
+      "lat": "35.224",
+      "lon": "69.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0801",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بازارک",
+      "en": "Bazarak",
+      "slug": "bazarak-af0801"
+    },
+    "code": {
+      "id": "AF0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155301"
+    ],
+    "geo": {
+      "lat": "35.375",
+      "lon": "69.511"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0803",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دره",
+      "en": "Dara",
+      "slug": "dara-af0803"
+    },
+    "code": {
+      "id": "AF0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155401"
+    ],
+    "geo": {
+      "lat": "35.236",
+      "lon": "69.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0804",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خنج (حصه اول)",
+      "en": "Khenj",
+      "slug": "khenj-af0804"
+    },
+    "code": {
+      "id": "AF0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155501"
+    ],
+    "geo": {
+      "lat": "35.429",
+      "lon": "69.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0807",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پریان",
+      "en": "Paryan",
+      "slug": "paryan-af0807"
+    },
+    "code": {
+      "id": "AF0807",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155101"
+    ],
+    "geo": {
+      "lat": "35.647",
+      "lon": "70.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0802",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "رُخه",
+      "en": "Rukha",
+      "slug": "rukha-af0802"
+    },
+    "code": {
+      "id": "AF0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155301"
+    ],
+    "geo": {
+      "lat": "35.267",
+      "lon": "69.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0806",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شُتل",
+      "en": "Shutul",
+      "slug": "shutul-af0806"
+    },
+    "code": {
+      "id": "AF0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF08",
+        "level": 1,
+        "name": {
+          "local": "پنجشیر",
+          "en": "Panjsher",
+          "slug": "panjsher-af08"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "155201"
+    ],
+    "geo": {
+      "lat": "35.293",
+      "lon": "69.303"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

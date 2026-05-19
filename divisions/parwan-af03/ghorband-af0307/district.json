@@ -1,0 +1,47 @@
+{
+  "id": "AF0307",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "غوربند",
+    "en": "Ghorband",
+    "slug": "ghorband-af0307"
+  },
+  "code": {
+    "id": "AF0307",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115301"
+  ],
+  "geo": {
+    "lat": "35.011",
+    "lon": "68.788"
+  },
+  "metadata": {},
+  "source": {}
+}

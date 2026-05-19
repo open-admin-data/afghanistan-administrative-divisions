@@ -1,0 +1,47 @@
+{
+  "id": "AF1112",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گیرو",
+    "en": "Giro",
+    "slug": "giro-af1112"
+  },
+  "code": {
+    "id": "AF1112",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235501"
+  ],
+  "geo": {
+    "lat": "33.063",
+    "lon": "68.346"
+  },
+  "metadata": {},
+  "source": {}
+}

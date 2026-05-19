@@ -1,0 +1,47 @@
+{
+  "id": "AF3008",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سنگین",
+    "en": "Sangin",
+    "slug": "sangin-af3008"
+  },
+  "code": {
+    "id": "AF3008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395601"
+  ],
+  "geo": {
+    "lat": "32.096",
+    "lon": "64.978"
+  },
+  "metadata": {},
+  "source": {}
+}

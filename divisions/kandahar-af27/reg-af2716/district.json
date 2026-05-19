@@ -1,0 +1,47 @@
+{
+  "id": "AF2716",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ریگ ( شگه )",
+    "en": "Reg",
+    "slug": "reg-af2716"
+  },
+  "code": {
+    "id": "AF2716",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "385101"
+  ],
+  "geo": {
+    "lat": "30.124",
+    "lon": "65.173"
+  },
+  "metadata": {},
+  "source": {}
+}

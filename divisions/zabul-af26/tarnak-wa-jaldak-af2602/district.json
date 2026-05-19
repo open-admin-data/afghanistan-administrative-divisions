@@ -1,0 +1,47 @@
+{
+  "id": "AF2602",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ترنک و جلدک",
+    "en": "Tarnak Wa Jaldak",
+    "slug": "tarnak-wa-jaldak-af2602"
+  },
+  "code": {
+    "id": "AF2602",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405101"
+  ],
+  "geo": {
+    "lat": "31.907",
+    "lon": "66.516"
+  },
+  "metadata": {},
+  "source": {}
+}

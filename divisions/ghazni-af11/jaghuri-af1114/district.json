@@ -1,0 +1,47 @@
+{
+  "id": "AF1114",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جاغوری",
+    "en": "Jaghuri",
+    "slug": "jaghuri-af1114"
+  },
+  "code": {
+    "id": "AF1114",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236601"
+  ],
+  "geo": {
+    "lat": "33.143",
+    "lon": "67.464"
+  },
+  "metadata": {},
+  "source": {}
+}

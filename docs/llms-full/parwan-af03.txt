@@ -1,0 +1,59 @@
+# Parwan — Afghanistan Administrative Divisions
+
+> 10 districts
+> Code: AF03
+> Coordinates: 34.958, 68.886
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### بگرام (Bagram)
+
+Code: AF0302, Coordinates: 34.924, 69.331
+
+
+### چاریکار (Charikar)
+
+Code: AF0301, Coordinates: 34.988, 69.142
+
+
+### غوربند (Ghorband)
+
+Code: AF0307, Coordinates: 35.011, 68.788
+
+
+### جبل السراج (Jabal Saraj)
+
+Code: AF0305, Coordinates: 35.123, 69.186
+
+
+### کوه صافی (Koh-e-Safi)
+
+Code: AF0308, Coordinates: 34.761, 69.472
+
+
+### سالنگ (Salang)
+
+Code: AF0306, Coordinates: 35.277, 69.151
+
+
+### سیدخیل (Sayed Khel)
+
+Code: AF0304, Coordinates: 35.047, 69.265
+
+
+### شیخ علی (Shekh Ali)
+
+Code: AF0310, Coordinates: 34.947, 68.419
+
+
+### شینواری (Shinwari)
+
+Code: AF0303, Coordinates: 35.12, 68.971
+
+
+### سرخ پارسا (Surkh-e-Parsa)
+
+Code: AF0309, Coordinates: 34.765, 68.626
+
+

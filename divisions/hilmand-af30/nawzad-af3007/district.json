@@ -1,0 +1,47 @@
+{
+  "id": "AF3007",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نوزاد",
+    "en": "Nawzad",
+    "slug": "nawzad-af3007"
+  },
+  "code": {
+    "id": "AF3007",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "396001"
+  ],
+  "geo": {
+    "lat": "32.526",
+    "lon": "64.496"
+  },
+  "metadata": {},
+  "source": {}
+}

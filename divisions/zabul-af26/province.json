@@ -1,0 +1,29 @@
+{
+  "id": "AF26",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "زابل",
+    "en": "Zabul",
+    "slug": "zabul-af26"
+  },
+  "code": {
+    "id": "AF26",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.2",
+    "lon": "67.148"
+  },
+  "metadata": {},
+  "source": {}
+}

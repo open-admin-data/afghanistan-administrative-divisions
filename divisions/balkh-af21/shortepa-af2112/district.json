@@ -1,0 +1,47 @@
+{
+  "id": "AF2112",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شور تیپه",
+    "en": "Shortepa",
+    "slug": "shortepa-af2112"
+  },
+  "code": {
+    "id": "AF2112",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175301"
+  ],
+  "geo": {
+    "lat": "37.257",
+    "lon": "66.851"
+  },
+  "metadata": {},
+  "source": {}
+}

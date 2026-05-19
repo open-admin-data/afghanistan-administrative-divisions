@@ -1,0 +1,44 @@
+# Kunduz — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF19
+> Coordinates: 36.843, 68.746
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### علی آباد (Ali Abad)
+
+Code: AF1903, Coordinates: 36.529, 68.878
+
+
+### چهار دره (Chahar Darah)
+
+Code: AF1902, Coordinates: 36.654, 68.567
+
+
+### دشت ارچی (Dasht-e-Archi)
+
+Code: AF1906, Coordinates: 36.964, 69.157
+
+
+### امام صاحب (Imam Sahib)
+
+Code: AF1905, Coordinates: 37.108, 68.854
+
+
+### خان آباد (Khan Abad)
+
+Code: AF1904, Coordinates: 36.603, 69.104
+
+
+### کندز (Kunduz)
+
+Code: AF1901, Coordinates: 36.797, 68.859
+
+
+### قلعه ذال (Qala-e-Zal)
+
+Code: AF1907, Coordinates: 36.898, 68.362
+
+

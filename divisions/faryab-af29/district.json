@@ -1,0 +1,660 @@
+[
+  {
+    "id": "AF2904",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "المار",
+      "en": "Almar",
+      "slug": "almar-af2904"
+    },
+    "code": {
+      "id": "AF2904",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "186201"
+    ],
+    "geo": {
+      "lat": "35.956",
+      "lon": "64.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2913",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اندخوی",
+      "en": "Andkhoy",
+      "slug": "andkhoy-af2913"
+    },
+    "code": {
+      "id": "AF2913",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185201"
+    ],
+    "geo": {
+      "lat": "36.853",
+      "lon": "65.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2905",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بلچراغ",
+      "en": "Bilcheragh",
+      "slug": "bilcheragh-af2905"
+    },
+    "code": {
+      "id": "AF2905",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "186001"
+    ],
+    "geo": {
+      "lat": "35.881",
+      "lon": "65.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2909",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دولت آباد",
+      "en": "Dawlat Abad",
+      "slug": "dawlat-abad-af2909"
+    },
+    "code": {
+      "id": "AF2909",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185501"
+    ],
+    "geo": {
+      "lat": "36.536",
+      "lon": "65.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2908",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گرزیوان",
+      "en": "Garzewan",
+      "slug": "garzewan-af2908"
+    },
+    "code": {
+      "id": "AF2908",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "186101"
+    ],
+    "geo": {
+      "lat": "35.632",
+      "lon": "65.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2914",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خان چارباغ",
+      "en": "Khan-e-Char Bagh",
+      "slug": "khan-e-char-bagh-af2914"
+    },
+    "code": {
+      "id": "AF2914",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185101"
+    ],
+    "geo": {
+      "lat": "37.111",
+      "lon": "65.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2903",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواجه سبزپوش",
+      "en": "Khwaja Sabz Posh",
+      "slug": "khwaja-sabz-posh-af2903"
+    },
+    "code": {
+      "id": "AF2903",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185801"
+    ],
+    "geo": {
+      "lat": "36.059",
+      "lon": "64.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2910",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوهستان",
+      "en": "Kohistan",
+      "slug": "kohistan-af2910"
+    },
+    "code": {
+      "id": "AF2910",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185701"
+    ],
+    "geo": {
+      "lat": "35.334",
+      "lon": "64.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2901",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میمنه",
+      "en": "Maymana",
+      "slug": "maymana-af2901"
+    },
+    "code": {
+      "id": "AF2901",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185901"
+    ],
+    "geo": {
+      "lat": "35.937",
+      "lon": "64.793"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2902",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پشتون کوټ",
+      "en": "Pashtun Kot",
+      "slug": "pashtun-kot-af2902"
+    },
+    "code": {
+      "id": "AF2902",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185901"
+    ],
+    "geo": {
+      "lat": "35.81",
+      "lon": "64.778"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2911",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قرم قل",
+      "en": "Qaram Qul",
+      "slug": "qaram-qul-af2911"
+    },
+    "code": {
+      "id": "AF2911",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185401"
+    ],
+    "geo": {
+      "lat": "36.793",
+      "lon": "64.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2907",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قیصار",
+      "en": "Qaysar",
+      "slug": "qaysar-af2907"
+    },
+    "code": {
+      "id": "AF2907",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "186301"
+    ],
+    "geo": {
+      "lat": "35.641",
+      "lon": "64.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2912",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قرغان",
+      "en": "Qurghan",
+      "slug": "qurghan-af2912"
+    },
+    "code": {
+      "id": "AF2912",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185301"
+    ],
+    "geo": {
+      "lat": "37.036",
+      "lon": "64.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2906",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیرین تگاب",
+      "en": "Shirin Tagab",
+      "slug": "shirin-tagab-af2906"
+    },
+    "code": {
+      "id": "AF2906",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF29",
+        "level": 1,
+        "name": {
+          "local": "فاریاب",
+          "en": "Faryab",
+          "slug": "faryab-af29"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "185601"
+    ],
+    "geo": {
+      "lat": "36.247",
+      "lon": "64.822"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

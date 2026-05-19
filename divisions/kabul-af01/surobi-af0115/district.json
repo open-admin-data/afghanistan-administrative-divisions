@@ -1,0 +1,47 @@
+{
+  "id": "AF0115",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سروبی",
+    "en": "Surobi",
+    "slug": "surobi-af0115"
+  },
+  "code": {
+    "id": "AF0115",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105601"
+  ],
+  "geo": {
+    "lat": "34.528",
+    "lon": "69.704"
+  },
+  "metadata": {},
+  "source": {}
+}

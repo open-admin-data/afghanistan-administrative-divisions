@@ -1,0 +1,47 @@
+{
+  "id": "AF2804",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "منگجک",
+    "en": "Mingajik",
+    "slug": "mingajik-af2804"
+  },
+  "code": {
+    "id": "AF2804",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195901"
+  ],
+  "geo": {
+    "lat": "37.055",
+    "lon": "65.989"
+  },
+  "metadata": {},
+  "source": {}
+}

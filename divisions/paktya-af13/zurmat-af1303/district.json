@@ -1,0 +1,47 @@
+{
+  "id": "AF1303",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "زُرمت",
+    "en": "Zurmat",
+    "slug": "zurmat-af1303"
+  },
+  "code": {
+    "id": "AF1303",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225101"
+  ],
+  "geo": {
+    "lat": "33.424",
+    "lon": "69.042"
+  },
+  "metadata": {},
+  "source": {}
+}

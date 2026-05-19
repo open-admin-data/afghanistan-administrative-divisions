@@ -1,0 +1,47 @@
+{
+  "id": "AF3202",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "انجیل",
+    "en": "Injil",
+    "slug": "injil-af3202"
+  },
+  "code": {
+    "id": "AF3202",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306101"
+  ],
+  "geo": {
+    "lat": "34.469",
+    "lon": "62.179"
+  },
+  "metadata": {},
+  "source": {}
+}

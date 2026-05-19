@@ -1,0 +1,47 @@
+{
+  "id": "AF1602",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "وایگل",
+    "en": "Waygal",
+    "slug": "waygal-af1602"
+  },
+  "code": {
+    "id": "AF1602",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295301"
+  ],
+  "geo": {
+    "lat": "35.226",
+    "lon": "71.026"
+  },
+  "metadata": {},
+  "source": {}
+}

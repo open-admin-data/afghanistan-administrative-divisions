@@ -1,0 +1,47 @@
+{
+  "id": "AF3010",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کجکی",
+    "en": "Kajaki",
+    "slug": "kajaki-af3010"
+  },
+  "code": {
+    "id": "AF3010",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395701"
+  ],
+  "geo": {
+    "lat": "32.531",
+    "lon": "65.02"
+  },
+  "metadata": {},
+  "source": {}
+}

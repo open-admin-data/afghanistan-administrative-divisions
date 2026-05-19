@@ -1,0 +1,47 @@
+{
+  "id": "AF1708",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوهستان",
+    "en": "Kohistan",
+    "slug": "kohistan-af1708"
+  },
+  "code": {
+    "id": "AF1708",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346001"
+  ],
+  "geo": {
+    "lat": "37.421",
+    "lon": "70.656"
+  },
+  "metadata": {},
+  "source": {}
+}

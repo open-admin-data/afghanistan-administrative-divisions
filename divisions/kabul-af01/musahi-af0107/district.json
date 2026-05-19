@@ -1,0 +1,47 @@
+{
+  "id": "AF0107",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "موسهی",
+    "en": "Musahi",
+    "slug": "musahi-af0107"
+  },
+  "code": {
+    "id": "AF0107",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "105201"
+  ],
+  "geo": {
+    "lat": "34.369",
+    "lon": "69.219"
+  },
+  "metadata": {},
+  "source": {}
+}

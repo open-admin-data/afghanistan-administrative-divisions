@@ -1,0 +1,47 @@
+{
+  "id": "AF2906",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شیرین تگاب",
+    "en": "Shirin Tagab",
+    "slug": "shirin-tagab-af2906"
+  },
+  "code": {
+    "id": "AF2906",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185601"
+  ],
+  "geo": {
+    "lat": "36.247",
+    "lon": "64.822"
+  },
+  "metadata": {},
+  "source": {}
+}

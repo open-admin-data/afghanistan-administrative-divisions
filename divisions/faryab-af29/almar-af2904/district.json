@@ -1,0 +1,47 @@
+{
+  "id": "AF2904",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "المار",
+    "en": "Almar",
+    "slug": "almar-af2904"
+  },
+  "code": {
+    "id": "AF2904",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "186201"
+  ],
+  "geo": {
+    "lat": "35.956",
+    "lon": "64.278"
+  },
+  "metadata": {},
+  "source": {}
+}

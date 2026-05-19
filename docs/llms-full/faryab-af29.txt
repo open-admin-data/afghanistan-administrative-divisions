@@ -1,0 +1,79 @@
+# Faryab — Afghanistan Administrative Divisions
+
+> 14 districts
+> Code: AF29
+> Coordinates: 36.06, 64.869
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### المار (Almar)
+
+Code: AF2904, Coordinates: 35.956, 64.278
+
+
+### اندخوی (Andkhoy)
+
+Code: AF2913, Coordinates: 36.853, 65.286
+
+
+### بلچراغ (Bilcheragh)
+
+Code: AF2905, Coordinates: 35.881, 65.453
+
+
+### دولت آباد (Dawlat Abad)
+
+Code: AF2909, Coordinates: 36.536, 65.056
+
+
+### گرزیوان (Garzewan)
+
+Code: AF2908, Coordinates: 35.632, 65.283
+
+
+### خان چارباغ (Khan-e-Char Bagh)
+
+Code: AF2914, Coordinates: 37.111, 65.23
+
+
+### خواجه سبزپوش (Khwaja Sabz Posh)
+
+Code: AF2903, Coordinates: 36.059, 64.966
+
+
+### کوهستان (Kohistan)
+
+Code: AF2910, Coordinates: 35.334, 64.923
+
+
+### میمنه (Maymana)
+
+Code: AF2901, Coordinates: 35.937, 64.793
+
+
+### پشتون کوټ (Pashtun Kot)
+
+Code: AF2902, Coordinates: 35.81, 64.778
+
+
+### قرم قل (Qaram Qul)
+
+Code: AF2911, Coordinates: 36.793, 64.964
+
+
+### قیصار (Qaysar)
+
+Code: AF2907, Coordinates: 35.641, 64.279
+
+
+### قرغان (Qurghan)
+
+Code: AF2912, Coordinates: 37.036, 64.942
+
+
+### شیرین تگاب (Shirin Tagab)
+
+Code: AF2906, Coordinates: 36.247, 64.822
+
+

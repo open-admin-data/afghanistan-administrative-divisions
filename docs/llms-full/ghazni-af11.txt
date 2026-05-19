@@ -1,0 +1,104 @@
+# Ghazni — Afghanistan Administrative Divisions
+
+> 19 districts
+> Code: AF11
+> Coordinates: 33.316, 67.811
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### آب بند (Ab Band)
+
+Code: AF1113, Coordinates: 32.883, 68.064
+
+
+### اجرستان (Ajristan)
+
+Code: AF1118, Coordinates: 33.517, 67.121
+
+
+### اندړ (Andar)
+
+Code: AF1107, Coordinates: 33.306, 68.448
+
+
+### ده یک (Deh Yak)
+
+Code: AF1105, Coordinates: 33.475, 68.653
+
+
+### گیلان (Gelan)
+
+Code: AF1117, Coordinates: 32.713, 67.655
+
+
+### غزنی (Ghazni)
+
+Code: AF1101, Coordinates: 33.534, 68.437
+
+
+### گیرو (Giro)
+
+Code: AF1112, Coordinates: 33.063, 68.346
+
+
+### جغتو (Jaghatu)
+
+Code: AF1106, Coordinates: 33.528, 68.069
+
+
+### جاغوری (Jaghuri)
+
+Code: AF1114, Coordinates: 33.143, 67.464
+
+
+### خواجه عمری (Khwaja Umari)
+
+Code: AF1103, Coordinates: 33.676, 68.422
+
+
+### مالستان (Malistan)
+
+Code: AF1116, Coordinates: 33.298, 67.243
+
+
+### مقر (Muqur)
+
+Code: AF1115, Coordinates: 32.94, 67.782
+
+
+### ناوه (Nawa)
+
+Code: AF1119, Coordinates: 32.327, 67.897
+
+
+### ناور (Nawur)
+
+Code: AF1110, Coordinates: 33.846, 67.741
+
+
+### قره باغ (Qara Bagh)
+
+Code: AF1111, Coordinates: 33.221, 67.987
+
+
+### رشیدان (Rashidan)
+
+Code: AF1109, Coordinates: 33.698, 68.148
+
+
+### واغظ (Waghaz)
+
+Code: AF1104, Coordinates: 33.409, 68.212
+
+
+### ولی محمد شهید (Wal-e-Muhammad-e-Shahid)
+
+Code: AF1102, Coordinates: 33.559, 68.299
+
+
+### زنه خان (Zanakhan)
+
+Code: AF1108, Coordinates: 33.679, 68.666
+
+

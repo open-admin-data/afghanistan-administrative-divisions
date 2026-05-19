@@ -1,0 +1,47 @@
+{
+  "id": "AF0201",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "محمود راقی",
+    "en": "Mahmood-e-Raqi",
+    "slug": "mahmood-e-raqi-af0201"
+  },
+  "code": {
+    "id": "AF0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF02",
+    "level": 1,
+    "name": {
+      "local": "کاپیسا",
+      "en": "Kapisa",
+      "slug": "kapisa-af02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "125101"
+  ],
+  "geo": {
+    "lat": "35.005",
+    "lon": "69.421"
+  },
+  "metadata": {},
+  "source": {}
+}

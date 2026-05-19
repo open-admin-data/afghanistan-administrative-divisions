@@ -1,0 +1,47 @@
+{
+  "id": "AF1728",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "واخان",
+    "en": "Wakhan",
+    "slug": "wakhan-af1728"
+  },
+  "code": {
+    "id": "AF1728",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347501"
+  ],
+  "geo": {
+    "lat": "37.057",
+    "lon": "73.35"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0505",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "محمدآغه",
+    "en": "Mohammad Agha",
+    "slug": "mohammad-agha-af0505"
+  },
+  "code": {
+    "id": "AF0505",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145101"
+  ],
+  "geo": {
+    "lat": "34.21",
+    "lon": "69.179"
+  },
+  "metadata": {},
+  "source": {}
+}

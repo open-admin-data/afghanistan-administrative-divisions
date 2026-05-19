@@ -1,0 +1,47 @@
+{
+  "id": "AF0403",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جلریز",
+    "en": "Jalrez",
+    "slug": "jalrez-af0403"
+  },
+  "code": {
+    "id": "AF0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135301"
+  ],
+  "geo": {
+    "lat": "34.525",
+    "lon": "68.582"
+  },
+  "metadata": {},
+  "source": {}
+}

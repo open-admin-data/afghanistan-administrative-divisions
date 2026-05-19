@@ -1,0 +1,47 @@
+{
+  "id": "AF0303",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شینواری",
+    "en": "Shinwari",
+    "slug": "shinwari-af0303"
+  },
+  "code": {
+    "id": "AF0303",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115401"
+  ],
+  "geo": {
+    "lat": "35.12",
+    "lon": "68.971"
+  },
+  "metadata": {},
+  "source": {}
+}

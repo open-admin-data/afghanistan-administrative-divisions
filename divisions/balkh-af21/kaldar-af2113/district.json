@@ -1,0 +1,47 @@
+{
+  "id": "AF2113",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کلدار",
+    "en": "Kaldar",
+    "slug": "kaldar-af2113"
+  },
+  "code": {
+    "id": "AF2113",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175502"
+  ],
+  "geo": {
+    "lat": "37.127",
+    "lon": "67.549"
+  },
+  "metadata": {},
+  "source": {}
+}

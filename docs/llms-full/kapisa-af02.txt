@@ -1,0 +1,44 @@
+# Kapisa — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF02
+> Coordinates: 34.963, 69.623
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### اله سای (Alasay)
+
+Code: AF0207, Coordinates: 34.926, 69.809
+
+
+### حصه اول کوهستان (Hisa-e-Awal-e-Kohistan)
+
+Code: AF0204, Coordinates: 35.139, 69.345
+
+
+### حصه دوم کوهستان (Hisa-e-Duwum-e-Kohistan)
+
+Code: AF0202, Coordinates: 35.073, 69.332
+
+
+### کوه بند (Koh Band)
+
+Code: AF0203, Coordinates: 35.105, 69.473
+
+
+### محمود راقی (Mahmood-e-Raqi)
+
+Code: AF0201, Coordinates: 35.005, 69.421
+
+
+### نجراب (Nijrab)
+
+Code: AF0205, Coordinates: 35.046, 69.646
+
+
+### تگاب (Tagab)
+
+Code: AF0206, Coordinates: 34.795, 69.679
+
+

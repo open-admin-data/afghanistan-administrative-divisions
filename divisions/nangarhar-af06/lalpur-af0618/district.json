@@ -1,0 +1,47 @@
+{
+  "id": "AF0618",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "لعل پور",
+    "en": "Lalpur",
+    "slug": "lalpur-af0618"
+  },
+  "code": {
+    "id": "AF0618",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "267001"
+  ],
+  "geo": {
+    "lat": "34.333",
+    "lon": "71.025"
+  },
+  "metadata": {},
+  "source": {}
+}

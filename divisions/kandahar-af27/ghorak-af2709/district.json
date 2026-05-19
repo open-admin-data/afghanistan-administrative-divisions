@@ -1,0 +1,47 @@
+{
+  "id": "AF2709",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "غورک",
+    "en": "Ghorak",
+    "slug": "ghorak-af2709"
+  },
+  "code": {
+    "id": "AF2709",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "386501"
+  ],
+  "geo": {
+    "lat": "32.045",
+    "lon": "65.204"
+  },
+  "metadata": {},
+  "source": {}
+}

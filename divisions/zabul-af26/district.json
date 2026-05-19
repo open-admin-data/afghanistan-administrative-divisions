@@ -1,0 +1,519 @@
+[
+  {
+    "id": "AF2605",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارغنداب",
+      "en": "Arghandab",
+      "slug": "arghandab-af2605"
+    },
+    "code": {
+      "id": "AF2605",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405501"
+    ],
+    "geo": {
+      "lat": "32.512",
+      "lon": "66.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2608",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اتغر",
+      "en": "Atghar",
+      "slug": "atghar-af2608"
+    },
+    "code": {
+      "id": "AF2608",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "406001"
+    ],
+    "geo": {
+      "lat": "31.725",
+      "lon": "67.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2607",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دای چوپان",
+      "en": "Daychopan",
+      "slug": "daychopan-af2607"
+    },
+    "code": {
+      "id": "AF2607",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405401"
+    ],
+    "geo": {
+      "lat": "32.613",
+      "lon": "66.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2611",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کاکړ",
+      "en": "Kakar",
+      "slug": "kakar-af2611"
+    },
+    "code": {
+      "id": "AF2611",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405301"
+    ],
+    "geo": {
+      "lat": "32.862",
+      "lon": "67.183"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2604",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میزان",
+      "en": "Mizan",
+      "slug": "mizan-af2604"
+    },
+    "code": {
+      "id": "AF2604",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405201"
+    ],
+    "geo": {
+      "lat": "32.179",
+      "lon": "66.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2609",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نوبهار",
+      "en": "Nawbahar",
+      "slug": "nawbahar-af2609"
+    },
+    "code": {
+      "id": "AF2609",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405901"
+    ],
+    "geo": {
+      "lat": "32.217",
+      "lon": "67.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2601",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلات",
+      "en": "Qalat",
+      "slug": "qalat-af2601"
+    },
+    "code": {
+      "id": "AF2601",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405501"
+    ],
+    "geo": {
+      "lat": "32.21",
+      "lon": "66.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2606",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شاه جوی",
+      "en": "Shah Joi",
+      "slug": "shah-joi-af2606"
+    },
+    "code": {
+      "id": "AF2606",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405601"
+    ],
+    "geo": {
+      "lat": "32.498",
+      "lon": "67.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2610",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شملزائی",
+      "en": "Shamul Zayi",
+      "slug": "shamul-zayi-af2610"
+    },
+    "code": {
+      "id": "AF2610",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405701"
+    ],
+    "geo": {
+      "lat": "31.821",
+      "lon": "67.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2603",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شینکی",
+      "en": "Shinkay",
+      "slug": "shinkay-af2603"
+    },
+    "code": {
+      "id": "AF2603",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405801"
+    ],
+    "geo": {
+      "lat": "31.92",
+      "lon": "67.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2602",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ترنک و جلدک",
+      "en": "Tarnak Wa Jaldak",
+      "slug": "tarnak-wa-jaldak-af2602"
+    },
+    "code": {
+      "id": "AF2602",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF26",
+        "level": 1,
+        "name": {
+          "local": "زابل",
+          "en": "Zabul",
+          "slug": "zabul-af26"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "405101"
+    ],
+    "geo": {
+      "lat": "31.907",
+      "lon": "66.516"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

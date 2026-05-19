@@ -1,0 +1,47 @@
+{
+  "id": "AF1709",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "یاوان",
+    "en": "Yawan",
+    "slug": "yawan-af1709"
+  },
+  "code": {
+    "id": "AF1709",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "345201"
+  ],
+  "geo": {
+    "lat": "37.528",
+    "lon": "70.38"
+  },
+  "metadata": {},
+  "source": {}
+}

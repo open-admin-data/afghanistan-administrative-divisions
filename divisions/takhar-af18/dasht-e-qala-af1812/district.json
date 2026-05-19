@@ -1,0 +1,47 @@
+{
+  "id": "AF1812",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دشت قلعه",
+    "en": "Dasht-e-Qala",
+    "slug": "dasht-e-qala-af1812"
+  },
+  "code": {
+    "id": "AF1812",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375901"
+  ],
+  "geo": {
+    "lat": "37.202",
+    "lon": "69.502"
+  },
+  "metadata": {},
+  "source": {}
+}

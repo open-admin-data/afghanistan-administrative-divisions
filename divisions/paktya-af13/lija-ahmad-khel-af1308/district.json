@@ -1,0 +1,47 @@
+{
+  "id": "AF1308",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "لجه احمد خیل",
+    "en": "Lija Ahmad Khel",
+    "slug": "lija-ahmad-khel-af1308"
+  },
+  "code": {
+    "id": "AF1308",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225601"
+  ],
+  "geo": {
+    "lat": "33.816",
+    "lon": "69.634"
+  },
+  "metadata": {},
+  "source": {}
+}

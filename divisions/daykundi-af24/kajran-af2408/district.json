@@ -1,0 +1,47 @@
+{
+  "id": "AF2408",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کجران",
+    "en": "Kajran",
+    "slug": "kajran-af2408"
+  },
+  "code": {
+    "id": "AF2408",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425101"
+  ],
+  "geo": {
+    "lat": "33.165",
+    "lon": "65.684"
+  },
+  "metadata": {},
+  "source": {}
+}

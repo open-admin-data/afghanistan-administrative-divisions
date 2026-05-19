@@ -1,0 +1,1318 @@
+[
+  {
+    "id": "AF1703",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارغنچخواه",
+      "en": "Arghanj Khwah",
+      "slug": "arghanj-khwah-af1703"
+    },
+    "code": {
+      "id": "AF1703",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346801"
+    ],
+    "geo": {
+      "lat": "37.266",
+      "lon": "70.821"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1702",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ارگو",
+      "en": "Argo",
+      "slug": "argo-af1702"
+    },
+    "code": {
+      "id": "AF1702",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345701"
+    ],
+    "geo": {
+      "lat": "37.063",
+      "lon": "70.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1706",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بهارک",
+      "en": "Baharak",
+      "slug": "baharak-af1706"
+    },
+    "code": {
+      "id": "AF1706",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347001"
+    ],
+    "geo": {
+      "lat": "37.029",
+      "lon": "70.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1707",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "درایم",
+      "en": "Darayem",
+      "slug": "darayem-af1707"
+    },
+    "code": {
+      "id": "AF1707",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345601"
+    ],
+    "geo": {
+      "lat": "36.872",
+      "lon": "70.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1727",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دروازبالا ( نیسی)",
+      "en": "Darwaz-e-Balla",
+      "slug": "darwaz-e-balla-af1727"
+    },
+    "code": {
+      "id": "AF1727",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346601"
+    ],
+    "geo": {
+      "lat": "38.129",
+      "lon": "71.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1722",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "درواز پائین (ما می )",
+      "en": "Darwaz-e-Payin",
+      "slug": "darwaz-e-payin-af1722"
+    },
+    "code": {
+      "id": "AF1722",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346501"
+    ],
+    "geo": {
+      "lat": "38.228",
+      "lon": "70.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1723",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اشکاشم",
+      "en": "Eshkashem",
+      "slug": "eshkashem-af1723"
+    },
+    "code": {
+      "id": "AF1723",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347301"
+    ],
+    "geo": {
+      "lat": "36.853",
+      "lon": "71.462"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1701",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فیض آباد",
+      "en": "Fayzabad",
+      "slug": "fayzabad-af1701"
+    },
+    "code": {
+      "id": "AF1701",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346001"
+    ],
+    "geo": {
+      "lat": "37.216",
+      "lon": "70.613"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1710",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جرم",
+      "en": "Jorm",
+      "slug": "jorm-af1710"
+    },
+    "code": {
+      "id": "AF1710",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347101"
+    ],
+    "geo": {
+      "lat": "36.74",
+      "lon": "70.906"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1715",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کشم",
+      "en": "Keshem",
+      "slug": "keshem-af1715"
+    },
+    "code": {
+      "id": "AF1715",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345401"
+    ],
+    "geo": {
+      "lat": "36.772",
+      "lon": "70.133"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1705",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خاش",
+      "en": "Khash",
+      "slug": "khash-af1705"
+    },
+    "code": {
+      "id": "AF1705",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346201"
+    ],
+    "geo": {
+      "lat": "36.94",
+      "lon": "70.726"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1720",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواهان",
+      "en": "Khwahan",
+      "slug": "khwahan-af1720"
+    },
+    "code": {
+      "id": "AF1720",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345901"
+    ],
+    "geo": {
+      "lat": "37.837",
+      "lon": "70.394"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1721",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوف آب",
+      "en": "Kofab",
+      "slug": "kofab-af1721"
+    },
+    "code": {
+      "id": "AF1721",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346301"
+    ],
+    "geo": {
+      "lat": "37.943",
+      "lon": "70.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1708",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوهستان",
+      "en": "Kohistan",
+      "slug": "kohistan-af1708"
+    },
+    "code": {
+      "id": "AF1708",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346001"
+    ],
+    "geo": {
+      "lat": "37.421",
+      "lon": "70.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1726",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کران ومنجان",
+      "en": "Koran Wa Monjan",
+      "slug": "koran-wa-monjan-af1726"
+    },
+    "code": {
+      "id": "AF1726",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345101"
+    ],
+    "geo": {
+      "lat": "35.93",
+      "lon": "70.768"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1714",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "راغستان",
+      "en": "Raghestan",
+      "slug": "raghestan-af1714"
+    },
+    "code": {
+      "id": "AF1714",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346101"
+    ],
+    "geo": {
+      "lat": "37.661",
+      "lon": "70.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1713",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهر بزرگ",
+      "en": "Shahr-e-Buzorg",
+      "slug": "shahr-e-buzorg-af1713"
+    },
+    "code": {
+      "id": "AF1713",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345801"
+    ],
+    "geo": {
+      "lat": "37.341",
+      "lon": "70.135"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1724",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شکی",
+      "en": "Shaki",
+      "slug": "shaki-af1724"
+    },
+    "code": {
+      "id": "AF1724",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346401"
+    ],
+    "geo": {
+      "lat": "38.207",
+      "lon": "70.652"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1719",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شغنان",
+      "en": "Shighnan",
+      "slug": "shighnan-af1719"
+    },
+    "code": {
+      "id": "AF1719",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346701"
+    ],
+    "geo": {
+      "lat": "37.601",
+      "lon": "71.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1712",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شهدا",
+      "en": "Shuhada",
+      "slug": "shuhada-af1712"
+    },
+    "code": {
+      "id": "AF1712",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "346901"
+    ],
+    "geo": {
+      "lat": "37.104",
+      "lon": "71.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1717",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تگاب",
+      "en": "Tagab",
+      "slug": "tagab-af1717"
+    },
+    "code": {
+      "id": "AF1717",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345301"
+    ],
+    "geo": {
+      "lat": "36.483",
+      "lon": "70.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1711",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تشکان",
+      "en": "Teshkan",
+      "slug": "teshkan-af1711"
+    },
+    "code": {
+      "id": "AF1711",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345501"
+    ],
+    "geo": {
+      "lat": "36.77",
+      "lon": "70.396"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1728",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "واخان",
+      "en": "Wakhan",
+      "slug": "wakhan-af1728"
+    },
+    "code": {
+      "id": "AF1728",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347501"
+    ],
+    "geo": {
+      "lat": "37.057",
+      "lon": "73.35"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1716",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "وردوج",
+      "en": "Warduj",
+      "slug": "warduj-af1716"
+    },
+    "code": {
+      "id": "AF1716",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347201"
+    ],
+    "geo": {
+      "lat": "36.757",
+      "lon": "71.182"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1704",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "یفتل سفلی",
+      "en": "Yaftal-e-Sufla",
+      "slug": "yaftal-e-sufla-af1704"
+    },
+    "code": {
+      "id": "AF1704",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347701"
+    ],
+    "geo": {
+      "lat": "37.312",
+      "lon": "70.371"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1718",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "یمگان",
+      "en": "Yamgan",
+      "slug": "yamgan-af1718"
+    },
+    "code": {
+      "id": "AF1718",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347601"
+    ],
+    "geo": {
+      "lat": "36.437",
+      "lon": "70.791"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1709",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "یاوان",
+      "en": "Yawan",
+      "slug": "yawan-af1709"
+    },
+    "code": {
+      "id": "AF1709",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "345201"
+    ],
+    "geo": {
+      "lat": "37.528",
+      "lon": "70.38"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1725",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زیباک",
+      "en": "Zebak",
+      "slug": "zebak-af1725"
+    },
+    "code": {
+      "id": "AF1725",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF17",
+        "level": 1,
+        "name": {
+          "local": "بدخشان",
+          "en": "Badakhshan",
+          "slug": "badakhshan-af17"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "347401"
+    ],
+    "geo": {
+      "lat": "36.427",
+      "lon": "71.342"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

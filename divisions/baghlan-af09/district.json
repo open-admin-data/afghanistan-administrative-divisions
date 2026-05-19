@@ -1,0 +1,707 @@
+[
+  {
+    "id": "AF0907",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اندراب",
+      "en": "Andarab",
+      "slug": "andarab-af0907"
+    },
+    "code": {
+      "id": "AF0907",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365401"
+    ],
+    "geo": {
+      "lat": "35.624",
+      "lon": "69.179"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0905",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بغلان جدید",
+      "en": "Baghlan-e-Jadid",
+      "slug": "baghlan-e-jadid-af0905"
+    },
+    "code": {
+      "id": "AF0905",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "366101"
+    ],
+    "geo": {
+      "lat": "36.327",
+      "lon": "68.624"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0910",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بورکه",
+      "en": "Burka",
+      "slug": "burka-af0910"
+    },
+    "code": {
+      "id": "AF0910",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "366401"
+    ],
+    "geo": {
+      "lat": "36.241",
+      "lon": "69.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0902",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دهنۀ غوری",
+      "en": "Dahana-e-Ghori",
+      "slug": "dahana-e-ghori-af0902"
+    },
+    "code": {
+      "id": "AF0902",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "366301"
+    ],
+    "geo": {
+      "lat": "35.823",
+      "lon": "68.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0908",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ده صلاح",
+      "en": "Deh Salah",
+      "slug": "deh-salah-af0908"
+    },
+    "code": {
+      "id": "AF0908",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365501"
+    ],
+    "geo": {
+      "lat": "35.745",
+      "lon": "69.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0903",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دوشی",
+      "en": "Doshi",
+      "slug": "doshi-af0903"
+    },
+    "code": {
+      "id": "AF0903",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365201"
+    ],
+    "geo": {
+      "lat": "35.621",
+      "lon": "68.666"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0915",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فرنگ وغارو",
+      "en": "Fereng Wa Gharu",
+      "slug": "fereng-wa-gharu-af0915"
+    },
+    "code": {
+      "id": "AF0915",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365701"
+    ],
+    "geo": {
+      "lat": "36.137",
+      "lon": "69.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0914",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گذرگاه نور",
+      "en": "Guzargah-e-Nur",
+      "slug": "guzargah-e-nur-af0914"
+    },
+    "code": {
+      "id": "AF0914",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365801"
+    ],
+    "geo": {
+      "lat": "36.229",
+      "lon": "69.575"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0906",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خنجان",
+      "en": "Khinjan",
+      "slug": "khinjan-af0906"
+    },
+    "code": {
+      "id": "AF0906",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365301"
+    ],
+    "geo": {
+      "lat": "35.471",
+      "lon": "68.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0913",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خوست و فرنگ",
+      "en": "Khost Wa Fereng",
+      "slug": "khost-wa-fereng-af0913"
+    },
+    "code": {
+      "id": "AF0913",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365601"
+    ],
+    "geo": {
+      "lat": "35.904",
+      "lon": "69.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0909",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواجه هجران",
+      "en": "Khwaja Hejran",
+      "slug": "khwaja-hejran-af0909"
+    },
+    "code": {
+      "id": "AF0909",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "366201"
+    ],
+    "geo": {
+      "lat": "35.966",
+      "lon": "69.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0904",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نهرین",
+      "en": "Nahrin",
+      "slug": "nahrin-af0904"
+    },
+    "code": {
+      "id": "AF0904",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "366001"
+    ],
+    "geo": {
+      "lat": "35.998",
+      "lon": "69.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0912",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پل حصار",
+      "en": "Pul-e-Hisar",
+      "slug": "pul-e-hisar-af0912"
+    },
+    "code": {
+      "id": "AF0912",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365901"
+    ],
+    "geo": {
+      "lat": "35.584",
+      "lon": "69.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0901",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پلخمری",
+      "en": "Pul-e-Khumri",
+      "slug": "pul-e-khumri-af0901"
+    },
+    "code": {
+      "id": "AF0901",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "366501"
+    ],
+    "geo": {
+      "lat": "36.01",
+      "lon": "68.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0911",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "تاله وبرفک",
+      "en": "Tala Wa Barfak",
+      "slug": "tala-wa-barfak-af0911"
+    },
+    "code": {
+      "id": "AF0911",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF09",
+        "level": 1,
+        "name": {
+          "local": "بغلان",
+          "en": "Baghlan",
+          "slug": "baghlan-af09"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "365101"
+    ],
+    "geo": {
+      "lat": "35.275",
+      "lon": "68.381"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

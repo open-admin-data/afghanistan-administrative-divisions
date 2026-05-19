@@ -1,0 +1,47 @@
+{
+  "id": "AF1608",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "برگ متال",
+    "en": "Barg-e-Matal",
+    "slug": "barg-e-matal-af1608"
+  },
+  "code": {
+    "id": "AF1608",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF16",
+    "level": 1,
+    "name": {
+      "local": "نورستان",
+      "en": "Nuristan",
+      "slug": "nuristan-af16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "295501"
+  ],
+  "geo": {
+    "lat": "35.775",
+    "lon": "71.254"
+  },
+  "metadata": {},
+  "source": {}
+}

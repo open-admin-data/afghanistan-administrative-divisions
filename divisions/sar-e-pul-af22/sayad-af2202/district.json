@@ -1,0 +1,47 @@
+{
+  "id": "AF2202",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "صیاد",
+    "en": "Sayad",
+    "slug": "sayad-af2202"
+  },
+  "code": {
+    "id": "AF2202",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF22",
+    "level": 1,
+    "name": {
+      "local": "سرپل",
+      "en": "Sar-e-Pul",
+      "slug": "sar-e-pul-af22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "215601"
+  ],
+  "geo": {
+    "lat": "36.15",
+    "lon": "65.709"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1808",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "فرخار",
+    "en": "Farkhar",
+    "slug": "farkhar-af1808"
+  },
+  "code": {
+    "id": "AF1808",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375201"
+  ],
+  "geo": {
+    "lat": "36.47",
+    "lon": "69.961"
+  },
+  "metadata": {},
+  "source": {}
+}

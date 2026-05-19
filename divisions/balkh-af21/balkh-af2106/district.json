@@ -1,0 +1,47 @@
+{
+  "id": "AF2106",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بلخ",
+    "en": "Balkh",
+    "slug": "balkh-af2106"
+  },
+  "code": {
+    "id": "AF2106",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175101"
+  ],
+  "geo": {
+    "lat": "36.816",
+    "lon": "66.89"
+  },
+  "metadata": {},
+  "source": {}
+}

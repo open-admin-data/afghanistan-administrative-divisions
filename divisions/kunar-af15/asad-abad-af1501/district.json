@@ -1,0 +1,47 @@
+{
+  "id": "AF1501",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اسد آباد",
+    "en": "Asad Abad",
+    "slug": "asad-abad-af1501"
+  },
+  "code": {
+    "id": "AF1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285601"
+  ],
+  "geo": {
+    "lat": "34.868",
+    "lon": "71.13"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2001",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ایبک",
+    "en": "Aybak",
+    "slug": "aybak-af2001"
+  },
+  "code": {
+    "id": "AF2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205501"
+  ],
+  "geo": {
+    "lat": "36.207",
+    "lon": "67.987"
+  },
+  "metadata": {},
+  "source": {}
+}

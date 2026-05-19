@@ -1,0 +1,47 @@
+{
+  "id": "AF2805",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قوش تیپه",
+    "en": "Qush Tepa",
+    "slug": "qush-tepa-af2805"
+  },
+  "code": {
+    "id": "AF2805",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195701"
+  ],
+  "geo": {
+    "lat": "36.21",
+    "lon": "65.363"
+  },
+  "metadata": {},
+  "source": {}
+}

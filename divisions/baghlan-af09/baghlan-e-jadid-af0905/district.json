@@ -1,0 +1,47 @@
+{
+  "id": "AF0905",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بغلان جدید",
+    "en": "Baghlan-e-Jadid",
+    "slug": "baghlan-e-jadid-af0905"
+  },
+  "code": {
+    "id": "AF0905",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "366101"
+  ],
+  "geo": {
+    "lat": "36.327",
+    "lon": "68.624"
+  },
+  "metadata": {},
+  "source": {}
+}

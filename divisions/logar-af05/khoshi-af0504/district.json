@@ -1,0 +1,47 @@
+{
+  "id": "AF0504",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خوشی",
+    "en": "Khoshi",
+    "slug": "khoshi-af0504"
+  },
+  "code": {
+    "id": "AF0504",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145301"
+  ],
+  "geo": {
+    "lat": "34.001",
+    "lon": "69.275"
+  },
+  "metadata": {},
+  "source": {}
+}

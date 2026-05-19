@@ -1,0 +1,47 @@
+{
+  "id": "AF2605",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ارغنداب",
+    "en": "Arghandab",
+    "slug": "arghandab-af2605"
+  },
+  "code": {
+    "id": "AF2605",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405501"
+  ],
+  "geo": {
+    "lat": "32.512",
+    "lon": "66.987"
+  },
+  "metadata": {},
+  "source": {}
+}

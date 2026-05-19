@@ -1,0 +1,29 @@
+{
+  "id": "AF04",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "میدان وردک",
+    "en": "Maidan Wardak",
+    "slug": "maidan-wardak-af04"
+  },
+  "code": {
+    "id": "AF04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.303",
+    "lon": "68.218"
+  },
+  "metadata": {},
+  "source": {}
+}

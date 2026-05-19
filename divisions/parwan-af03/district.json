@@ -1,0 +1,472 @@
+[
+  {
+    "id": "AF0302",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بگرام",
+      "en": "Bagram",
+      "slug": "bagram-af0302"
+    },
+    "code": {
+      "id": "AF0302",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115701"
+    ],
+    "geo": {
+      "lat": "34.924",
+      "lon": "69.331"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0301",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چاریکار",
+      "en": "Charikar",
+      "slug": "charikar-af0301"
+    },
+    "code": {
+      "id": "AF0301",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115601"
+    ],
+    "geo": {
+      "lat": "34.988",
+      "lon": "69.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0307",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "غوربند",
+      "en": "Ghorband",
+      "slug": "ghorband-af0307"
+    },
+    "code": {
+      "id": "AF0307",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115301"
+    ],
+    "geo": {
+      "lat": "35.011",
+      "lon": "68.788"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0305",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جبل السراج",
+      "en": "Jabal Saraj",
+      "slug": "jabal-saraj-af0305"
+    },
+    "code": {
+      "id": "AF0305",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115601"
+    ],
+    "geo": {
+      "lat": "35.123",
+      "lon": "69.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0308",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوه صافی",
+      "en": "Koh-e-Safi",
+      "slug": "koh-e-safi-af0308"
+    },
+    "code": {
+      "id": "AF0308",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115901"
+    ],
+    "geo": {
+      "lat": "34.761",
+      "lon": "69.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0306",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سالنگ",
+      "en": "Salang",
+      "slug": "salang-af0306"
+    },
+    "code": {
+      "id": "AF0306",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115501"
+    ],
+    "geo": {
+      "lat": "35.277",
+      "lon": "69.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0304",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سیدخیل",
+      "en": "Sayed Khel",
+      "slug": "sayed-khel-af0304"
+    },
+    "code": {
+      "id": "AF0304",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115801"
+    ],
+    "geo": {
+      "lat": "35.047",
+      "lon": "69.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0310",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیخ علی",
+      "en": "Shekh Ali",
+      "slug": "shekh-ali-af0310"
+    },
+    "code": {
+      "id": "AF0310",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115101"
+    ],
+    "geo": {
+      "lat": "34.947",
+      "lon": "68.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0303",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شینواری",
+      "en": "Shinwari",
+      "slug": "shinwari-af0303"
+    },
+    "code": {
+      "id": "AF0303",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115401"
+    ],
+    "geo": {
+      "lat": "35.12",
+      "lon": "68.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0309",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سرخ پارسا",
+      "en": "Surkh-e-Parsa",
+      "slug": "surkh-e-parsa-af0309"
+    },
+    "code": {
+      "id": "AF0309",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF03",
+        "level": 1,
+        "name": {
+          "local": "پروان",
+          "en": "Parwan",
+          "slug": "parwan-af03"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "115201"
+    ],
+    "geo": {
+      "lat": "34.765",
+      "lon": "68.626"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

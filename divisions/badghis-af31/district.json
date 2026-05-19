@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF3102",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "آب کمری",
+      "en": "Ab Kamari",
+      "slug": "ab-kamari-af3102"
+    },
+    "code": {
+      "id": "AF3102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335101"
+    ],
+    "geo": {
+      "lat": "34.925",
+      "lon": "62.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3105",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بالا مرغاب",
+      "en": "Bala Murghab",
+      "slug": "bala-murghab-af3105"
+    },
+    "code": {
+      "id": "AF3105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335201"
+    ],
+    "geo": {
+      "lat": "35.467",
+      "lon": "63.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3107",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "غورماچ",
+      "en": "Ghormach",
+      "slug": "ghormach-af3107"
+    },
+    "code": {
+      "id": "AF3107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335301"
+    ],
+    "geo": {
+      "lat": "35.721",
+      "lon": "63.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3106",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جوند",
+      "en": "Jawand",
+      "slug": "jawand-af3106"
+    },
+    "code": {
+      "id": "AF3106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335401"
+    ],
+    "geo": {
+      "lat": "35.001",
+      "lon": "64.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3103",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مقر",
+      "en": "Muqur",
+      "slug": "muqur-af3103"
+    },
+    "code": {
+      "id": "AF3103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335601"
+    ],
+    "geo": {
+      "lat": "35.17",
+      "lon": "63.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3104",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قادیس",
+      "en": "Qadis",
+      "slug": "qadis-af3104"
+    },
+    "code": {
+      "id": "AF3104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335501"
+    ],
+    "geo": {
+      "lat": "34.816",
+      "lon": "63.584"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF3101",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قلعه نو",
+      "en": "Qala-e-Naw",
+      "slug": "qala-e-naw-af3101"
+    },
+    "code": {
+      "id": "AF3101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF31",
+        "level": 1,
+        "name": {
+          "local": "بادغیس",
+          "en": "Badghis",
+          "slug": "badghis-af31"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "335101"
+    ],
+    "geo": {
+      "lat": "34.811",
+      "lon": "63.124"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

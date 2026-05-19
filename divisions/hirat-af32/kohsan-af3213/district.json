@@ -1,0 +1,47 @@
+{
+  "id": "AF3213",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوهسان",
+    "en": "Kohsan",
+    "slug": "kohsan-af3213"
+  },
+  "code": {
+    "id": "AF3213",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305202"
+  ],
+  "geo": {
+    "lat": "34.614",
+    "lon": "61.167"
+  },
+  "metadata": {},
+  "source": {}
+}

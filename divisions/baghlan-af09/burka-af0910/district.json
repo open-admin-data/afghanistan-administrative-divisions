@@ -1,0 +1,47 @@
+{
+  "id": "AF0910",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بورکه",
+    "en": "Burka",
+    "slug": "burka-af0910"
+  },
+  "code": {
+    "id": "AF0910",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "366401"
+  ],
+  "geo": {
+    "lat": "36.241",
+    "lon": "69.163"
+  },
+  "metadata": {},
+  "source": {}
+}

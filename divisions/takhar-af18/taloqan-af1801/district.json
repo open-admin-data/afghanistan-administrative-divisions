@@ -1,0 +1,47 @@
+{
+  "id": "AF1801",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تالقان",
+    "en": "Taloqan",
+    "slug": "taloqan-af1801"
+  },
+  "code": {
+    "id": "AF1801",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "376101"
+  ],
+  "geo": {
+    "lat": "36.741",
+    "lon": "69.609"
+  },
+  "metadata": {},
+  "source": {}
+}

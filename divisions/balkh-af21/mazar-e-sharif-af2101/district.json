@@ -1,0 +1,47 @@
+{
+  "id": "AF2101",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مزار شریف",
+    "en": "Mazar-e-Sharif",
+    "slug": "mazar-e-sharif-af2101"
+  },
+  "code": {
+    "id": "AF2101",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "171102"
+  ],
+  "geo": {
+    "lat": "36.71",
+    "lon": "67.117"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0503",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چرخ",
+    "en": "Charkh",
+    "slug": "charkh-af0503"
+  },
+  "code": {
+    "id": "AF0503",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145501"
+  ],
+  "geo": {
+    "lat": "33.816",
+    "lon": "68.92"
+  },
+  "metadata": {},
+  "source": {}
+}

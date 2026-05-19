@@ -1,0 +1,47 @@
+{
+  "id": "AF1813",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ورسج",
+    "en": "Warsaj",
+    "slug": "warsaj-af1813"
+  },
+  "code": {
+    "id": "AF1813",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375101"
+  ],
+  "geo": {
+    "lat": "36.096",
+    "lon": "70.139"
+  },
+  "metadata": {},
+  "source": {}
+}

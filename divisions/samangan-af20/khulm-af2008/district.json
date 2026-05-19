@@ -1,0 +1,47 @@
+{
+  "id": "AF2008",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خلم",
+    "en": "Khulm",
+    "slug": "khulm-af2008"
+  },
+  "code": {
+    "id": "AF2008",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205701"
+  ],
+  "geo": {
+    "lat": "36.815",
+    "lon": "67.743"
+  },
+  "metadata": {},
+  "source": {}
+}

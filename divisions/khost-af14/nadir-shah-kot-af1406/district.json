@@ -1,0 +1,47 @@
+{
+  "id": "AF1406",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نادرشاه کوت",
+    "en": "Nadir Shah Kot",
+    "slug": "nadir-shah-kot-af1406"
+  },
+  "code": {
+    "id": "AF1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255401"
+  ],
+  "geo": {
+    "lat": "33.381",
+    "lon": "69.683"
+  },
+  "metadata": {},
+  "source": {}
+}

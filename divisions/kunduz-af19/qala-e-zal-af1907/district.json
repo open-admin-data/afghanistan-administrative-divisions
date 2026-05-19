@@ -1,0 +1,47 @@
+{
+  "id": "AF1907",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قلعه ذال",
+    "en": "Qala-e-Zal",
+    "slug": "qala-e-zal-af1907"
+  },
+  "code": {
+    "id": "AF1907",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF19",
+    "level": 1,
+    "name": {
+      "local": "کندز",
+      "en": "Kunduz",
+      "slug": "kunduz-af19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF19",
+      "level": 1,
+      "name": {
+        "local": "کندز",
+        "en": "Kunduz",
+        "slug": "kunduz-af19"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "355301"
+  ],
+  "geo": {
+    "lat": "36.898",
+    "lon": "68.362"
+  },
+  "metadata": {},
+  "source": {}
+}

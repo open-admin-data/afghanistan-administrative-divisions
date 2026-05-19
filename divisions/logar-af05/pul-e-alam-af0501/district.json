@@ -1,0 +1,47 @@
+{
+  "id": "AF0501",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پل علم",
+    "en": "Pul-e-Alam",
+    "slug": "pul-e-alam-af0501"
+  },
+  "code": {
+    "id": "AF0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145401"
+  ],
+  "geo": {
+    "lat": "33.972",
+    "lon": "69.053"
+  },
+  "metadata": {},
+  "source": {}
+}

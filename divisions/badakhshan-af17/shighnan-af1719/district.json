@@ -1,0 +1,47 @@
+{
+  "id": "AF1719",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شغنان",
+    "en": "Shighnan",
+    "slug": "shighnan-af1719"
+  },
+  "code": {
+    "id": "AF1719",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346701"
+  ],
+  "geo": {
+    "lat": "37.601",
+    "lon": "71.244"
+  },
+  "metadata": {},
+  "source": {}
+}

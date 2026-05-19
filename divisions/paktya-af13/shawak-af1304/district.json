@@ -1,0 +1,47 @@
+{
+  "id": "AF1304",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شواک",
+    "en": "Shawak",
+    "slug": "shawak-af1304"
+  },
+  "code": {
+    "id": "AF1304",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "225201"
+  ],
+  "geo": {
+    "lat": "33.452",
+    "lon": "69.37"
+  },
+  "metadata": {},
+  "source": {}
+}

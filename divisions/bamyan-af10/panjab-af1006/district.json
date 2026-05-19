@@ -1,0 +1,47 @@
+{
+  "id": "AF1006",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پنجاب",
+    "en": "Panjab",
+    "slug": "panjab-af1006"
+  },
+  "code": {
+    "id": "AF1006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF10",
+    "level": 1,
+    "name": {
+      "local": "بامیان",
+      "en": "Bamyan",
+      "slug": "bamyan-af10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "165201"
+  ],
+  "geo": {
+    "lat": "34.423",
+    "lon": "66.932"
+  },
+  "metadata": {},
+  "source": {}
+}

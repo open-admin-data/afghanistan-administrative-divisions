@@ -1,0 +1,47 @@
+{
+  "id": "AF3212",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اوبی",
+    "en": "Obe",
+    "slug": "obe-af3212"
+  },
+  "code": {
+    "id": "AF3212",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305801"
+  ],
+  "geo": {
+    "lat": "34.36",
+    "lon": "63.25"
+  },
+  "metadata": {},
+  "source": {}
+}

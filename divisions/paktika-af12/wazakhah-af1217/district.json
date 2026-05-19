@@ -1,0 +1,47 @@
+{
+  "id": "AF1217",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "وازه خواه",
+    "en": "Wazakhah",
+    "slug": "wazakhah-af1217"
+  },
+  "code": {
+    "id": "AF1217",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "245401"
+  ],
+  "geo": {
+    "lat": "32.249",
+    "lon": "68.327"
+  },
+  "metadata": {},
+  "source": {}
+}

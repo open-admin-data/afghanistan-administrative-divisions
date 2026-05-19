@@ -1,0 +1,47 @@
+{
+  "id": "AF1706",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "بهارک",
+    "en": "Baharak",
+    "slug": "baharak-af1706"
+  },
+  "code": {
+    "id": "AF1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347001"
+  ],
+  "geo": {
+    "lat": "37.029",
+    "lon": "70.901"
+  },
+  "metadata": {},
+  "source": {}
+}

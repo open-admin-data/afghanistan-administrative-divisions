@@ -1,0 +1,47 @@
+{
+  "id": "AF0409",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مدکز بهسود",
+    "en": "Markaz-e-Behsud",
+    "slug": "markaz-e-behsud-af0409"
+  },
+  "code": {
+    "id": "AF0409",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135101"
+  ],
+  "geo": {
+    "lat": "34.405",
+    "lon": "67.691"
+  },
+  "metadata": {},
+  "source": {}
+}

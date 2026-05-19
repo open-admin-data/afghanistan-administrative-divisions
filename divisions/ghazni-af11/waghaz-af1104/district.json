@@ -1,0 +1,47 @@
+{
+  "id": "AF1104",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "واغظ",
+    "en": "Waghaz",
+    "slug": "waghaz-af1104"
+  },
+  "code": {
+    "id": "AF1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236301"
+  ],
+  "geo": {
+    "lat": "33.409",
+    "lon": "68.212"
+  },
+  "metadata": {},
+  "source": {}
+}

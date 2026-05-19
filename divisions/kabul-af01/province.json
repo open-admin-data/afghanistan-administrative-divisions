@@ -1,0 +1,29 @@
+{
+  "id": "AF01",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کابل",
+    "en": "Kabul",
+    "slug": "kabul-af01"
+  },
+  "code": {
+    "id": "AF01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.555",
+    "lon": "69.335"
+  },
+  "metadata": {},
+  "source": {}
+}

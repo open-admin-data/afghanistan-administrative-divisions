@@ -1,0 +1,47 @@
+{
+  "id": "AF3107",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "غورماچ",
+    "en": "Ghormach",
+    "slug": "ghormach-af3107"
+  },
+  "code": {
+    "id": "AF3107",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF31",
+    "level": 1,
+    "name": {
+      "local": "بادغیس",
+      "en": "Badghis",
+      "slug": "badghis-af31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF31",
+      "level": 1,
+      "name": {
+        "local": "بادغیس",
+        "en": "Badghis",
+        "slug": "badghis-af31"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "335301"
+  ],
+  "geo": {
+    "lat": "35.721",
+    "lon": "63.78"
+  },
+  "metadata": {},
+  "source": {}
+}

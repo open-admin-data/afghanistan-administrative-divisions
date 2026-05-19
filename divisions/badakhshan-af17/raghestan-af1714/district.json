@@ -1,0 +1,47 @@
+{
+  "id": "AF1714",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "راغستان",
+    "en": "Raghestan",
+    "slug": "raghestan-af1714"
+  },
+  "code": {
+    "id": "AF1714",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346101"
+  ],
+  "geo": {
+    "lat": "37.661",
+    "lon": "70.673"
+  },
+  "metadata": {},
+  "source": {}
+}

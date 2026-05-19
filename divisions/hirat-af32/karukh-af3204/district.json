@@ -1,0 +1,47 @@
+{
+  "id": "AF3204",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کرُخ",
+    "en": "Karukh",
+    "slug": "karukh-af3204"
+  },
+  "code": {
+    "id": "AF3204",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305701"
+  ],
+  "geo": {
+    "lat": "34.504",
+    "lon": "62.663"
+  },
+  "metadata": {},
+  "source": {}
+}

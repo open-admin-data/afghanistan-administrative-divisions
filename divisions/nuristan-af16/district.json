@@ -1,0 +1,378 @@
+[
+  {
+    "id": "AF1608",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "برگ متال",
+      "en": "Barg-e-Matal",
+      "slug": "barg-e-matal-af1608"
+    },
+    "code": {
+      "id": "AF1608",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295501"
+    ],
+    "geo": {
+      "lat": "35.775",
+      "lon": "71.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1605",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دو آب",
+      "en": "Duab",
+      "slug": "duab-af1605"
+    },
+    "code": {
+      "id": "AF1605",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295701"
+    ],
+    "geo": {
+      "lat": "35.221",
+      "lon": "70.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1606",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کامدیش",
+      "en": "Kamdesh",
+      "slug": "kamdesh-af1606"
+    },
+    "code": {
+      "id": "AF1606",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295401"
+    ],
+    "geo": {
+      "lat": "35.484",
+      "lon": "71.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1607",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مندول",
+      "en": "Mandol",
+      "slug": "mandol-af1607"
+    },
+    "code": {
+      "id": "AF1607",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295601"
+    ],
+    "geo": {
+      "lat": "35.401",
+      "lon": "70.248"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1604",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نورگرام",
+      "en": "Nurgaram",
+      "slug": "nurgaram-af1604"
+    },
+    "code": {
+      "id": "AF1604",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295101"
+    ],
+    "geo": {
+      "lat": "35.074",
+      "lon": "70.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1601",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پرونس",
+      "en": "Parun",
+      "slug": "parun-af1601"
+    },
+    "code": {
+      "id": "AF1601",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295901"
+    ],
+    "geo": {
+      "lat": "35.408",
+      "lon": "70.802"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1603",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "واما",
+      "en": "Wama",
+      "slug": "wama-af1603"
+    },
+    "code": {
+      "id": "AF1603",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295201"
+    ],
+    "geo": {
+      "lat": "35.182",
+      "lon": "70.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1602",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "وایگل",
+      "en": "Waygal",
+      "slug": "waygal-af1602"
+    },
+    "code": {
+      "id": "AF1602",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF16",
+      "level": 1,
+      "name": {
+        "local": "نورستان",
+        "en": "Nuristan",
+        "slug": "nuristan-af16"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF16",
+        "level": 1,
+        "name": {
+          "local": "نورستان",
+          "en": "Nuristan",
+          "slug": "nuristan-af16"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "295301"
+    ],
+    "geo": {
+      "lat": "35.226",
+      "lon": "71.026"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

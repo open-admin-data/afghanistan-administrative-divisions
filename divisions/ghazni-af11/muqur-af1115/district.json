@@ -1,0 +1,47 @@
+{
+  "id": "AF1115",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "مقر",
+    "en": "Muqur",
+    "slug": "muqur-af1115"
+  },
+  "code": {
+    "id": "AF1115",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235301"
+  ],
+  "geo": {
+    "lat": "32.94",
+    "lon": "67.782"
+  },
+  "metadata": {},
+  "source": {}
+}

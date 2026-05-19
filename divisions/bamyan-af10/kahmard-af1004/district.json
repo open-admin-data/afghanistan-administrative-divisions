@@ -1,0 +1,47 @@
+{
+  "id": "AF1004",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کهمرد",
+    "en": "Kahmard",
+    "slug": "kahmard-af1004"
+  },
+  "code": {
+    "id": "AF1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF10",
+    "level": 1,
+    "name": {
+      "local": "بامیان",
+      "en": "Bamyan",
+      "slug": "bamyan-af10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "165601"
+  ],
+  "geo": {
+    "lat": "35.357",
+    "lon": "67.776"
+  },
+  "metadata": {},
+  "source": {}
+}

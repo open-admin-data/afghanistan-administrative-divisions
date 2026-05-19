@@ -1,0 +1,47 @@
+{
+  "id": "AF1408",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تری زائی",
+    "en": "Terezayi",
+    "slug": "terezayi-af1408"
+  },
+  "code": {
+    "id": "AF1408",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255701"
+  ],
+  "geo": {
+    "lat": "33.383",
+    "lon": "70.191"
+  },
+  "metadata": {},
+  "source": {}
+}

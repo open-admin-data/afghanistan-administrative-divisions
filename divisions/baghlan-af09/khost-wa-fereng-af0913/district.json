@@ -1,0 +1,47 @@
+{
+  "id": "AF0913",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خوست و فرنگ",
+    "en": "Khost Wa Fereng",
+    "slug": "khost-wa-fereng-af0913"
+  },
+  "code": {
+    "id": "AF0913",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365601"
+  ],
+  "geo": {
+    "lat": "35.904",
+    "lon": "69.665"
+  },
+  "metadata": {},
+  "source": {}
+}

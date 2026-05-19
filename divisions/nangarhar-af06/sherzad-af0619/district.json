@@ -1,0 +1,47 @@
+{
+  "id": "AF0619",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شیرزاد",
+    "en": "Sherzad",
+    "slug": "sherzad-af0619"
+  },
+  "code": {
+    "id": "AF0619",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "265201"
+  ],
+  "geo": {
+    "lat": "34.194",
+    "lon": "69.98"
+  },
+  "metadata": {},
+  "source": {}
+}

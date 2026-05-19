@@ -1,0 +1,47 @@
+{
+  "id": "AF1002",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شیبر",
+    "en": "Shibar",
+    "slug": "shibar-af1002"
+  },
+  "code": {
+    "id": "AF1002",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF10",
+    "level": 1,
+    "name": {
+      "local": "بامیان",
+      "en": "Bamyan",
+      "slug": "bamyan-af10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "165501"
+  ],
+  "geo": {
+    "lat": "34.922",
+    "lon": "68.039"
+  },
+  "metadata": {},
+  "source": {}
+}

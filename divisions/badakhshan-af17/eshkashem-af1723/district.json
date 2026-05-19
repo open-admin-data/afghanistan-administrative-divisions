@@ -1,0 +1,47 @@
+{
+  "id": "AF1723",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اشکاشم",
+    "en": "Eshkashem",
+    "slug": "eshkashem-af1723"
+  },
+  "code": {
+    "id": "AF1723",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347301"
+  ],
+  "geo": {
+    "lat": "36.853",
+    "lon": "71.462"
+  },
+  "metadata": {},
+  "source": {}
+}

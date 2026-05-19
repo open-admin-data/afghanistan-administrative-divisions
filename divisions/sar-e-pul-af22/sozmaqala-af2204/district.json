@@ -1,0 +1,47 @@
+{
+  "id": "AF2204",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سوزمه قلعه",
+    "en": "Sozmaqala",
+    "slug": "sozmaqala-af2204"
+  },
+  "code": {
+    "id": "AF2204",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF22",
+    "level": 1,
+    "name": {
+      "local": "سرپل",
+      "en": "Sar-e-Pul",
+      "slug": "sar-e-pul-af22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF22",
+      "level": 1,
+      "name": {
+        "local": "سرپل",
+        "en": "Sar-e-Pul",
+        "slug": "sar-e-pul-af22"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "215401"
+  ],
+  "geo": {
+    "lat": "36.02",
+    "lon": "66.233"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2409",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پاتو",
+    "en": "Patoo",
+    "slug": "patoo-af2409"
+  },
+  "code": {
+    "id": "AF2409",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425201"
+  ],
+  "geo": {
+    "lat": "33.404",
+    "lon": "66.279"
+  },
+  "metadata": {},
+  "source": {}
+}

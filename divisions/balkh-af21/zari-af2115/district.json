@@ -1,0 +1,47 @@
+{
+  "id": "AF2115",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "زاری",
+    "en": "Zari",
+    "slug": "zari-af2115"
+  },
+  "code": {
+    "id": "AF2115",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "176401"
+  ],
+  "geo": {
+    "lat": "35.847",
+    "lon": "66.726"
+  },
+  "metadata": {},
+  "source": {}
+}

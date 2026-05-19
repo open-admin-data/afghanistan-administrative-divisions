@@ -1,0 +1,47 @@
+{
+  "id": "AF0108",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "میر بچه کوت",
+    "en": "Mir Bacha Kot",
+    "slug": "mir-bacha-kot-af0108"
+  },
+  "code": {
+    "id": "AF0108",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF01",
+    "level": 1,
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af01"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "106301"
+  ],
+  "geo": {
+    "lat": "34.727",
+    "lon": "69.118"
+  },
+  "metadata": {},
+  "source": {}
+}

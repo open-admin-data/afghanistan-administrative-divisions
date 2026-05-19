@@ -1,0 +1,707 @@
+[
+  {
+    "id": "AF0104",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بگرامی",
+      "en": "Bagrami",
+      "slug": "bagrami-af0104"
+    },
+    "code": {
+      "id": "AF0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105301"
+    ],
+    "geo": {
+      "lat": "34.484",
+      "lon": "69.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0103",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چهار آسیاب",
+      "en": "Chahar Asyab",
+      "slug": "chahar-asyab-af0103"
+    },
+    "code": {
+      "id": "AF0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105101"
+    ],
+    "geo": {
+      "lat": "34.387",
+      "lon": "69.073"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0105",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ده سبز",
+      "en": "Deh Sabz",
+      "slug": "deh-sabz-af0105"
+    },
+    "code": {
+      "id": "AF0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105401"
+    ],
+    "geo": {
+      "lat": "34.666",
+      "lon": "69.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0113",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "استالف",
+      "en": "Estalef",
+      "slug": "estalef-af0113"
+    },
+    "code": {
+      "id": "AF0113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105801"
+    ],
+    "geo": {
+      "lat": "34.848",
+      "lon": "69.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0112",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فرزه",
+      "en": "Farza",
+      "slug": "farza-af0112"
+    },
+    "code": {
+      "id": "AF0112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105901"
+    ],
+    "geo": {
+      "lat": "34.794",
+      "lon": "69.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0111",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گلدره",
+      "en": "Guldara",
+      "slug": "guldara-af0111"
+    },
+    "code": {
+      "id": "AF0111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "106001"
+    ],
+    "geo": {
+      "lat": "34.748",
+      "lon": "68.995"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0101",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کابل",
+      "en": "Kabul",
+      "slug": "kabul-af0101"
+    },
+    "code": {
+      "id": "AF0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105201"
+    ],
+    "geo": {
+      "lat": "34.52",
+      "lon": "69.154"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0110",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کلکان",
+      "en": "Kalakan",
+      "slug": "kalakan-af0110"
+    },
+    "code": {
+      "id": "AF0110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "106201"
+    ],
+    "geo": {
+      "lat": "34.763",
+      "lon": "69.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0109",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خاک جبار",
+      "en": "Khak-e-Jabbar",
+      "slug": "khak-e-jabbar-af0109"
+    },
+    "code": {
+      "id": "AF0109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105501"
+    ],
+    "geo": {
+      "lat": "34.365",
+      "lon": "69.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0108",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میر بچه کوت",
+      "en": "Mir Bacha Kot",
+      "slug": "mir-bacha-kot-af0108"
+    },
+    "code": {
+      "id": "AF0108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "106301"
+    ],
+    "geo": {
+      "lat": "34.727",
+      "lon": "69.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0107",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "موسهی",
+      "en": "Musahi",
+      "slug": "musahi-af0107"
+    },
+    "code": {
+      "id": "AF0107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105201"
+    ],
+    "geo": {
+      "lat": "34.369",
+      "lon": "69.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0102",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پغمان",
+      "en": "Paghman",
+      "slug": "paghman-af0102"
+    },
+    "code": {
+      "id": "AF0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "106401"
+    ],
+    "geo": {
+      "lat": "34.548",
+      "lon": "68.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0114",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قره باغ",
+      "en": "Qara Bagh",
+      "slug": "qara-bagh-af0114"
+    },
+    "code": {
+      "id": "AF0114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105701"
+    ],
+    "geo": {
+      "lat": "34.849",
+      "lon": "69.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0106",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شکردره",
+      "en": "Shakar Dara",
+      "slug": "shakar-dara-af0106"
+    },
+    "code": {
+      "id": "AF0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "106101"
+    ],
+    "geo": {
+      "lat": "34.664",
+      "lon": "69.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0115",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سروبی",
+      "en": "Surobi",
+      "slug": "surobi-af0115"
+    },
+    "code": {
+      "id": "AF0115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF01",
+      "level": 1,
+      "name": {
+        "local": "کابل",
+        "en": "Kabul",
+        "slug": "kabul-af01"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF01",
+        "level": 1,
+        "name": {
+          "local": "کابل",
+          "en": "Kabul",
+          "slug": "kabul-af01"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "105601"
+    ],
+    "geo": {
+      "lat": "34.528",
+      "lon": "69.704"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

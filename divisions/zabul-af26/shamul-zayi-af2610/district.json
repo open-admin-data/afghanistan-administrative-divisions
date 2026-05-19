@@ -1,0 +1,47 @@
+{
+  "id": "AF2610",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شملزائی",
+    "en": "Shamul Zayi",
+    "slug": "shamul-zayi-af2610"
+  },
+  "code": {
+    "id": "AF2610",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405701"
+  ],
+  "geo": {
+    "lat": "31.821",
+    "lon": "67.77"
+  },
+  "metadata": {},
+  "source": {}
+}

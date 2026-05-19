@@ -1,0 +1,47 @@
+{
+  "id": "AF2908",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گرزیوان",
+    "en": "Garzewan",
+    "slug": "garzewan-af2908"
+  },
+  "code": {
+    "id": "AF2908",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "186101"
+  ],
+  "geo": {
+    "lat": "35.632",
+    "lon": "65.283"
+  },
+  "metadata": {},
+  "source": {}
+}

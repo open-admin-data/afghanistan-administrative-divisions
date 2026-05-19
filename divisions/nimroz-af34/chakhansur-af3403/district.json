@@ -1,0 +1,47 @@
+{
+  "id": "AF3403",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چخانسور",
+    "en": "Chakhansur",
+    "slug": "chakhansur-af3403"
+  },
+  "code": {
+    "id": "AF3403",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF34",
+    "level": 1,
+    "name": {
+      "local": "نیمروز",
+      "en": "Nimroz",
+      "slug": "nimroz-af34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF34",
+      "level": 1,
+      "name": {
+        "local": "نیمروز",
+        "en": "Nimroz",
+        "slug": "nimroz-af34"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "435301"
+  ],
+  "geo": {
+    "lat": "31.317",
+    "lon": "62.438"
+  },
+  "metadata": {},
+  "source": {}
+}

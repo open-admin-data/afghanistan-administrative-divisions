@@ -1,0 +1,895 @@
+[
+  {
+    "id": "AF1113",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "آب بند",
+      "en": "Ab Band",
+      "slug": "ab-band-af1113"
+    },
+    "code": {
+      "id": "AF1113",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235401"
+    ],
+    "geo": {
+      "lat": "32.883",
+      "lon": "68.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1118",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اجرستان",
+      "en": "Ajristan",
+      "slug": "ajristan-af1118"
+    },
+    "code": {
+      "id": "AF1118",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236701"
+    ],
+    "geo": {
+      "lat": "33.517",
+      "lon": "67.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1107",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اندړ",
+      "en": "Andar",
+      "slug": "andar-af1107"
+    },
+    "code": {
+      "id": "AF1107",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235701"
+    ],
+    "geo": {
+      "lat": "33.306",
+      "lon": "68.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1105",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ده یک",
+      "en": "Deh Yak",
+      "slug": "deh-yak-af1105"
+    },
+    "code": {
+      "id": "AF1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235801"
+    ],
+    "geo": {
+      "lat": "33.475",
+      "lon": "68.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1117",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گیلان",
+      "en": "Gelan",
+      "slug": "gelan-af1117"
+    },
+    "code": {
+      "id": "AF1117",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235201"
+    ],
+    "geo": {
+      "lat": "32.713",
+      "lon": "67.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1101",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af1101"
+    },
+    "code": {
+      "id": "AF1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236101"
+    ],
+    "geo": {
+      "lat": "33.534",
+      "lon": "68.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1112",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گیرو",
+      "en": "Giro",
+      "slug": "giro-af1112"
+    },
+    "code": {
+      "id": "AF1112",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235501"
+    ],
+    "geo": {
+      "lat": "33.063",
+      "lon": "68.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1106",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جغتو",
+      "en": "Jaghatu",
+      "slug": "jaghatu-af1106"
+    },
+    "code": {
+      "id": "AF1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236201"
+    ],
+    "geo": {
+      "lat": "33.528",
+      "lon": "68.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1114",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جاغوری",
+      "en": "Jaghuri",
+      "slug": "jaghuri-af1114"
+    },
+    "code": {
+      "id": "AF1114",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236601"
+    ],
+    "geo": {
+      "lat": "33.143",
+      "lon": "67.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1103",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خواجه عمری",
+      "en": "Khwaja Umari",
+      "slug": "khwaja-umari-af1103"
+    },
+    "code": {
+      "id": "AF1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236001"
+    ],
+    "geo": {
+      "lat": "33.676",
+      "lon": "68.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1116",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مالستان",
+      "en": "Malistan",
+      "slug": "malistan-af1116"
+    },
+    "code": {
+      "id": "AF1116",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236801"
+    ],
+    "geo": {
+      "lat": "33.298",
+      "lon": "67.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1115",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مقر",
+      "en": "Muqur",
+      "slug": "muqur-af1115"
+    },
+    "code": {
+      "id": "AF1115",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235301"
+    ],
+    "geo": {
+      "lat": "32.94",
+      "lon": "67.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1119",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ناوه",
+      "en": "Nawa",
+      "slug": "nawa-af1119"
+    },
+    "code": {
+      "id": "AF1119",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235101"
+    ],
+    "geo": {
+      "lat": "32.327",
+      "lon": "67.897"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1110",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ناور",
+      "en": "Nawur",
+      "slug": "nawur-af1110"
+    },
+    "code": {
+      "id": "AF1110",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236501"
+    ],
+    "geo": {
+      "lat": "33.846",
+      "lon": "67.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1111",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "قره باغ",
+      "en": "Qara Bagh",
+      "slug": "qara-bagh-af1111"
+    },
+    "code": {
+      "id": "AF1111",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235601"
+    ],
+    "geo": {
+      "lat": "33.221",
+      "lon": "67.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1109",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "رشیدان",
+      "en": "Rashidan",
+      "slug": "rashidan-af1109"
+    },
+    "code": {
+      "id": "AF1109",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236401"
+    ],
+    "geo": {
+      "lat": "33.698",
+      "lon": "68.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1104",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "واغظ",
+      "en": "Waghaz",
+      "slug": "waghaz-af1104"
+    },
+    "code": {
+      "id": "AF1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236301"
+    ],
+    "geo": {
+      "lat": "33.409",
+      "lon": "68.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1102",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ولی محمد شهید",
+      "en": "Wal-e-Muhammad-e-Shahid",
+      "slug": "wal-e-muhammad-e-shahid-af1102"
+    },
+    "code": {
+      "id": "AF1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "236101"
+    ],
+    "geo": {
+      "lat": "33.559",
+      "lon": "68.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1108",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زنه خان",
+      "en": "Zanakhan",
+      "slug": "zanakhan-af1108"
+    },
+    "code": {
+      "id": "AF1108",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF11",
+        "level": 1,
+        "name": {
+          "local": "غزنی",
+          "en": "Ghazni",
+          "slug": "ghazni-af11"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "235901"
+    ],
+    "geo": {
+      "lat": "33.679",
+      "lon": "68.666"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

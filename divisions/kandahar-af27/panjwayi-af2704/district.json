@@ -1,0 +1,47 @@
+{
+  "id": "AF2704",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پنجوائی",
+    "en": "Panjwayi",
+    "slug": "panjwayi-af2704"
+  },
+  "code": {
+    "id": "AF2704",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "386301"
+  ],
+  "geo": {
+    "lat": "31.073",
+    "lon": "65.159"
+  },
+  "metadata": {},
+  "source": {}
+}

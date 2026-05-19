@@ -1,0 +1,29 @@
+{
+  "id": "AF16",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "نورستان",
+    "en": "Nuristan",
+    "slug": "nuristan-af16"
+  },
+  "code": {
+    "id": "AF16",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "35.417",
+    "lon": "70.788"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,59 @@
+# Ghor — Afghanistan Administrative Divisions
+
+> 10 districts
+> Code: AF23
+> Coordinates: 34.179, 64.929
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### چار صد ره (Charsadra)
+
+Code: AF2304, Coordinates: 35.119, 65.118
+
+
+### دولت یار (Dawlatyar)
+
+Code: AF2303, Coordinates: 34.58, 65.751
+
+
+### دو لینه (DoLayna)
+
+Code: AF2302, Coordinates: 34.119, 65.017
+
+
+### فیروزکوه (Feroz Koh)
+
+Code: AF2301, Coordinates: 34.724, 65.33
+
+
+### لعل و سرجنگل (Lal Wa Sarjangal)
+
+Code: AF2307, Coordinates: 34.604, 66.273
+
+
+### پسابند (Pasaband)
+
+Code: AF2305, Coordinates: 33.589, 65.082
+
+
+### ساغر (Saghar)
+
+Code: AF2310, Coordinates: 33.581, 63.674
+
+
+### شهرک (Shahrak)
+
+Code: AF2306, Coordinates: 34.102, 64.336
+
+
+### تیوره (Taywarah)
+
+Code: AF2308, Coordinates: 33.484, 64.384
+
+
+### تولک (Tolak)
+
+Code: AF2309, Coordinates: 34.009, 63.714
+
+

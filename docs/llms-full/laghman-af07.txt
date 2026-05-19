@@ -1,0 +1,34 @@
+# Laghman — Afghanistan Administrative Divisions
+
+> 5 districts
+> Code: AF07
+> Coordinates: 34.764, 70.16
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### علینگار (Alingar)
+
+Code: AF0704, Coordinates: 34.817, 70.411
+
+
+### علیشنگ (Alishang)
+
+Code: AF0703, Coordinates: 34.825, 70.084
+
+
+### دولت شاه (Dawlatshah)
+
+Code: AF0705, Coordinates: 35.036, 69.999
+
+
+### مهتر لام (Mehtarlam)
+
+Code: AF0701, Coordinates: 34.652, 70.094
+
+
+### قرغه ئی (Qarghayi)
+
+Code: AF0702, Coordinates: 34.531, 70.173
+
+

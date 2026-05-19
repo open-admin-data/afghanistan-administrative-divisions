@@ -1,0 +1,47 @@
+{
+  "id": "AF1412",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شمل",
+    "en": "Shamal",
+    "slug": "shamal-af1412"
+  },
+  "code": {
+    "id": "AF1412",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255301"
+  ],
+  "geo": {
+    "lat": "33.314",
+    "lon": "69.532"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0804",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خنج (حصه اول)",
+    "en": "Khenj",
+    "slug": "khenj-af0804"
+  },
+  "code": {
+    "id": "AF0804",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF08",
+    "level": 1,
+    "name": {
+      "local": "پنجشیر",
+      "en": "Panjsher",
+      "slug": "panjsher-af08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "155501"
+  ],
+  "geo": {
+    "lat": "35.429",
+    "lon": "69.784"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2901",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "میمنه",
+    "en": "Maymana",
+    "slug": "maymana-af2901"
+  },
+  "code": {
+    "id": "AF2901",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185901"
+  ],
+  "geo": {
+    "lat": "35.937",
+    "lon": "64.793"
+  },
+  "metadata": {},
+  "source": {}
+}

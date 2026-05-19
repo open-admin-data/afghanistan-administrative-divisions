@@ -1,0 +1,47 @@
+{
+  "id": "AF1718",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "یمگان",
+    "en": "Yamgan",
+    "slug": "yamgan-af1718"
+  },
+  "code": {
+    "id": "AF1718",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347601"
+  ],
+  "geo": {
+    "lat": "36.437",
+    "lon": "70.791"
+  },
+  "metadata": {},
+  "source": {}
+}

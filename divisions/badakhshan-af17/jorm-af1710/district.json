@@ -1,0 +1,47 @@
+{
+  "id": "AF1710",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جرم",
+    "en": "Jorm",
+    "slug": "jorm-af1710"
+  },
+  "code": {
+    "id": "AF1710",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347101"
+  ],
+  "geo": {
+    "lat": "36.74",
+    "lon": "70.906"
+  },
+  "metadata": {},
+  "source": {}
+}

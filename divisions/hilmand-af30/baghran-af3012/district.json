@@ -1,0 +1,47 @@
+{
+  "id": "AF3012",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "باغران",
+    "en": "Baghran",
+    "slug": "baghran-af3012"
+  },
+  "code": {
+    "id": "AF3012",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395801"
+  ],
+  "geo": {
+    "lat": "33.126",
+    "lon": "65.165"
+  },
+  "metadata": {},
+  "source": {}
+}

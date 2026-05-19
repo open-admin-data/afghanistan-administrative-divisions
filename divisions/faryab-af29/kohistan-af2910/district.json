@@ -1,0 +1,47 @@
+{
+  "id": "AF2910",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوهستان",
+    "en": "Kohistan",
+    "slug": "kohistan-af2910"
+  },
+  "code": {
+    "id": "AF2910",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185701"
+  ],
+  "geo": {
+    "lat": "35.334",
+    "lon": "64.923"
+  },
+  "metadata": {},
+  "source": {}
+}

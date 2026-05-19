@@ -1,0 +1,47 @@
+{
+  "id": "AF2308",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تیوره",
+    "en": "Taywarah",
+    "slug": "taywarah-af2308"
+  },
+  "code": {
+    "id": "AF2308",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325201"
+  ],
+  "geo": {
+    "lat": "33.484",
+    "lon": "64.384"
+  },
+  "metadata": {},
+  "source": {}
+}

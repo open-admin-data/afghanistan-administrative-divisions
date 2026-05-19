@@ -1,0 +1,104 @@
+# Paktika — Afghanistan Administrative Divisions
+
+> 19 districts
+> Code: AF12
+> Coordinates: 32.477, 68.744
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### برمل (Barmal)
+
+Code: AF1214, Coordinates: 32.714, 69.275
+
+
+### دیله (Dila)
+
+Code: AF1216, Coordinates: 32.563, 68.131
+
+
+### گیان (Giyan)
+
+Code: AF1215, Coordinates: 32.975, 69.399
+
+
+### گومل (Gomal)
+
+Code: AF1208, Coordinates: 32.389, 68.947
+
+
+### جانی خیل (Jani Khel)
+
+Code: AF1209, Coordinates: 32.665, 68.481
+
+
+### متاخان (Mata Khan)
+
+Code: AF1202, Coordinates: 33.297, 68.886
+
+
+### نیکه (Nika)
+
+Code: AF1213, Coordinates: 33.207, 69.24
+
+
+### اومنه (Omna)
+
+Code: AF1206, Coordinates: 32.894, 68.813
+
+
+### سرروضه (سرحوضه) (Sar Rawzah)
+
+Code: AF1205, Coordinates: 33.063, 69.039
+
+
+### شرن (Sharan)
+
+Code: AF1201, Coordinates: 33.2, 68.728
+
+
+### سروبی (Surobi)
+
+Code: AF1210, Coordinates: 32.752, 69.046
+
+
+### تروو (Turwo)
+
+Code: AF1219, Coordinates: 31.906, 68.314
+
+
+### ارگون (Urgun)
+
+Code: AF1211, Coordinates: 32.978, 69.193
+
+
+### وازه خواه (Wazakhah)
+
+Code: AF1217, Coordinates: 32.249, 68.327
+
+
+### وړ ممی (Wormamay)
+
+Code: AF1218, Coordinates: 31.933, 68.835
+
+
+### یحی خیل (Yahya Khel)
+
+Code: AF1204, Coordinates: 32.923, 68.662
+
+
+### یوسف خیل (Yosuf Khel)
+
+Code: AF1203, Coordinates: 33.05, 68.646
+
+
+### زرغون شهر (Zarghun Shahr)
+
+Code: AF1207, Coordinates: 32.854, 68.478
+
+
+### زیړوک (Ziruk)
+
+Code: AF1212, Coordinates: 33.156, 69.327
+
+

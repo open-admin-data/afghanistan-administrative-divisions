@@ -1,0 +1,47 @@
+{
+  "id": "AF3307",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "انار دره",
+    "en": "Anar Dara",
+    "slug": "anar-dara-af3307"
+  },
+  "code": {
+    "id": "AF3307",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306701"
+  ],
+  "geo": {
+    "lat": "33.011",
+    "lon": "61.249"
+  },
+  "metadata": {},
+  "source": {}
+}

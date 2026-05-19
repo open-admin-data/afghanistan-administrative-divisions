@@ -1,0 +1,47 @@
+{
+  "id": "AF3303",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خاک سفید",
+    "en": "Khak-e-Safed",
+    "slug": "khak-e-safed-af3303"
+  },
+  "code": {
+    "id": "AF3303",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315501"
+  ],
+  "geo": {
+    "lat": "32.756",
+    "lon": "62.072"
+  },
+  "metadata": {},
+  "source": {}
+}

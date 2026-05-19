@@ -1,0 +1,84 @@
+# Kabul — Afghanistan Administrative Divisions
+
+> 15 districts
+> Code: AF01
+> Coordinates: 34.555, 69.335
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### بگرامی (Bagrami)
+
+Code: AF0104, Coordinates: 34.484, 69.336
+
+
+### چهار آسیاب (Chahar Asyab)
+
+Code: AF0103, Coordinates: 34.387, 69.073
+
+
+### ده سبز (Deh Sabz)
+
+Code: AF0105, Coordinates: 34.666, 69.308
+
+
+### استالف (Estalef)
+
+Code: AF0113, Coordinates: 34.848, 69.024
+
+
+### فرزه (Farza)
+
+Code: AF0112, Coordinates: 34.794, 69.018
+
+
+### گلدره (Guldara)
+
+Code: AF0111, Coordinates: 34.748, 68.995
+
+
+### کابل (Kabul)
+
+Code: AF0101, Coordinates: 34.52, 69.154
+
+
+### کلکان (Kalakan)
+
+Code: AF0110, Coordinates: 34.763, 69.176
+
+
+### خاک جبار (Khak-e-Jabbar)
+
+Code: AF0109, Coordinates: 34.365, 69.434
+
+
+### میر بچه کوت (Mir Bacha Kot)
+
+Code: AF0108, Coordinates: 34.727, 69.118
+
+
+### موسهی (Musahi)
+
+Code: AF0107, Coordinates: 34.369, 69.219
+
+
+### پغمان (Paghman)
+
+Code: AF0102, Coordinates: 34.548, 68.937
+
+
+### قره باغ (Qara Bagh)
+
+Code: AF0114, Coordinates: 34.849, 69.176
+
+
+### شکردره (Shakar Dara)
+
+Code: AF0106, Coordinates: 34.664, 69.036
+
+
+### سروبی (Surobi)
+
+Code: AF0115, Coordinates: 34.528, 69.704
+
+

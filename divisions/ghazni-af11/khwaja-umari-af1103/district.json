@@ -1,0 +1,47 @@
+{
+  "id": "AF1103",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خواجه عمری",
+    "en": "Khwaja Umari",
+    "slug": "khwaja-umari-af1103"
+  },
+  "code": {
+    "id": "AF1103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236001"
+  ],
+  "geo": {
+    "lat": "33.676",
+    "lon": "68.422"
+  },
+  "metadata": {},
+  "source": {}
+}

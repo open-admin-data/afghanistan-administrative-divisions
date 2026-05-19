@@ -1,0 +1,29 @@
+{
+  "id": "AF10",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "بامیان",
+    "en": "Bamyan",
+    "slug": "bamyan-af10"
+  },
+  "code": {
+    "id": "AF10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.804",
+    "lon": "67.234"
+  },
+  "metadata": {},
+  "source": {}
+}

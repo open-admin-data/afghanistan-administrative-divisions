@@ -1,0 +1,47 @@
+{
+  "id": "AF1204",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "یحی خیل",
+    "en": "Yahya Khel",
+    "slug": "yahya-khel-af1204"
+  },
+  "code": {
+    "id": "AF1204",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "245801"
+  ],
+  "geo": {
+    "lat": "32.923",
+    "lon": "68.662"
+  },
+  "metadata": {},
+  "source": {}
+}

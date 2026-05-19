@@ -1,0 +1,47 @@
+{
+  "id": "AF1815",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "درقد",
+    "en": "Darqad",
+    "slug": "darqad-af1815"
+  },
+  "code": {
+    "id": "AF1815",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF18",
+    "level": 1,
+    "name": {
+      "local": "تخار",
+      "en": "Takhar",
+      "slug": "takhar-af18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF18",
+      "level": 1,
+      "name": {
+        "local": "تخار",
+        "en": "Takhar",
+        "slug": "takhar-af18"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "375801"
+  ],
+  "geo": {
+    "lat": "37.454",
+    "lon": "69.499"
+  },
+  "metadata": {},
+  "source": {}
+}

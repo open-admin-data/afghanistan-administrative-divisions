@@ -1,0 +1,47 @@
+{
+  "id": "AF2502",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دهراود",
+    "en": "Dehrawud",
+    "slug": "dehrawud-af2502"
+  },
+  "code": {
+    "id": "AF2502",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF25",
+    "level": 1,
+    "name": {
+      "local": "ارزگان",
+      "en": "Uruzgan",
+      "slug": "uruzgan-af25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF25",
+      "level": 1,
+      "name": {
+        "local": "ارزگان",
+        "en": "Uruzgan",
+        "slug": "uruzgan-af25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "415401"
+  ],
+  "geo": {
+    "lat": "32.589",
+    "lon": "65.469"
+  },
+  "metadata": {},
+  "source": {}
+}

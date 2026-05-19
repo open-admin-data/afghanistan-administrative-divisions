@@ -1,0 +1,47 @@
+{
+  "id": "AF1206",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اومنه",
+    "en": "Omna",
+    "slug": "omna-af1206"
+  },
+  "code": {
+    "id": "AF1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "245201"
+  ],
+  "geo": {
+    "lat": "32.894",
+    "lon": "68.813"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF1201",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شرن",
+    "en": "Sharan",
+    "slug": "sharan-af1201"
+  },
+  "code": {
+    "id": "AF1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF12",
+    "level": 1,
+    "name": {
+      "local": "پکتیکا",
+      "en": "Paktika",
+      "slug": "paktika-af12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF12",
+      "level": 1,
+      "name": {
+        "local": "پکتیکا",
+        "en": "Paktika",
+        "slug": "paktika-af12"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "246001"
+  ],
+  "geo": {
+    "lat": "33.2",
+    "lon": "68.728"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF3006",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گرم سیر",
+    "en": "Garmser",
+    "slug": "garmser-af3006"
+  },
+  "code": {
+    "id": "AF3006",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395301"
+  ],
+  "geo": {
+    "lat": "30.31",
+    "lon": "64.168"
+  },
+  "metadata": {},
+  "source": {}
+}

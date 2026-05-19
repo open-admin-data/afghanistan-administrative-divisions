@@ -1,0 +1,94 @@
+# Takhar — Afghanistan Administrative Divisions
+
+> 17 districts
+> Code: AF18
+> Coordinates: 36.702, 69.779
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### بهارک (Baharak)
+
+Code: AF1803, Coordinates: 36.833, 69.395
+
+
+### بنگی (Bangi)
+
+Code: AF1804, Coordinates: 36.613, 69.338
+
+
+### چاه آب (Chahab)
+
+Code: AF1816, Coordinates: 37.45, 69.88
+
+
+### چال (Chal)
+
+Code: AF1805, Coordinates: 36.497, 69.559
+
+
+### درقد (Darqad)
+
+Code: AF1815, Coordinates: 37.454, 69.499
+
+
+### دشت قلعه (Dasht-e-Qala)
+
+Code: AF1812, Coordinates: 37.202, 69.502
+
+
+### اشکمش (Eshkmesh)
+
+Code: AF1811, Coordinates: 36.367, 69.39
+
+
+### فرخار (Farkhar)
+
+Code: AF1808, Coordinates: 36.47, 69.961
+
+
+### هزار سموچ (Hazar Sumuch)
+
+Code: AF1802, Coordinates: 36.926, 69.57
+
+
+### کلفگان (Kalafgan)
+
+Code: AF1807, Coordinates: 36.788, 69.915
+
+
+### خواجه بهاوالدین (Khwaja Bahawuddin)
+
+Code: AF1814, Coordinates: 37.339, 69.582
+
+
+### خواجه غار (Khwaja Ghar)
+
+Code: AF1809, Coordinates: 37.018, 69.398
+
+
+### نمک آب (Namak Ab)
+
+Code: AF1806, Coordinates: 36.472, 69.715
+
+
+### رُستاق (Rostaq)
+
+Code: AF1810, Coordinates: 37.106, 69.817
+
+
+### تالقان (Taloqan)
+
+Code: AF1801, Coordinates: 36.741, 69.609
+
+
+### ورسج (Warsaj)
+
+Code: AF1813, Coordinates: 36.096, 70.139
+
+
+### ینگی قلعه (Yangi Qala)
+
+Code: AF1817, Coordinates: 37.461, 69.67
+
+

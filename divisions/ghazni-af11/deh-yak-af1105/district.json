@@ -1,0 +1,47 @@
+{
+  "id": "AF1105",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ده یک",
+    "en": "Deh Yak",
+    "slug": "deh-yak-af1105"
+  },
+  "code": {
+    "id": "AF1105",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235801"
+  ],
+  "geo": {
+    "lat": "33.475",
+    "lon": "68.653"
+  },
+  "metadata": {},
+  "source": {}
+}

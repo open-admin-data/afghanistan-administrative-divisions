@@ -1,0 +1,47 @@
+{
+  "id": "AF2811",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "درز آب",
+    "en": "Darzab",
+    "slug": "darzab-af2811"
+  },
+  "code": {
+    "id": "AF2811",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195801"
+  ],
+  "geo": {
+    "lat": "36.004",
+    "lon": "65.373"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2601",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قلات",
+    "en": "Qalat",
+    "slug": "qalat-af2601"
+  },
+  "code": {
+    "id": "AF2601",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF26",
+    "level": 1,
+    "name": {
+      "local": "زابل",
+      "en": "Zabul",
+      "slug": "zabul-af26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF26",
+      "level": 1,
+      "name": {
+        "local": "زابل",
+        "en": "Zabul",
+        "slug": "zabul-af26"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "405501"
+  ],
+  "geo": {
+    "lat": "32.21",
+    "lon": "66.999"
+  },
+  "metadata": {},
+  "source": {}
+}

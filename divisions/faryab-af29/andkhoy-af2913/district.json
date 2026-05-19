@@ -1,0 +1,47 @@
+{
+  "id": "AF2913",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "اندخوی",
+    "en": "Andkhoy",
+    "slug": "andkhoy-af2913"
+  },
+  "code": {
+    "id": "AF2913",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185201"
+  ],
+  "geo": {
+    "lat": "36.853",
+    "lon": "65.286"
+  },
+  "metadata": {},
+  "source": {}
+}

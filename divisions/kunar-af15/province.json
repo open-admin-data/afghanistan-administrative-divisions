@@ -1,0 +1,29 @@
+{
+  "id": "AF15",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "کنر ها",
+    "en": "Kunar",
+    "slug": "kunar-af15"
+  },
+  "code": {
+    "id": "AF15",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.966",
+    "lon": "71.094"
+  },
+  "metadata": {},
+  "source": {}
+}

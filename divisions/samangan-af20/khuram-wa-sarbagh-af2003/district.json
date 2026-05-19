@@ -1,0 +1,47 @@
+{
+  "id": "AF2003",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خرم وسارباغ",
+    "en": "Khuram Wa Sarbagh",
+    "slug": "khuram-wa-sarbagh-af2003"
+  },
+  "code": {
+    "id": "AF2003",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205601"
+  ],
+  "geo": {
+    "lat": "35.987",
+    "lon": "68.122"
+  },
+  "metadata": {},
+  "source": {}
+}

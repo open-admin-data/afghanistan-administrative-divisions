@@ -1,0 +1,47 @@
+{
+  "id": "AF3011",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ریگ خان نشین",
+    "en": "Reg-i-Khan Nishin",
+    "slug": "reg-i-khan-nishin-af3011"
+  },
+  "code": {
+    "id": "AF3011",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395201"
+  ],
+  "geo": {
+    "lat": "30.83",
+    "lon": "63.481"
+  },
+  "metadata": {},
+  "source": {}
+}

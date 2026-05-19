@@ -1,0 +1,47 @@
+{
+  "id": "AF0206",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "تگاب",
+    "en": "Tagab",
+    "slug": "tagab-af0206"
+  },
+  "code": {
+    "id": "AF0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF02",
+    "level": 1,
+    "name": {
+      "local": "کاپیسا",
+      "en": "Kapisa",
+      "slug": "kapisa-af02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "125601"
+  ],
+  "geo": {
+    "lat": "34.795",
+    "lon": "69.679"
+  },
+  "metadata": {},
+  "source": {}
+}

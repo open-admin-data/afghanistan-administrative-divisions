@@ -1,0 +1,47 @@
+{
+  "id": "AF0309",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سرخ پارسا",
+    "en": "Surkh-e-Parsa",
+    "slug": "surkh-e-parsa-af0309"
+  },
+  "code": {
+    "id": "AF0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115201"
+  ],
+  "geo": {
+    "lat": "34.765",
+    "lon": "68.626"
+  },
+  "metadata": {},
+  "source": {}
+}

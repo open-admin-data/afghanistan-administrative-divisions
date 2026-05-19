@@ -1,0 +1,425 @@
+[
+  {
+    "id": "AF0404",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چک",
+      "en": "Chak-e-Wardak",
+      "slug": "chak-e-wardak-af0404"
+    },
+    "code": {
+      "id": "AF0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135601"
+    ],
+    "geo": {
+      "lat": "34.108",
+      "lon": "68.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0406",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دایمیرداد",
+      "en": "Daymirdad",
+      "slug": "daymirdad-af0406"
+    },
+    "code": {
+      "id": "AF0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135801"
+    ],
+    "geo": {
+      "lat": "34.219",
+      "lon": "68.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0407",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "حصه اول بهسود",
+      "en": "Hesa-e-Awal-e-Behsud",
+      "slug": "hesa-e-awal-e-behsud-af0407"
+    },
+    "code": {
+      "id": "AF0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135201"
+    ],
+    "geo": {
+      "lat": "34.531",
+      "lon": "68.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0408",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جغتو",
+      "en": "Jaghatu",
+      "slug": "jaghatu-af0408"
+    },
+    "code": {
+      "id": "AF0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135701"
+    ],
+    "geo": {
+      "lat": "33.837",
+      "lon": "68.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0403",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جلریز",
+      "en": "Jalrez",
+      "slug": "jalrez-af0403"
+    },
+    "code": {
+      "id": "AF0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135301"
+    ],
+    "geo": {
+      "lat": "34.525",
+      "lon": "68.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0409",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مدکز بهسود",
+      "en": "Markaz-e-Behsud",
+      "slug": "markaz-e-behsud-af0409"
+    },
+    "code": {
+      "id": "AF0409",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135101"
+    ],
+    "geo": {
+      "lat": "34.405",
+      "lon": "67.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0401",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "میدان شهر",
+      "en": "Maydan Shahr",
+      "slug": "maydan-shahr-af0401"
+    },
+    "code": {
+      "id": "AF0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "106401"
+    ],
+    "geo": {
+      "lat": "34.444",
+      "lon": "68.825"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0402",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نرخ",
+      "en": "Nerkh",
+      "slug": "nerkh-af0402"
+    },
+    "code": {
+      "id": "AF0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135401"
+    ],
+    "geo": {
+      "lat": "34.321",
+      "lon": "68.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0405",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سید آباد",
+      "en": "Saydabad",
+      "slug": "saydabad-af0405"
+    },
+    "code": {
+      "id": "AF0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF04",
+        "level": 1,
+        "name": {
+          "local": "میدان وردک",
+          "en": "Maidan Wardak",
+          "slug": "maidan-wardak-af04"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "135501"
+    ],
+    "geo": {
+      "lat": "33.925",
+      "lon": "68.657"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

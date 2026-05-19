@@ -1,0 +1,47 @@
+{
+  "id": "AF2405",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کیتی",
+    "en": "Kiti",
+    "slug": "kiti-af2405"
+  },
+  "code": {
+    "id": "AF2405",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425801"
+  ],
+  "geo": {
+    "lat": "33.523",
+    "lon": "65.766"
+  },
+  "metadata": {},
+  "source": {}
+}

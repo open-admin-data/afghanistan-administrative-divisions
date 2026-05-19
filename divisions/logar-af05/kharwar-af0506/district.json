@@ -1,0 +1,47 @@
+{
+  "id": "AF0506",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خروار",
+    "en": "Kharwar",
+    "slug": "kharwar-af0506"
+  },
+  "code": {
+    "id": "AF0506",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF05",
+    "level": 1,
+    "name": {
+      "local": "لوگر",
+      "en": "Logar",
+      "slug": "logar-af05"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF05",
+      "level": 1,
+      "name": {
+        "local": "لوگر",
+        "en": "Logar",
+        "slug": "logar-af05"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "145601"
+  ],
+  "geo": {
+    "lat": "33.695",
+    "lon": "68.892"
+  },
+  "metadata": {},
+  "source": {}
+}

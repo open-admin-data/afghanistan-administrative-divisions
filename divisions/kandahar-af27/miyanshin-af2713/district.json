@@ -1,0 +1,47 @@
+{
+  "id": "AF2713",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "میانشین",
+    "en": "Miyanshin",
+    "slug": "miyanshin-af2713"
+  },
+  "code": {
+    "id": "AF2713",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "386401"
+  ],
+  "geo": {
+    "lat": "32.381",
+    "lon": "66.336"
+  },
+  "metadata": {},
+  "source": {}
+}

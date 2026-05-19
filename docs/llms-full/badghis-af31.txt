@@ -1,0 +1,44 @@
+# Badghis — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF31
+> Coordinates: 35.137, 63.734
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### آب کمری (Ab Kamari)
+
+Code: AF3102, Coordinates: 34.925, 62.902
+
+
+### بالا مرغاب (Bala Murghab)
+
+Code: AF3105, Coordinates: 35.467, 63.472
+
+
+### غورماچ (Ghormach)
+
+Code: AF3107, Coordinates: 35.721, 63.78
+
+
+### جوند (Jawand)
+
+Code: AF3106, Coordinates: 35.001, 64.336
+
+
+### مقر (Muqur)
+
+Code: AF3103, Coordinates: 35.17, 63.105
+
+
+### قادیس (Qadis)
+
+Code: AF3104, Coordinates: 34.816, 63.584
+
+
+### قلعه نو (Qala-e-Naw)
+
+Code: AF3101, Coordinates: 34.811, 63.124
+
+

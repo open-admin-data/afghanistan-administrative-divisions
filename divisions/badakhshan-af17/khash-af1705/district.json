@@ -1,0 +1,47 @@
+{
+  "id": "AF1705",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خاش",
+    "en": "Khash",
+    "slug": "khash-af1705"
+  },
+  "code": {
+    "id": "AF1705",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346201"
+  ],
+  "geo": {
+    "lat": "36.94",
+    "lon": "70.726"
+  },
+  "metadata": {},
+  "source": {}
+}

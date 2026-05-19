@@ -1,0 +1,47 @@
+{
+  "id": "AF1413",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جاجی میدان",
+    "en": "Jaji Maydan",
+    "slug": "jaji-maydan-af1413"
+  },
+  "code": {
+    "id": "AF1413",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "256001"
+  ],
+  "geo": {
+    "lat": "33.641",
+    "lon": "70.079"
+  },
+  "metadata": {},
+  "source": {}
+}

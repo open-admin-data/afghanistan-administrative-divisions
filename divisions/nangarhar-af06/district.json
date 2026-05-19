@@ -1,0 +1,1036 @@
+[
+  {
+    "id": "AF0615",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "اچین",
+      "en": "Achin",
+      "slug": "achin-af0615"
+    },
+    "code": {
+      "id": "AF0615",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266301"
+    ],
+    "geo": {
+      "lat": "34.06",
+      "lon": "70.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0609",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بتی کوټ",
+      "en": "Bati Kot",
+      "slug": "bati-kot-af0609"
+    },
+    "code": {
+      "id": "AF0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266701"
+    ],
+    "geo": {
+      "lat": "34.289",
+      "lon": "70.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0602",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بهسود",
+      "en": "Behsud",
+      "slug": "behsud-af0602"
+    },
+    "code": {
+      "id": "AF0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265701"
+    ],
+    "geo": {
+      "lat": "34.443",
+      "lon": "70.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0604",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "چپر هار",
+      "en": "Chaparhar",
+      "slug": "chaparhar-af0604"
+    },
+    "code": {
+      "id": "AF0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265501"
+    ],
+    "geo": {
+      "lat": "34.291",
+      "lon": "70.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0612",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دره نور",
+      "en": "Dara-e-Nur",
+      "slug": "dara-e-nur-af0612"
+    },
+    "code": {
+      "id": "AF0612",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265901"
+    ],
+    "geo": {
+      "lat": "34.707",
+      "lon": "70.586"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0610",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ده بالا",
+      "en": "Deh Bala",
+      "slug": "deh-bala-af0610"
+    },
+    "code": {
+      "id": "AF0610",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266201"
+    ],
+    "geo": {
+      "lat": "34.088",
+      "lon": "70.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0622",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دُر بابا",
+      "en": "Dur Baba",
+      "slug": "dur-baba-af0622"
+    },
+    "code": {
+      "id": "AF0622",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266601"
+    ],
+    "geo": {
+      "lat": "34.098",
+      "lon": "70.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0614",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گوشته",
+      "en": "Goshta",
+      "slug": "goshta-af0614"
+    },
+    "code": {
+      "id": "AF0614",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "267101"
+    ],
+    "geo": {
+      "lat": "34.448",
+      "lon": "70.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0621",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "حصارک",
+      "en": "Hesarak",
+      "slug": "hesarak-af0621"
+    },
+    "code": {
+      "id": "AF0621",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265101"
+    ],
+    "geo": {
+      "lat": "34.279",
+      "lon": "69.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0601",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جلال آباد",
+      "en": "Jalalabad",
+      "slug": "jalalabad-af0601"
+    },
+    "code": {
+      "id": "AF0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265702"
+    ],
+    "geo": {
+      "lat": "34.422",
+      "lon": "70.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0605",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کامه",
+      "en": "Kama",
+      "slug": "kama-af0605"
+    },
+    "code": {
+      "id": "AF0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266001"
+    ],
+    "geo": {
+      "lat": "34.443",
+      "lon": "70.656"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0608",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خوگیانی",
+      "en": "Khogyani",
+      "slug": "khogyani-af0608"
+    },
+    "code": {
+      "id": "AF0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265301"
+    ],
+    "geo": {
+      "lat": "34.228",
+      "lon": "70.118"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0613",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوټ",
+      "en": "Kot",
+      "slug": "kot-af0613"
+    },
+    "code": {
+      "id": "AF0613",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266401"
+    ],
+    "geo": {
+      "lat": "34.153",
+      "lon": "70.595"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0606",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کوز کنر",
+      "en": "Kuz Kunar",
+      "slug": "kuz-kunar-af0606"
+    },
+    "code": {
+      "id": "AF0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265801"
+    ],
+    "geo": {
+      "lat": "34.559",
+      "lon": "70.607"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0618",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "لعل پور",
+      "en": "Lalpur",
+      "slug": "lalpur-af0618"
+    },
+    "code": {
+      "id": "AF0618",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "267001"
+    ],
+    "geo": {
+      "lat": "34.333",
+      "lon": "71.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0617",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "مهمند دره",
+      "en": "Muhmand Dara",
+      "slug": "muhmand-dara-af0617"
+    },
+    "code": {
+      "id": "AF0617",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266801"
+    ],
+    "geo": {
+      "lat": "34.211",
+      "lon": "70.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0620",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "نازیان",
+      "en": "Nazyan",
+      "slug": "nazyan-af0620"
+    },
+    "code": {
+      "id": "AF0620",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266501"
+    ],
+    "geo": {
+      "lat": "34.056",
+      "lon": "70.826"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0611",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پچیراگام",
+      "en": "Pachir Wa Agam",
+      "slug": "pachir-wa-agam-af0611"
+    },
+    "code": {
+      "id": "AF0611",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265401"
+    ],
+    "geo": {
+      "lat": "34.087",
+      "lon": "70.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0607",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "رودات",
+      "en": "Rodat",
+      "slug": "rodat-af0607"
+    },
+    "code": {
+      "id": "AF0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266101"
+    ],
+    "geo": {
+      "lat": "34.273",
+      "lon": "70.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0619",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیرزاد",
+      "en": "Sherzad",
+      "slug": "sherzad-af0619"
+    },
+    "code": {
+      "id": "AF0619",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265201"
+    ],
+    "geo": {
+      "lat": "34.194",
+      "lon": "69.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0616",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شینوار",
+      "en": "Shinwar",
+      "slug": "shinwar-af0616"
+    },
+    "code": {
+      "id": "AF0616",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "266901"
+    ],
+    "geo": {
+      "lat": "34.206",
+      "lon": "70.796"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF0603",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سرخ رود",
+      "en": "Surkh Rod",
+      "slug": "surkh-rod-af0603"
+    },
+    "code": {
+      "id": "AF0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF06",
+        "level": 1,
+        "name": {
+          "local": "ننگرهار",
+          "en": "Nangarhar",
+          "slug": "nangarhar-af06"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "265601"
+    ],
+    "geo": {
+      "lat": "34.395",
+      "lon": "70.277"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

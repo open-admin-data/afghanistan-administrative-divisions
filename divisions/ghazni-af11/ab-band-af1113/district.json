@@ -1,0 +1,47 @@
+{
+  "id": "AF1113",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "آب بند",
+    "en": "Ab Band",
+    "slug": "ab-band-af1113"
+  },
+  "code": {
+    "id": "AF1113",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235401"
+  ],
+  "geo": {
+    "lat": "32.883",
+    "lon": "68.064"
+  },
+  "metadata": {},
+  "source": {}
+}

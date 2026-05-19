@@ -1,0 +1,44 @@
+# Panjsher — Afghanistan Administrative Divisions
+
+> 7 districts
+> Code: AF08
+> Coordinates: 35.446, 69.795
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### عنابه (Anawa)
+
+Code: AF0805, Coordinates: 35.224, 69.405
+
+
+### بازارک (Bazarak)
+
+Code: AF0801, Coordinates: 35.375, 69.511
+
+
+### دره (Dara)
+
+Code: AF0803, Coordinates: 35.236, 69.77
+
+
+### خنج (حصه اول) (Khenj)
+
+Code: AF0804, Coordinates: 35.429, 69.784
+
+
+### پریان (Paryan)
+
+Code: AF0807, Coordinates: 35.647, 70.043
+
+
+### رُخه (Rukha)
+
+Code: AF0802, Coordinates: 35.267, 69.478
+
+
+### شُتل (Shutul)
+
+Code: AF0806, Coordinates: 35.293, 69.303
+
+

@@ -1,0 +1,118 @@
+# Afghanistan Administrative Divisions
+
+> Open dataset of Afghanistan's administrative hierarchy:
+> 34 provinces, 401 districts.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 34
+- Total districts: 401
+- Coordinates: included (all levels)
+- Last updated: 2026-05-19
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/data/all-province.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/data/all-district.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [Badakhshan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/badakhshan-af17/) — 28 districts
+- [Samangan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/samangan-af20/) — 8 districts
+- [Logar](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/logar-af05/) — 7 districts
+- [Paktika](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/paktika-af12/) — 19 districts
+- [Sar-e-Pul](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/sar-e-pul-af22/) — 7 districts
+- [Paktya](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/paktya-af13/) — 11 districts
+- [Nuristan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/nuristan-af16/) — 8 districts
+- [Balkh](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/balkh-af21/) — 15 districts
+- [Panjsher](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/panjsher-af08/) — 7 districts
+- [Jawzjan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/jawzjan-af28/) — 11 districts
+- [Kandahar](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/kandahar-af27/) — 16 districts
+- [Daykundi](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/daykundi-af24/) — 9 districts
+- [Uruzgan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/uruzgan-af25/) — 7 districts
+- [Ghor](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/ghor-af23/) — 10 districts
+- [Farah](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/farah-af33/) — 11 districts
+- [Parwan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/parwan-af03/) — 10 districts
+- [Faryab](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/faryab-af29/) — 14 districts
+- [Kunduz](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/kunduz-af19/) — 7 districts
+- [Khost](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/khost-af14/) — 13 districts
+- [Hirat](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/hirat-af32/) — 16 districts
+- [Kunar](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/kunar-af15/) — 15 districts
+- [Kabul](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/kabul-af01/) — 15 districts
+- [Hilmand](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/hilmand-af30/) — 13 districts
+- [Ghazni](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/ghazni-af11/) — 19 districts
+- [Maidan Wardak](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/maidan-wardak-af04/) — 9 districts
+- [Kapisa](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/kapisa-af02/) — 7 districts
+- [Nangarhar](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/nangarhar-af06/) — 22 districts
+- [Zabul](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/zabul-af26/) — 11 districts
+- [Takhar](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/takhar-af18/) — 17 districts
+- [Nimroz](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/nimroz-af34/) — 5 districts
+- [Laghman](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/laghman-af07/) — 5 districts
+- [Baghlan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/baghlan-af09/) — 15 districts
+- [Badghis](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/badghis-af31/) — 7 districts
+- [Bamyan](https://github.com/open-admin-data/afghanistan-administrative-divisions/tree/main/divisions/bamyan-af10/) — 7 districts
+
+## Per-Province Full Data
+
+- [Badakhshan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/badakhshan-af17.txt)
+- [Samangan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/samangan-af20.txt)
+- [Logar](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/logar-af05.txt)
+- [Paktika](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/paktika-af12.txt)
+- [Sar-e-Pul](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/sar-e-pul-af22.txt)
+- [Paktya](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/paktya-af13.txt)
+- [Nuristan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/nuristan-af16.txt)
+- [Balkh](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/balkh-af21.txt)
+- [Panjsher](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/panjsher-af08.txt)
+- [Jawzjan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/jawzjan-af28.txt)
+- [Kandahar](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/kandahar-af27.txt)
+- [Daykundi](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/daykundi-af24.txt)
+- [Uruzgan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/uruzgan-af25.txt)
+- [Ghor](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/ghor-af23.txt)
+- [Farah](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/farah-af33.txt)
+- [Parwan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/parwan-af03.txt)
+- [Faryab](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/faryab-af29.txt)
+- [Kunduz](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/kunduz-af19.txt)
+- [Khost](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/khost-af14.txt)
+- [Hirat](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/hirat-af32.txt)
+- [Kunar](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/kunar-af15.txt)
+- [Kabul](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/kabul-af01.txt)
+- [Hilmand](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/hilmand-af30.txt)
+- [Ghazni](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/ghazni-af11.txt)
+- [Maidan Wardak](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/maidan-wardak-af04.txt)
+- [Kapisa](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/kapisa-af02.txt)
+- [Nangarhar](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/nangarhar-af06.txt)
+- [Zabul](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/zabul-af26.txt)
+- [Takhar](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/takhar-af18.txt)
+- [Nimroz](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/nimroz-af34.txt)
+- [Laghman](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/laghman-af07.txt)
+- [Baghlan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/baghlan-af09.txt)
+- [Badghis](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/badghis-af31.txt)
+- [Bamyan](https://raw.githubusercontent.com/open-admin-data/afghanistan-administrative-divisions/main/docs/llms-full/bamyan-af10.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (province), 2 (district)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+Afghanistan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/afghanistan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

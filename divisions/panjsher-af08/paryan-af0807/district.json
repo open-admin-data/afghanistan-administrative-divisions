@@ -1,0 +1,47 @@
+{
+  "id": "AF0807",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پریان",
+    "en": "Paryan",
+    "slug": "paryan-af0807"
+  },
+  "code": {
+    "id": "AF0807",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF08",
+    "level": 1,
+    "name": {
+      "local": "پنجشیر",
+      "en": "Panjsher",
+      "slug": "panjsher-af08"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF08",
+      "level": 1,
+      "name": {
+        "local": "پنجشیر",
+        "en": "Panjsher",
+        "slug": "panjsher-af08"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "155101"
+  ],
+  "geo": {
+    "lat": "35.647",
+    "lon": "70.043"
+  },
+  "metadata": {},
+  "source": {}
+}

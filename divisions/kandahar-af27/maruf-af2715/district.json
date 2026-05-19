@@ -1,0 +1,47 @@
+{
+  "id": "AF2715",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "معروف",
+    "en": "Maruf",
+    "slug": "maruf-af2715"
+  },
+  "code": {
+    "id": "AF2715",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "385501"
+  ],
+  "geo": {
+    "lat": "31.446",
+    "lon": "67.253"
+  },
+  "metadata": {},
+  "source": {}
+}

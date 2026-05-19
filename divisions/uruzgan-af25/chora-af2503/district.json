@@ -1,0 +1,47 @@
+{
+  "id": "AF2503",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چوره",
+    "en": "Chora",
+    "slug": "chora-af2503"
+  },
+  "code": {
+    "id": "AF2503",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF25",
+    "level": 1,
+    "name": {
+      "local": "ارزگان",
+      "en": "Uruzgan",
+      "slug": "uruzgan-af25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF25",
+      "level": 1,
+      "name": {
+        "local": "ارزگان",
+        "en": "Uruzgan",
+        "slug": "uruzgan-af25"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "415201"
+  ],
+  "geo": {
+    "lat": "32.93",
+    "lon": "66.263"
+  },
+  "metadata": {},
+  "source": {}
+}

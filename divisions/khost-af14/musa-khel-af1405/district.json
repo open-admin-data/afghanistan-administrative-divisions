@@ -1,0 +1,47 @@
+{
+  "id": "AF1405",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "موسی خیل",
+    "en": "Musa Khel",
+    "slug": "musa-khel-af1405"
+  },
+  "code": {
+    "id": "AF1405",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "256101"
+  ],
+  "geo": {
+    "lat": "33.571",
+    "lon": "69.667"
+  },
+  "metadata": {},
+  "source": {}
+}

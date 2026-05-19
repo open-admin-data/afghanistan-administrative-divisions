@@ -1,0 +1,519 @@
+[
+  {
+    "id": "AF1302",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "احمد آبا",
+      "en": "Ahmadaba",
+      "slug": "ahmadaba-af1302"
+    },
+    "code": {
+      "id": "AF1302",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225501"
+    ],
+    "geo": {
+      "lat": "33.773",
+      "lon": "69.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1310",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "څمکنی",
+      "en": "Chamkani",
+      "slug": "chamkani-af1310"
+    },
+    "code": {
+      "id": "AF1310",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225801"
+    ],
+    "geo": {
+      "lat": "33.784",
+      "lon": "69.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1311",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "دند وپټان",
+      "en": "Dand Wa Patan",
+      "slug": "dand-wa-patan-af1311"
+    },
+    "code": {
+      "id": "AF1311",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225901"
+    ],
+    "geo": {
+      "lat": "33.791",
+      "lon": "69.911"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1301",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "گردیز",
+      "en": "Gardez",
+      "slug": "gardez-af1301"
+    },
+    "code": {
+      "id": "AF1301",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225501"
+    ],
+    "geo": {
+      "lat": "33.601",
+      "lon": "69.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1307",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "علی خیل",
+      "en": "Jaji",
+      "slug": "jaji-af1307"
+    },
+    "code": {
+      "id": "AF1307",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225701"
+    ],
+    "geo": {
+      "lat": "33.978",
+      "lon": "69.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1309",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "جانی خیل",
+      "en": "Jani Khel",
+      "slug": "jani-khel-af1309"
+    },
+    "code": {
+      "id": "AF1309",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "226001"
+    ],
+    "geo": {
+      "lat": "33.655",
+      "lon": "69.787"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1308",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "لجه احمد خیل",
+      "en": "Lija Ahmad Khel",
+      "slug": "lija-ahmad-khel-af1308"
+    },
+    "code": {
+      "id": "AF1308",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225601"
+    ],
+    "geo": {
+      "lat": "33.816",
+      "lon": "69.634"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1306",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سیدکرم",
+      "en": "Sayed Karam",
+      "slug": "sayed-karam-af1306"
+    },
+    "code": {
+      "id": "AF1306",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225401"
+    ],
+    "geo": {
+      "lat": "33.712",
+      "lon": "69.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1304",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شواک",
+      "en": "Shawak",
+      "slug": "shawak-af1304"
+    },
+    "code": {
+      "id": "AF1304",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225201"
+    ],
+    "geo": {
+      "lat": "33.452",
+      "lon": "69.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1305",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "حّدران",
+      "en": "Zadran",
+      "slug": "zadran-af1305"
+    },
+    "code": {
+      "id": "AF1305",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "226101"
+    ],
+    "geo": {
+      "lat": "33.374",
+      "lon": "69.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1303",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "زُرمت",
+      "en": "Zurmat",
+      "slug": "zurmat-af1303"
+    },
+    "code": {
+      "id": "AF1303",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF13",
+        "level": 1,
+        "name": {
+          "local": "پکتیا",
+          "en": "Paktya",
+          "slug": "paktya-af13"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "225101"
+    ],
+    "geo": {
+      "lat": "33.424",
+      "lon": "69.042"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

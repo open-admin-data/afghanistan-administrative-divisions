@@ -1,0 +1,47 @@
+{
+  "id": "AF2808",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "فیض آباد",
+    "en": "Fayzabad",
+    "slug": "fayzabad-af2808"
+  },
+  "code": {
+    "id": "AF2808",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF28",
+    "level": 1,
+    "name": {
+      "local": "جوزجان",
+      "en": "Jawzjan",
+      "slug": "jawzjan-af28"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF28",
+      "level": 1,
+      "name": {
+        "local": "جوزجان",
+        "en": "Jawzjan",
+        "slug": "jawzjan-af28"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "195501"
+  ],
+  "geo": {
+    "lat": "36.705",
+    "lon": "66.33"
+  },
+  "metadata": {},
+  "source": {}
+}

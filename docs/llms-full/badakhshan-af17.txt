@@ -1,0 +1,149 @@
+# Badakhshan — Afghanistan Administrative Divisions
+
+> 28 districts
+> Code: AF17
+> Coordinates: 37.038, 71.456
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### ارغنچخواه (Arghanj Khwah)
+
+Code: AF1703, Coordinates: 37.266, 70.821
+
+
+### ارگو (Argo)
+
+Code: AF1702, Coordinates: 37.063, 70.425
+
+
+### بهارک (Baharak)
+
+Code: AF1706, Coordinates: 37.029, 70.901
+
+
+### درایم (Darayem)
+
+Code: AF1707, Coordinates: 36.872, 70.466
+
+
+### دروازبالا ( نیسی) (Darwaz-e-Balla)
+
+Code: AF1727, Coordinates: 38.129, 71.155
+
+
+### درواز پائین (ما می ) (Darwaz-e-Payin)
+
+Code: AF1722, Coordinates: 38.228, 70.911
+
+
+### اشکاشم (Eshkashem)
+
+Code: AF1723, Coordinates: 36.853, 71.462
+
+
+### فیض آباد (Fayzabad)
+
+Code: AF1701, Coordinates: 37.216, 70.613
+
+
+### جرم (Jorm)
+
+Code: AF1710, Coordinates: 36.74, 70.906
+
+
+### کشم (Keshem)
+
+Code: AF1715, Coordinates: 36.772, 70.133
+
+
+### خاش (Khash)
+
+Code: AF1705, Coordinates: 36.94, 70.726
+
+
+### خواهان (Khwahan)
+
+Code: AF1720, Coordinates: 37.837, 70.394
+
+
+### کوف آب (Kofab)
+
+Code: AF1721, Coordinates: 37.943, 70.691
+
+
+### کوهستان (Kohistan)
+
+Code: AF1708, Coordinates: 37.421, 70.656
+
+
+### کران ومنجان (Koran Wa Monjan)
+
+Code: AF1726, Coordinates: 35.93, 70.768
+
+
+### راغستان (Raghestan)
+
+Code: AF1714, Coordinates: 37.661, 70.673
+
+
+### شهر بزرگ (Shahr-e-Buzorg)
+
+Code: AF1713, Coordinates: 37.341, 70.135
+
+
+### شکی (Shaki)
+
+Code: AF1724, Coordinates: 38.207, 70.652
+
+
+### شغنان (Shighnan)
+
+Code: AF1719, Coordinates: 37.601, 71.244
+
+
+### شهدا (Shuhada)
+
+Code: AF1712, Coordinates: 37.104, 71.164
+
+
+### تگاب (Tagab)
+
+Code: AF1717, Coordinates: 36.483, 70.35
+
+
+### تشکان (Teshkan)
+
+Code: AF1711, Coordinates: 36.77, 70.396
+
+
+### واخان (Wakhan)
+
+Code: AF1728, Coordinates: 37.057, 73.35
+
+
+### وردوج (Warduj)
+
+Code: AF1716, Coordinates: 36.757, 71.182
+
+
+### یفتل سفلی (Yaftal-e-Sufla)
+
+Code: AF1704, Coordinates: 37.312, 70.371
+
+
+### یمگان (Yamgan)
+
+Code: AF1718, Coordinates: 36.437, 70.791
+
+
+### یاوان (Yawan)
+
+Code: AF1709, Coordinates: 37.528, 70.38
+
+
+### زیباک (Zebak)
+
+Code: AF1725, Coordinates: 36.427, 71.342
+
+

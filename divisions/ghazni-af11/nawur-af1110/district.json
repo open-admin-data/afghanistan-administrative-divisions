@@ -1,0 +1,47 @@
+{
+  "id": "AF1110",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ناور",
+    "en": "Nawur",
+    "slug": "nawur-af1110"
+  },
+  "code": {
+    "id": "AF1110",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236501"
+  ],
+  "geo": {
+    "lat": "33.846",
+    "lon": "67.741"
+  },
+  "metadata": {},
+  "source": {}
+}

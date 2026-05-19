@@ -1,0 +1,47 @@
+{
+  "id": "AF3215",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "فرسی",
+    "en": "Farsi",
+    "slug": "farsi-af3215"
+  },
+  "code": {
+    "id": "AF3215",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306001"
+  ],
+  "geo": {
+    "lat": "33.843",
+    "lon": "63.284"
+  },
+  "metadata": {},
+  "source": {}
+}

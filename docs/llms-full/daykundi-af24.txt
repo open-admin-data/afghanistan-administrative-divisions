@@ -1,0 +1,54 @@
+# Daykundi — Afghanistan Administrative Divisions
+
+> 9 districts
+> Code: AF24
+> Coordinates: 33.706, 66.22
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### اشترلی (Ashtarlay)
+
+Code: AF2403, Coordinates: 34.061, 66.312
+
+
+### کجران (Kajran)
+
+Code: AF2408, Coordinates: 33.165, 65.684
+
+
+### خدیر (Khadir)
+
+Code: AF2404, Coordinates: 33.892, 65.763
+
+
+### کیتی (Kiti)
+
+Code: AF2405, Coordinates: 33.523, 65.766
+
+
+### میرامور (Miramor)
+
+Code: AF2406, Coordinates: 33.819, 66.952
+
+
+### نیلی (Nili)
+
+Code: AF2401, Coordinates: 33.767, 66.071
+
+
+### پاتو (Patoo)
+
+Code: AF2409, Coordinates: 33.404, 66.279
+
+
+### سنگ تخت (Sang-e-Takht)
+
+Code: AF2407, Coordinates: 34.196, 65.923
+
+
+### شهرستان (Shahrestan)
+
+Code: AF2402, Coordinates: 33.697, 66.484
+
+

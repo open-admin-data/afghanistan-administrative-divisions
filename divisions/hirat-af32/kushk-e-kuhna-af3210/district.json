@@ -1,0 +1,47 @@
+{
+  "id": "AF3210",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کُشک کهنه",
+    "en": "Kushk-e-Kuhna",
+    "slug": "kushk-e-kuhna-af3210"
+  },
+  "code": {
+    "id": "AF3210",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305501"
+  ],
+  "geo": {
+    "lat": "34.886",
+    "lon": "62.629"
+  },
+  "metadata": {},
+  "source": {}
+}

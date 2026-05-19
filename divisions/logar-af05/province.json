@@ -1,0 +1,29 @@
+{
+  "id": "AF05",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "لوگر",
+    "en": "Logar",
+    "slug": "logar-af05"
+  },
+  "code": {
+    "id": "AF05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "34.013",
+    "lon": "69.168"
+  },
+  "metadata": {},
+  "source": {}
+}

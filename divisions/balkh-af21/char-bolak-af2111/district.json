@@ -1,0 +1,47 @@
+{
+  "id": "AF2111",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چار بولک",
+    "en": "Char Bolak",
+    "slug": "char-bolak-af2111"
+  },
+  "code": {
+    "id": "AF2111",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "176101"
+  ],
+  "geo": {
+    "lat": "36.833",
+    "lon": "66.639"
+  },
+  "metadata": {},
+  "source": {}
+}

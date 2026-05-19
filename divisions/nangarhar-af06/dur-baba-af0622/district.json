@@ -1,0 +1,47 @@
+{
+  "id": "AF0622",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دُر بابا",
+    "en": "Dur Baba",
+    "slug": "dur-baba-af0622"
+  },
+  "code": {
+    "id": "AF0622",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "266601"
+  ],
+  "geo": {
+    "lat": "34.098",
+    "lon": "70.963"
+  },
+  "metadata": {},
+  "source": {}
+}

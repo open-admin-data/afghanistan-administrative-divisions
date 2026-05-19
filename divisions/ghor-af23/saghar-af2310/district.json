@@ -1,0 +1,47 @@
+{
+  "id": "AF2310",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ساغر",
+    "en": "Saghar",
+    "slug": "saghar-af2310"
+  },
+  "code": {
+    "id": "AF2310",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325101"
+  ],
+  "geo": {
+    "lat": "33.581",
+    "lon": "63.674"
+  },
+  "metadata": {},
+  "source": {}
+}

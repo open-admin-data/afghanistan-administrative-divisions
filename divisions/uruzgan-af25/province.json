@@ -1,0 +1,29 @@
+{
+  "id": "AF25",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ارزگان",
+    "en": "Uruzgan",
+    "slug": "uruzgan-af25"
+  },
+  "code": {
+    "id": "AF25",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "32.854",
+    "lon": "66.059"
+  },
+  "metadata": {},
+  "source": {}
+}

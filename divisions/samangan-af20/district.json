@@ -1,0 +1,378 @@
+[
+  {
+    "id": "AF2001",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ایبک",
+      "en": "Aybak",
+      "slug": "aybak-af2001"
+    },
+    "code": {
+      "id": "AF2001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205501"
+    ],
+    "geo": {
+      "lat": "36.207",
+      "lon": "67.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2007",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "درۀ صوف بالا",
+      "en": "Dara-e-Suf-e-Bala",
+      "slug": "dara-e-suf-e-bala-af2007"
+    },
+    "code": {
+      "id": "AF2007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205201"
+    ],
+    "geo": {
+      "lat": "35.681",
+      "lon": "67.282"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2006",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "درۀ صوف پائین",
+      "en": "Dara-e-Suf-e-Payin",
+      "slug": "dara-e-suf-e-payin-af2006"
+    },
+    "code": {
+      "id": "AF2006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205301"
+    ],
+    "geo": {
+      "lat": "36.025",
+      "lon": "67.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2004",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "فیروز نخچیر",
+      "en": "Feroz Nakhchir",
+      "slug": "feroz-nakhchir-af2004"
+    },
+    "code": {
+      "id": "AF2004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205401"
+    ],
+    "geo": {
+      "lat": "36.456",
+      "lon": "67.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2002",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "حضرت سلطان",
+      "en": "Hazrat-e-Sultan",
+      "slug": "hazrat-e-sultan-af2002"
+    },
+    "code": {
+      "id": "AF2002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205501"
+    ],
+    "geo": {
+      "lat": "36.383",
+      "lon": "67.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2008",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خلم",
+      "en": "Khulm",
+      "slug": "khulm-af2008"
+    },
+    "code": {
+      "id": "AF2008",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205701"
+    ],
+    "geo": {
+      "lat": "36.815",
+      "lon": "67.743"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2003",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "خرم وسارباغ",
+      "en": "Khuram Wa Sarbagh",
+      "slug": "khuram-wa-sarbagh-af2003"
+    },
+    "code": {
+      "id": "AF2003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205601"
+    ],
+    "geo": {
+      "lat": "35.987",
+      "lon": "68.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF2005",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "روی دو آب",
+      "en": "Ruy-e-Duab",
+      "slug": "ruy-e-duab-af2005"
+    },
+    "code": {
+      "id": "AF2005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF20",
+        "level": 1,
+        "name": {
+          "local": "سمنگان",
+          "en": "Samangan",
+          "slug": "samangan-af20"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "205101"
+    ],
+    "geo": {
+      "lat": "35.635",
+      "lon": "67.817"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

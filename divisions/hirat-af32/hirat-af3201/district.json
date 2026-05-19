@@ -1,0 +1,47 @@
+{
+  "id": "AF3201",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "هرات",
+    "en": "Hirat",
+    "slug": "hirat-af3201"
+  },
+  "code": {
+    "id": "AF3201",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306101"
+  ],
+  "geo": {
+    "lat": "34.372",
+    "lon": "62.183"
+  },
+  "metadata": {},
+  "source": {}
+}

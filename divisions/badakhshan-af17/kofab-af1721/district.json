@@ -1,0 +1,47 @@
+{
+  "id": "AF1721",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوف آب",
+    "en": "Kofab",
+    "slug": "kofab-af1721"
+  },
+  "code": {
+    "id": "AF1721",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346301"
+  ],
+  "geo": {
+    "lat": "37.943",
+    "lon": "70.691"
+  },
+  "metadata": {},
+  "source": {}
+}

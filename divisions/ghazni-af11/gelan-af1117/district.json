@@ -1,0 +1,47 @@
+{
+  "id": "AF1117",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گیلان",
+    "en": "Gelan",
+    "slug": "gelan-af1117"
+  },
+  "code": {
+    "id": "AF1117",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235201"
+  ],
+  "geo": {
+    "lat": "32.713",
+    "lon": "67.655"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF3311",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "پُرچمن",
+    "en": "Pur Chaman",
+    "slug": "pur-chaman-af3311"
+  },
+  "code": {
+    "id": "AF3311",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "316001"
+  ],
+  "geo": {
+    "lat": "33.137",
+    "lon": "63.865"
+  },
+  "metadata": {},
+  "source": {}
+}

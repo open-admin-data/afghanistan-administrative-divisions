@@ -1,0 +1,47 @@
+{
+  "id": "AF3004",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "نهر سراج",
+    "en": "Nahr-e-Saraj",
+    "slug": "nahr-e-saraj-af3004"
+  },
+  "code": {
+    "id": "AF3004",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF30",
+    "level": 1,
+    "name": {
+      "local": "هلمند",
+      "en": "Hilmand",
+      "slug": "hilmand-af30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF30",
+      "level": 1,
+      "name": {
+        "local": "هلمند",
+        "en": "Hilmand",
+        "slug": "hilmand-af30"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "395501"
+  ],
+  "geo": {
+    "lat": "31.867",
+    "lon": "64.576"
+  },
+  "metadata": {},
+  "source": {}
+}

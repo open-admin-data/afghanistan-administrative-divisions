@@ -1,0 +1,47 @@
+{
+  "id": "AF0610",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ده بالا",
+    "en": "Deh Bala",
+    "slug": "deh-bala-af0610"
+  },
+  "code": {
+    "id": "AF0610",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF06",
+    "level": 1,
+    "name": {
+      "local": "ننگرهار",
+      "en": "Nangarhar",
+      "slug": "nangarhar-af06"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF06",
+      "level": 1,
+      "name": {
+        "local": "ننگرهار",
+        "en": "Nangarhar",
+        "slug": "nangarhar-af06"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "266201"
+  ],
+  "geo": {
+    "lat": "34.088",
+    "lon": "70.444"
+  },
+  "metadata": {},
+  "source": {}
+}

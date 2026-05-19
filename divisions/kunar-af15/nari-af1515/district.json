@@ -1,0 +1,47 @@
+{
+  "id": "AF1515",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "ناړی",
+    "en": "Nari",
+    "slug": "nari-af1515"
+  },
+  "code": {
+    "id": "AF1515",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "286501"
+  ],
+  "geo": {
+    "lat": "35.268",
+    "lon": "71.541"
+  },
+  "metadata": {},
+  "source": {}
+}

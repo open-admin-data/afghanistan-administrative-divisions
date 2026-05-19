@@ -1,0 +1,47 @@
+{
+  "id": "AF0308",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کوه صافی",
+    "en": "Koh-e-Safi",
+    "slug": "koh-e-safi-af0308"
+  },
+  "code": {
+    "id": "AF0308",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115901"
+  ],
+  "geo": {
+    "lat": "34.761",
+    "lon": "69.472"
+  },
+  "metadata": {},
+  "source": {}
+}

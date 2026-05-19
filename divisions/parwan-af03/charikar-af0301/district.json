@@ -1,0 +1,47 @@
+{
+  "id": "AF0301",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چاریکار",
+    "en": "Charikar",
+    "slug": "charikar-af0301"
+  },
+  "code": {
+    "id": "AF0301",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF03",
+    "level": 1,
+    "name": {
+      "local": "پروان",
+      "en": "Parwan",
+      "slug": "parwan-af03"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF03",
+      "level": 1,
+      "name": {
+        "local": "پروان",
+        "en": "Parwan",
+        "slug": "parwan-af03"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "115601"
+  ],
+  "geo": {
+    "lat": "34.988",
+    "lon": "69.142"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF2711",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "سپین بولدک",
+    "en": "Spin Boldak",
+    "slug": "spin-boldak-af2711"
+  },
+  "code": {
+    "id": "AF2711",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "385301"
+  ],
+  "geo": {
+    "lat": "30.987",
+    "lon": "66.169"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF3214",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شیندند",
+    "en": "Shindand",
+    "slug": "shindand-af3214"
+  },
+  "code": {
+    "id": "AF3214",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "306801"
+  ],
+  "geo": {
+    "lat": "33.254",
+    "lon": "62.381"
+  },
+  "metadata": {},
+  "source": {}
+}

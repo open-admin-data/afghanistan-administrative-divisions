@@ -1,0 +1,47 @@
+{
+  "id": "AF0408",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جغتو",
+    "en": "Jaghatu",
+    "slug": "jaghatu-af0408"
+  },
+  "code": {
+    "id": "AF0408",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135701"
+  ],
+  "geo": {
+    "lat": "33.837",
+    "lon": "68.356"
+  },
+  "metadata": {},
+  "source": {}
+}

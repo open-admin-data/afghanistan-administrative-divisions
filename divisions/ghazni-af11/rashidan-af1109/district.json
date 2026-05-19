@@ -1,0 +1,47 @@
+{
+  "id": "AF1109",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "رشیدان",
+    "en": "Rashidan",
+    "slug": "rashidan-af1109"
+  },
+  "code": {
+    "id": "AF1109",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "236401"
+  ],
+  "geo": {
+    "lat": "33.698",
+    "lon": "68.148"
+  },
+  "metadata": {},
+  "source": {}
+}

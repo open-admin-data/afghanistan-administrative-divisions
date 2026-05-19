@@ -1,0 +1,47 @@
+{
+  "id": "AF3405",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خاش رود",
+    "en": "Khashrod",
+    "slug": "khashrod-af3405"
+  },
+  "code": {
+    "id": "AF3405",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF34",
+    "level": 1,
+    "name": {
+      "local": "نیمروز",
+      "en": "Nimroz",
+      "slug": "nimroz-af34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF34",
+      "level": 1,
+      "name": {
+        "local": "نیمروز",
+        "en": "Nimroz",
+        "slug": "nimroz-af34"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "435201"
+  ],
+  "geo": {
+    "lat": "31.736",
+    "lon": "62.91"
+  },
+  "metadata": {},
+  "source": {}
+}

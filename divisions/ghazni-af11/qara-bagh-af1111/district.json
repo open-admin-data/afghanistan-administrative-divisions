@@ -1,0 +1,47 @@
+{
+  "id": "AF1111",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "قره باغ",
+    "en": "Qara Bagh",
+    "slug": "qara-bagh-af1111"
+  },
+  "code": {
+    "id": "AF1111",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF11",
+    "level": 1,
+    "name": {
+      "local": "غزنی",
+      "en": "Ghazni",
+      "slug": "ghazni-af11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF11",
+      "level": 1,
+      "name": {
+        "local": "غزنی",
+        "en": "Ghazni",
+        "slug": "ghazni-af11"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "235601"
+  ],
+  "geo": {
+    "lat": "33.221",
+    "lon": "67.987"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "AF0204",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "حصه اول کوهستان",
+    "en": "Hisa-e-Awal-e-Kohistan",
+    "slug": "hisa-e-awal-e-kohistan-af0204"
+  },
+  "code": {
+    "id": "AF0204",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF02",
+    "level": 1,
+    "name": {
+      "local": "کاپیسا",
+      "en": "Kapisa",
+      "slug": "kapisa-af02"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF02",
+      "level": 1,
+      "name": {
+        "local": "کاپیسا",
+        "en": "Kapisa",
+        "slug": "kapisa-af02"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "125301"
+  ],
+  "geo": {
+    "lat": "35.139",
+    "lon": "69.345"
+  },
+  "metadata": {},
+  "source": {}
+}

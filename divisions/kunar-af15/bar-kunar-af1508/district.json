@@ -1,0 +1,47 @@
+{
+  "id": "AF1508",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "برکنر",
+    "en": "Bar Kunar",
+    "slug": "bar-kunar-af1508"
+  },
+  "code": {
+    "id": "AF1508",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "285801"
+  ],
+  "geo": {
+    "lat": "35.072",
+    "lon": "71.378"
+  },
+  "metadata": {},
+  "source": {}
+}

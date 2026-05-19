@@ -1,0 +1,47 @@
+{
+  "id": "AF0902",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دهنۀ غوری",
+    "en": "Dahana-e-Ghori",
+    "slug": "dahana-e-ghori-af0902"
+  },
+  "code": {
+    "id": "AF0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "366301"
+  ],
+  "geo": {
+    "lat": "35.823",
+    "lon": "68.458"
+  },
+  "metadata": {},
+  "source": {}
+}

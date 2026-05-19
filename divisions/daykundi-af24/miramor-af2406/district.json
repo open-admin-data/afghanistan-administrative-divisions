@@ -1,0 +1,47 @@
+{
+  "id": "AF2406",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "میرامور",
+    "en": "Miramor",
+    "slug": "miramor-af2406"
+  },
+  "code": {
+    "id": "AF2406",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF24",
+    "level": 1,
+    "name": {
+      "local": "دایکندی",
+      "en": "Daykundi",
+      "slug": "daykundi-af24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF24",
+      "level": 1,
+      "name": {
+        "local": "دایکندی",
+        "en": "Daykundi",
+        "slug": "daykundi-af24"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "425401"
+  ],
+  "geo": {
+    "lat": "33.819",
+    "lon": "66.952"
+  },
+  "metadata": {},
+  "source": {}
+}

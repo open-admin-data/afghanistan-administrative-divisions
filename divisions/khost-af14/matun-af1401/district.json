@@ -1,0 +1,47 @@
+{
+  "id": "AF1401",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "خوست (متون)",
+    "en": "Matun",
+    "slug": "matun-af1401"
+  },
+  "code": {
+    "id": "AF1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255601"
+  ],
+  "geo": {
+    "lat": "33.34",
+    "lon": "70.004"
+  },
+  "metadata": {},
+  "source": {}
+}

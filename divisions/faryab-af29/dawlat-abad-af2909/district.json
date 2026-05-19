@@ -1,0 +1,47 @@
+{
+  "id": "AF2909",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دولت آباد",
+    "en": "Dawlat Abad",
+    "slug": "dawlat-abad-af2909"
+  },
+  "code": {
+    "id": "AF2909",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF29",
+    "level": 1,
+    "name": {
+      "local": "فاریاب",
+      "en": "Faryab",
+      "slug": "faryab-af29"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF29",
+      "level": 1,
+      "name": {
+        "local": "فاریاب",
+        "en": "Faryab",
+        "slug": "faryab-af29"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "185501"
+  ],
+  "geo": {
+    "lat": "36.536",
+    "lon": "65.056"
+  },
+  "metadata": {},
+  "source": {}
+}

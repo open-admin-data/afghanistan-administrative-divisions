@@ -1,0 +1,47 @@
+{
+  "id": "AF3404",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چاربرجک",
+    "en": "Char Burjak",
+    "slug": "char-burjak-af3404"
+  },
+  "code": {
+    "id": "AF3404",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF34",
+    "level": 1,
+    "name": {
+      "local": "نیمروز",
+      "en": "Nimroz",
+      "slug": "nimroz-af34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF34",
+      "level": 1,
+      "name": {
+        "local": "نیمروز",
+        "en": "Nimroz",
+        "slug": "nimroz-af34"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "435101"
+  ],
+  "geo": {
+    "lat": "30.165",
+    "lon": "62.08"
+  },
+  "metadata": {},
+  "source": {}
+}

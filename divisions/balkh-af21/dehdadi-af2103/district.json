@@ -1,0 +1,47 @@
+{
+  "id": "AF2103",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دهدادی",
+    "en": "Dehdadi",
+    "slug": "dehdadi-af2103"
+  },
+  "code": {
+    "id": "AF2103",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF21",
+    "level": 1,
+    "name": {
+      "local": "بلخ",
+      "en": "Balkh",
+      "slug": "balkh-af21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF21",
+      "level": 1,
+      "name": {
+        "local": "بلخ",
+        "en": "Balkh",
+        "slug": "balkh-af21"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "175901"
+  ],
+  "geo": {
+    "lat": "36.637",
+    "lon": "67.008"
+  },
+  "metadata": {},
+  "source": {}
+}

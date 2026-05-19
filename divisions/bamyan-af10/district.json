@@ -1,0 +1,331 @@
+[
+  {
+    "id": "AF1001",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "بامیان",
+      "en": "Bamyan",
+      "slug": "bamyan-af1001"
+    },
+    "code": {
+      "id": "AF1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165401"
+    ],
+    "geo": {
+      "lat": "34.795",
+      "lon": "67.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1004",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "کهمرد",
+      "en": "Kahmard",
+      "slug": "kahmard-af1004"
+    },
+    "code": {
+      "id": "AF1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165601"
+    ],
+    "geo": {
+      "lat": "35.357",
+      "lon": "67.776"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1006",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "پنجاب",
+      "en": "Panjab",
+      "slug": "panjab-af1006"
+    },
+    "code": {
+      "id": "AF1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165201"
+    ],
+    "geo": {
+      "lat": "34.423",
+      "lon": "66.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1003",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "سیغان",
+      "en": "Sayghan",
+      "slug": "sayghan-af1003"
+    },
+    "code": {
+      "id": "AF1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165401"
+    ],
+    "geo": {
+      "lat": "35.118",
+      "lon": "67.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1002",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "شیبر",
+      "en": "Shibar",
+      "slug": "shibar-af1002"
+    },
+    "code": {
+      "id": "AF1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165501"
+    ],
+    "geo": {
+      "lat": "34.922",
+      "lon": "68.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1007",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "ورث",
+      "en": "Waras",
+      "slug": "waras-af1007"
+    },
+    "code": {
+      "id": "AF1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165301"
+    ],
+    "geo": {
+      "lat": "34.15",
+      "lon": "66.977"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "AF1005",
+    "level": 2,
+    "level_name": {
+      "local": "ولسوالی",
+      "en": "District"
+    },
+    "name": {
+      "local": "یکاولنگ",
+      "en": "Yakawlang",
+      "slug": "yakawlang-af1005"
+    },
+    "code": {
+      "id": "AF1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "AF10",
+      "level": 1,
+      "name": {
+        "local": "بامیان",
+        "en": "Bamyan",
+        "slug": "bamyan-af10"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "AF10",
+        "level": 1,
+        "name": {
+          "local": "بامیان",
+          "en": "Bamyan",
+          "slug": "bamyan-af10"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "165101"
+    ],
+    "geo": {
+      "lat": "34.979",
+      "lon": "66.948"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

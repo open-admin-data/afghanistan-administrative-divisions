@@ -1,0 +1,47 @@
+{
+  "id": "AF1725",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "زیباک",
+    "en": "Zebak",
+    "slug": "zebak-af1725"
+  },
+  "code": {
+    "id": "AF1725",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "347401"
+  ],
+  "geo": {
+    "lat": "36.427",
+    "lon": "71.342"
+  },
+  "metadata": {},
+  "source": {}
+}

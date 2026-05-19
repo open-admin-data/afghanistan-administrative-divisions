@@ -1,0 +1,47 @@
+{
+  "id": "AF1407",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "صبری",
+    "en": "Sabari",
+    "slug": "sabari-af1407"
+  },
+  "code": {
+    "id": "AF1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF14",
+    "level": 1,
+    "name": {
+      "local": "خوست",
+      "en": "Khost",
+      "slug": "khost-af14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF14",
+      "level": 1,
+      "name": {
+        "local": "خوست",
+        "en": "Khost",
+        "slug": "khost-af14"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "255901"
+  ],
+  "geo": {
+    "lat": "33.543",
+    "lon": "69.912"
+  },
+  "metadata": {},
+  "source": {}
+}

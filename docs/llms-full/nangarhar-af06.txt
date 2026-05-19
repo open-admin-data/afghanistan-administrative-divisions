@@ -1,0 +1,119 @@
+# Nangarhar — Afghanistan Administrative Divisions
+
+> 22 districts
+> Code: AF06
+> Coordinates: 34.274, 70.476
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### اچین (Achin)
+
+Code: AF0615, Coordinates: 34.06, 70.665
+
+
+### بتی کوټ (Bati Kot)
+
+Code: AF0609, Coordinates: 34.289, 70.757
+
+
+### بهسود (Behsud)
+
+Code: AF0602, Coordinates: 34.443, 70.509
+
+
+### چپر هار (Chaparhar)
+
+Code: AF0604, Coordinates: 34.291, 70.373
+
+
+### دره نور (Dara-e-Nur)
+
+Code: AF0612, Coordinates: 34.707, 70.586
+
+
+### ده بالا (Deh Bala)
+
+Code: AF0610, Coordinates: 34.088, 70.444
+
+
+### دُر بابا (Dur Baba)
+
+Code: AF0622, Coordinates: 34.098, 70.963
+
+
+### گوشته (Goshta)
+
+Code: AF0614, Coordinates: 34.448, 70.867
+
+
+### حصارک (Hesarak)
+
+Code: AF0621, Coordinates: 34.279, 69.769
+
+
+### جلال آباد (Jalalabad)
+
+Code: AF0601, Coordinates: 34.422, 70.464
+
+
+### کامه (Kama)
+
+Code: AF0605, Coordinates: 34.443, 70.656
+
+
+### خوگیانی (Khogyani)
+
+Code: AF0608, Coordinates: 34.228, 70.118
+
+
+### کوټ (Kot)
+
+Code: AF0613, Coordinates: 34.153, 70.595
+
+
+### کوز کنر (Kuz Kunar)
+
+Code: AF0606, Coordinates: 34.559, 70.607
+
+
+### لعل پور (Lalpur)
+
+Code: AF0618, Coordinates: 34.333, 71.025
+
+
+### مهمند دره (Muhmand Dara)
+
+Code: AF0617, Coordinates: 34.211, 70.999
+
+
+### نازیان (Nazyan)
+
+Code: AF0620, Coordinates: 34.056, 70.826
+
+
+### پچیراگام (Pachir Wa Agam)
+
+Code: AF0611, Coordinates: 34.087, 70.281
+
+
+### رودات (Rodat)
+
+Code: AF0607, Coordinates: 34.273, 70.568
+
+
+### شیرزاد (Sherzad)
+
+Code: AF0619, Coordinates: 34.194, 69.98
+
+
+### شینوار (Shinwar)
+
+Code: AF0616, Coordinates: 34.206, 70.796
+
+
+### سرخ رود (Surkh Rod)
+
+Code: AF0603, Coordinates: 34.395, 70.277
+
+

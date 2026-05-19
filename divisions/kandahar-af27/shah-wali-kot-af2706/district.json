@@ -1,0 +1,47 @@
+{
+  "id": "AF2706",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "شاه ولی کوت",
+    "en": "Shah Wali Kot",
+    "slug": "shah-wali-kot-af2706"
+  },
+  "code": {
+    "id": "AF2706",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF27",
+    "level": 1,
+    "name": {
+      "local": "کندهار",
+      "en": "Kandahar",
+      "slug": "kandahar-af27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF27",
+      "level": 1,
+      "name": {
+        "local": "کندهار",
+        "en": "Kandahar",
+        "slug": "kandahar-af27"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "386801"
+  ],
+  "geo": {
+    "lat": "32.08",
+    "lon": "66.006"
+  },
+  "metadata": {},
+  "source": {}
+}

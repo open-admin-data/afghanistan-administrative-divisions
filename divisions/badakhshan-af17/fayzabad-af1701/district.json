@@ -1,0 +1,47 @@
+{
+  "id": "AF1701",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "فیض آباد",
+    "en": "Fayzabad",
+    "slug": "fayzabad-af1701"
+  },
+  "code": {
+    "id": "AF1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346001"
+  ],
+  "geo": {
+    "lat": "37.216",
+    "lon": "70.613"
+  },
+  "metadata": {},
+  "source": {}
+}

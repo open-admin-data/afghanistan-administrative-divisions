@@ -1,0 +1,47 @@
+{
+  "id": "AF0903",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دوشی",
+    "en": "Doshi",
+    "slug": "doshi-af0903"
+  },
+  "code": {
+    "id": "AF0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF09",
+    "level": 1,
+    "name": {
+      "local": "بغلان",
+      "en": "Baghlan",
+      "slug": "baghlan-af09"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF09",
+      "level": 1,
+      "name": {
+        "local": "بغلان",
+        "en": "Baghlan",
+        "slug": "baghlan-af09"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "365201"
+  ],
+  "geo": {
+    "lat": "35.621",
+    "lon": "68.666"
+  },
+  "metadata": {},
+  "source": {}
+}

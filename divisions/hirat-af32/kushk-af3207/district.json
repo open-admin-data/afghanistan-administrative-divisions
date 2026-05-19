@@ -1,0 +1,47 @@
+{
+  "id": "AF3207",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "کُشک",
+    "en": "Kushk",
+    "slug": "kushk-af3207"
+  },
+  "code": {
+    "id": "AF3207",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305401"
+  ],
+  "geo": {
+    "lat": "35.004",
+    "lon": "62.24"
+  },
+  "metadata": {},
+  "source": {}
+}

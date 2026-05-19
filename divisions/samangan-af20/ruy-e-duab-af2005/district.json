@@ -1,0 +1,47 @@
+{
+  "id": "AF2005",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "روی دو آب",
+    "en": "Ruy-e-Duab",
+    "slug": "ruy-e-duab-af2005"
+  },
+  "code": {
+    "id": "AF2005",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF20",
+    "level": 1,
+    "name": {
+      "local": "سمنگان",
+      "en": "Samangan",
+      "slug": "samangan-af20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF20",
+      "level": 1,
+      "name": {
+        "local": "سمنگان",
+        "en": "Samangan",
+        "slug": "samangan-af20"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "205101"
+  ],
+  "geo": {
+    "lat": "35.635",
+    "lon": "67.817"
+  },
+  "metadata": {},
+  "source": {}
+}

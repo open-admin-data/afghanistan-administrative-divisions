@@ -1,0 +1,47 @@
+{
+  "id": "AF0406",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دایمیرداد",
+    "en": "Daymirdad",
+    "slug": "daymirdad-af0406"
+  },
+  "code": {
+    "id": "AF0406",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF04",
+    "level": 1,
+    "name": {
+      "local": "میدان وردک",
+      "en": "Maidan Wardak",
+      "slug": "maidan-wardak-af04"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF04",
+      "level": 1,
+      "name": {
+        "local": "میدان وردک",
+        "en": "Maidan Wardak",
+        "slug": "maidan-wardak-af04"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "135801"
+  ],
+  "geo": {
+    "lat": "34.219",
+    "lon": "68.305"
+  },
+  "metadata": {},
+  "source": {}
+}

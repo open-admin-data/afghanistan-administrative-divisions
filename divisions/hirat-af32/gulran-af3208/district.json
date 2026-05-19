@@ -1,0 +1,47 @@
+{
+  "id": "AF3208",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "گلران",
+    "en": "Gulran",
+    "slug": "gulran-af3208"
+  },
+  "code": {
+    "id": "AF3208",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF32",
+    "level": 1,
+    "name": {
+      "local": "هرات",
+      "en": "Hirat",
+      "slug": "hirat-af32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF32",
+      "level": 1,
+      "name": {
+        "local": "هرات",
+        "en": "Hirat",
+        "slug": "hirat-af32"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "305301"
+  ],
+  "geo": {
+    "lat": "35.134",
+    "lon": "61.571"
+  },
+  "metadata": {},
+  "source": {}
+}

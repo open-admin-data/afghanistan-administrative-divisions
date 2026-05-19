@@ -1,0 +1,47 @@
+{
+  "id": "AF3309",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "لاش جوین",
+    "en": "Lash-e-Juwayn",
+    "slug": "lash-e-juwayn-af3309"
+  },
+  "code": {
+    "id": "AF3309",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF33",
+    "level": 1,
+    "name": {
+      "local": "فراه",
+      "en": "Farah",
+      "slug": "farah-af33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF33",
+      "level": 1,
+      "name": {
+        "local": "فراه",
+        "en": "Farah",
+        "slug": "farah-af33"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "315101"
+  ],
+  "geo": {
+    "lat": "31.72",
+    "lon": "61.33"
+  },
+  "metadata": {},
+  "source": {}
+}

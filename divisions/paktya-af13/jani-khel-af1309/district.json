@@ -1,0 +1,47 @@
+{
+  "id": "AF1309",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "جانی خیل",
+    "en": "Jani Khel",
+    "slug": "jani-khel-af1309"
+  },
+  "code": {
+    "id": "AF1309",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF13",
+    "level": 1,
+    "name": {
+      "local": "پکتیا",
+      "en": "Paktya",
+      "slug": "paktya-af13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF13",
+      "level": 1,
+      "name": {
+        "local": "پکتیا",
+        "en": "Paktya",
+        "slug": "paktya-af13"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "226001"
+  ],
+  "geo": {
+    "lat": "33.655",
+    "lon": "69.787"
+  },
+  "metadata": {},
+  "source": {}
+}

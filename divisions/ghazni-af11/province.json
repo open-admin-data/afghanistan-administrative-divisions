@@ -1,0 +1,29 @@
+{
+  "id": "AF11",
+  "level": 1,
+  "level_name": {
+    "local": "ولایت",
+    "en": "Province"
+  },
+  "name": {
+    "local": "غزنی",
+    "en": "Ghazni",
+    "slug": "ghazni-af11"
+  },
+  "code": {
+    "id": "AF11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "33.316",
+    "lon": "67.811"
+  },
+  "metadata": {},
+  "source": {}
+}

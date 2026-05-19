@@ -1,0 +1,47 @@
+{
+  "id": "AF1507",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "دره پیچ",
+    "en": "Dara-e-Pech",
+    "slug": "dara-e-pech-af1507"
+  },
+  "code": {
+    "id": "AF1507",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF15",
+    "level": 1,
+    "name": {
+      "local": "کنر ها",
+      "en": "Kunar",
+      "slug": "kunar-af15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF15",
+      "level": 1,
+      "name": {
+        "local": "کنر ها",
+        "en": "Kunar",
+        "slug": "kunar-af15"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "286301"
+  ],
+  "geo": {
+    "lat": "34.953",
+    "lon": "70.916"
+  },
+  "metadata": {},
+  "source": {}
+}

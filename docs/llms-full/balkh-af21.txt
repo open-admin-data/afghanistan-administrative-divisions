@@ -1,0 +1,84 @@
+# Balkh — Afghanistan Administrative Divisions
+
+> 15 districts
+> Code: AF21
+> Coordinates: 36.67, 67.078
+> Last updated: 2026-05-19. License: CC-BY-4.0.
+
+## Districts
+
+### بلخ (Balkh)
+
+Code: AF2106, Coordinates: 36.816, 66.89
+
+
+### چار بولک (Char Bolak)
+
+Code: AF2111, Coordinates: 36.833, 66.639
+
+
+### چار کنت (Charkent)
+
+Code: AF2104, Coordinates: 36.368, 67.24
+
+
+### چمتال (Chemtal)
+
+Code: AF2108, Coordinates: 36.518, 66.601
+
+
+### دولت آباد (Dawlat Abad)
+
+Code: AF2109, Coordinates: 37.064, 66.798
+
+
+### دهدادی (Dehdadi)
+
+Code: AF2103, Coordinates: 36.637, 67.008
+
+
+### کلدار (Kaldar)
+
+Code: AF2113, Coordinates: 37.127, 67.549
+
+
+### کشنده (Keshendeh)
+
+Code: AF2114, Coordinates: 36.005, 66.922
+
+
+### مارمُل (Marmul)
+
+Code: AF2105, Coordinates: 36.635, 67.335
+
+
+### مزار شریف (Mazar-e-Sharif)
+
+Code: AF2101, Coordinates: 36.71, 67.117
+
+
+### نهر شاهی (Nahr-e-Shahi)
+
+Code: AF2102, Coordinates: 36.841, 67.181
+
+
+### شهرک حیرتان (Sharak-e-Hayratan)
+
+Code: AF2116, Coordinates: 37.186, 67.359
+
+
+### شولگره (Sholgareh)
+
+Code: AF2107, Coordinates: 36.303, 66.865
+
+
+### شور تیپه (Shortepa)
+
+Code: AF2112, Coordinates: 37.257, 66.851
+
+
+### زاری (Zari)
+
+Code: AF2115, Coordinates: 35.847, 66.726
+
+

@@ -1,0 +1,47 @@
+{
+  "id": "AF1722",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "درواز پائین (ما می )",
+    "en": "Darwaz-e-Payin",
+    "slug": "darwaz-e-payin-af1722"
+  },
+  "code": {
+    "id": "AF1722",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF17",
+    "level": 1,
+    "name": {
+      "local": "بدخشان",
+      "en": "Badakhshan",
+      "slug": "badakhshan-af17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF17",
+      "level": 1,
+      "name": {
+        "local": "بدخشان",
+        "en": "Badakhshan",
+        "slug": "badakhshan-af17"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "346501"
+  ],
+  "geo": {
+    "lat": "38.228",
+    "lon": "70.911"
+  },
+  "metadata": {},
+  "source": {}
+}

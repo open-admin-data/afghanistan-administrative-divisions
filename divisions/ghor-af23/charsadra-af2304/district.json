@@ -1,0 +1,47 @@
+{
+  "id": "AF2304",
+  "level": 2,
+  "level_name": {
+    "local": "ولسوالی",
+    "en": "District"
+  },
+  "name": {
+    "local": "چار صد ره",
+    "en": "Charsadra",
+    "slug": "charsadra-af2304"
+  },
+  "code": {
+    "id": "AF2304",
+    "iso": null
+  },
+  "parent": {
+    "id": "AF23",
+    "level": 1,
+    "name": {
+      "local": "غور",
+      "en": "Ghor",
+      "slug": "ghor-af23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "AF23",
+      "level": 1,
+      "name": {
+        "local": "غور",
+        "en": "Ghor",
+        "slug": "ghor-af23"
+      }
+    }
+  ],
+  "children_count": {},
+  "zip_codes": [
+    "325701"
+  ],
+  "geo": {
+    "lat": "35.119",
+    "lon": "65.118"
+  },
+  "metadata": {},
+  "source": {}
+}
