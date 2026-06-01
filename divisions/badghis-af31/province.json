@@ -25,5 +25,9 @@
     "lon": "63.734"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/badghis-af31/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

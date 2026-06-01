@@ -25,5 +25,9 @@
     "lon": "70.476"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/nangarhar-af06/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

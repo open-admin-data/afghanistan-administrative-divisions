@@ -25,5 +25,9 @@
     "lon": "68.218"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/maidan-wardak-af04/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

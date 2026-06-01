@@ -25,5 +25,9 @@
     "lon": "64.929"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/ghor-af23/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

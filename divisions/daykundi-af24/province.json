@@ -25,5 +25,9 @@
     "lon": "66.22"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/daykundi-af24/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

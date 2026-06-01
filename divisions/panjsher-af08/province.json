@@ -25,5 +25,9 @@
     "lon": "69.795"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/panjsher-af08/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

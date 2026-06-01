@@ -25,5 +25,9 @@
     "lon": "67.702"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/samangan-af20/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

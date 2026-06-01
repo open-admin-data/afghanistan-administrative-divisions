@@ -25,5 +25,9 @@
     "lon": "68.886"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/parwan-af03/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

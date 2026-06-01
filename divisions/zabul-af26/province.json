@@ -25,5 +25,9 @@
     "lon": "67.148"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/zabul-af26/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

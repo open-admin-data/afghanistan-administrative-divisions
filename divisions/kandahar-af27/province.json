@@ -25,5 +25,9 @@
     "lon": "65.71"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/kandahar-af27/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

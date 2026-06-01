@@ -25,5 +25,9 @@
     "lon": "69.168"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/logar-af05/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

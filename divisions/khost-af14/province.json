@@ -25,5 +25,9 @@
     "lon": "69.834"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/khost-af14/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

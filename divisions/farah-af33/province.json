@@ -25,5 +25,9 @@
     "lon": "62.302"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/farah-af33/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

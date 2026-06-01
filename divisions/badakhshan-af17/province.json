@@ -25,5 +25,9 @@
     "lon": "71.456"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/badakhshan-af17/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

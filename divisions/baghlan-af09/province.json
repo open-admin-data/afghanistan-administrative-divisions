@@ -25,5 +25,9 @@
     "lon": "68.914"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/baghlan-af09/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

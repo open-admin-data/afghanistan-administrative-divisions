@@ -25,5 +25,9 @@
     "lon": "67.234"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/bamyan-af10/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

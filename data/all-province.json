@@ -26,7 +26,11 @@
       "lon": "71.456"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/badakhshan-af17/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF20",
@@ -55,7 +59,11 @@
       "lon": "67.702"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/samangan-af20/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF05",
@@ -84,7 +92,11 @@
       "lon": "69.168"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/logar-af05/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF12",
@@ -113,7 +125,11 @@
       "lon": "68.744"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/paktika-af12/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF22",
@@ -142,7 +158,11 @@
       "lon": "66.139"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/sar-e-pul-af22/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF13",
@@ -171,7 +191,11 @@
       "lon": "69.388"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/paktya-af13/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF16",
@@ -200,7 +224,11 @@
       "lon": "70.788"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/nuristan-af16/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF21",
@@ -229,7 +257,11 @@
       "lon": "67.078"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/balkh-af21/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF08",
@@ -258,7 +290,11 @@
       "lon": "69.795"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/panjsher-af08/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF28",
@@ -287,7 +323,11 @@
       "lon": "65.854"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/jawzjan-af28/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF27",
@@ -316,7 +356,11 @@
       "lon": "65.71"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/kandahar-af27/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF24",
@@ -345,7 +389,11 @@
       "lon": "66.22"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/daykundi-af24/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF25",
@@ -374,7 +422,11 @@
       "lon": "66.059"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/uruzgan-af25/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF23",
@@ -403,7 +455,11 @@
       "lon": "64.929"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/ghor-af23/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF33",
@@ -432,7 +488,11 @@
       "lon": "62.302"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/farah-af33/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF03",
@@ -461,7 +521,11 @@
       "lon": "68.886"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/parwan-af03/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF29",
@@ -490,7 +554,11 @@
       "lon": "64.869"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/faryab-af29/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF19",
@@ -519,7 +587,11 @@
       "lon": "68.746"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/kunduz-af19/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF14",
@@ -548,7 +620,11 @@
       "lon": "69.834"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/khost-af14/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF32",
@@ -577,7 +653,11 @@
       "lon": "62.131"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/hirat-af32/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF15",
@@ -606,7 +686,11 @@
       "lon": "71.094"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/kunar-af15/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF01",
@@ -635,7 +719,11 @@
       "lon": "69.335"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/kabul-af01/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF30",
@@ -664,7 +752,11 @@
       "lon": "64.047"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/hilmand-af30/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF11",
@@ -693,7 +785,11 @@
       "lon": "67.811"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/ghazni-af11/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF04",
@@ -722,7 +818,11 @@
       "lon": "68.218"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/maidan-wardak-af04/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF02",
@@ -751,7 +851,11 @@
       "lon": "69.623"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/kapisa-af02/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF06",
@@ -780,7 +884,11 @@
       "lon": "70.476"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/nangarhar-af06/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF26",
@@ -809,7 +917,11 @@
       "lon": "67.148"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/zabul-af26/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF18",
@@ -838,7 +950,11 @@
       "lon": "69.779"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/takhar-af18/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF34",
@@ -867,7 +983,11 @@
       "lon": "62.319"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/nimroz-af34/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF07",
@@ -896,7 +1016,11 @@
       "lon": "70.16"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/laghman-af07/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF09",
@@ -925,7 +1049,11 @@
       "lon": "68.914"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/baghlan-af09/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF31",
@@ -954,7 +1082,11 @@
       "lon": "63.734"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/badghis-af31/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   },
   {
     "id": "AF10",
@@ -983,6 +1115,10 @@
       "lon": "67.234"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/af/provinces/bamyan-af10/",
+      "api": "https://openadmindata.org/api/af/"
+    }
   }
 ]

@@ -25,5 +25,9 @@
     "lon": "66.139"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/sar-e-pul-af22/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

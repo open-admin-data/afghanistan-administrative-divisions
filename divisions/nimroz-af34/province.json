@@ -25,5 +25,9 @@
     "lon": "62.319"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/nimroz-af34/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

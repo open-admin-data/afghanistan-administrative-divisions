@@ -25,5 +25,9 @@
     "lon": "69.623"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/kapisa-af02/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

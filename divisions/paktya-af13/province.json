@@ -25,5 +25,9 @@
     "lon": "69.388"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/paktya-af13/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

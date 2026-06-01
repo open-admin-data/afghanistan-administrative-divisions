@@ -25,5 +25,9 @@
     "lon": "68.744"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/paktika-af12/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

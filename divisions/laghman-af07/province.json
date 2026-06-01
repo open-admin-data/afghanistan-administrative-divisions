@@ -25,5 +25,9 @@
     "lon": "70.16"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/laghman-af07/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

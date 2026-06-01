@@ -25,5 +25,9 @@
     "lon": "64.047"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/hilmand-af30/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

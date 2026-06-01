@@ -25,5 +25,9 @@
     "lon": "67.078"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/balkh-af21/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

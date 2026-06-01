@@ -25,5 +25,9 @@
     "lon": "69.335"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/kabul-af01/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

@@ -25,5 +25,9 @@
     "lon": "70.788"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/nuristan-af16/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

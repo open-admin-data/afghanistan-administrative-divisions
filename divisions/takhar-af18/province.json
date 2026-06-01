@@ -25,5 +25,9 @@
     "lon": "69.779"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/takhar-af18/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }

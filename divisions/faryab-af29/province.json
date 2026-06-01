@@ -25,5 +25,9 @@
     "lon": "64.869"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/af/provinces/faryab-af29/",
+    "api": "https://openadmindata.org/api/af/"
+  }
 }
