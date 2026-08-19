@@ -3,7 +3,7 @@
 > 19 districts
 > Code: AF12
 > Coordinates: 32.477, 68.744
-> Last updated: 2026-06-01. License: CC-BY-4.0.
+> Last updated: 2026-08-19. License: CC-BY-4.0.
 
 ## Districts
 

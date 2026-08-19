@@ -9,7 +9,7 @@
 - Total provinces: 34
 - Total districts: 401
 - Coordinates: included (all levels)
-- Last updated: 2026-06-01
+- Last updated: 2026-08-19
 - License: CC-BY-4.0
 
 ## Aggregate Data Files
