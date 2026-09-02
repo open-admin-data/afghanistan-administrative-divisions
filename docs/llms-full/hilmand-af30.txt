@@ -3,7 +3,7 @@
 > 13 districts
 > Code: AF30
 > Coordinates: 31.154, 64.047
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Districts
 
